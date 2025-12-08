@@ -1,0 +1,525 @@
+<screens>
+  <background src="VirtualGalleryTest.swf">
+    <menu>
+      <item item_label="Welcome" item_url="1" item_url_target="_self" thumbnail="1.jpg"/>
+      <item item_label="Your Induction" item_url="2" item_url_target="_self" thumbnail="1.jpg"/>
+      <item item_label="Introduction" item_url="3" item_url_target="_self" thumbnail="1.jpg"/>
+      <item item_label="Company Introduction" item_url="4" item_url_target="_self" thumbnail="1.jpg"/>
+      <item item_label="Our Locations" item_url="5" item_url_target="_self" thumbnail="1.jpg"/>
+      <item item_label="Company History" item_url="6" item_url_target="_self" thumbnail="1.jpg"/>
+      <item item_label="Organisation Structure" item_url="7" item_url_target="_self" thumbnail="1.jpg"/>
+      <item item_label="Performance" item_url="8" item_url_target="_self" thumbnail="1.jpg"/>
+      <item item_label="What we do today" item_url="9" item_url_target="_self" thumbnail="1.jpg"/>
+      <item item_label="Test Introduction" item_url="10" item_url_target="_self" thumbnail="1.jpg"/>
+      <item item_label="Quiz" item_url="11" item_url_target="_self" thumbnail="1.jpg"/>
+      <item item_label="And there's more ..." item_url="12" item_url_target="_self" thumbnail="1.jpg"/>
+      <item item_label="About the Course" item_url="13" item_url_target="_self" thumbnail="1.jpg"/>
+      <item item_label="Well done" item_url="14" item_url_target="_self" thumbnail="1.jpg"/>
+    </menu>
+  </background>
+  <screen>
+    <screen_id x="240" y="190">1</screen_id>
+    <Template>4</Template>
+    <Section>Welcome</Section>
+    <Content x="-30" y="-120" width="760" height="380" hasBackground="false" bgColor="#FFFFFF">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#0066CC" LETTERSPACING="0" KERNING="0"&gt;Welcome&lt;FONT SIZE="10" COLOR="#000000"&gt; &lt;FONT COLOR="#0066CC"&gt;&lt;/FONT&gt;&lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="10" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;Hello and welcome to your induction.&lt;FONT SIZE="10"&gt; &lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="10" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;Read the following message and then press the green button below to continue...&lt;FONT SIZE="10"&gt; &lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="10" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000066" LETTERSPACING="0" KERNING="0"&gt;Replace this content by editing the Content tag.&lt;FONT SIZE="10"&gt; &lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="10" COLOR="#000066" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000066" LETTERSPACING="0" KERNING="0"&gt;Look at the instruction information below the screen preview for more information about customising this highly flexible e-Start template.&lt;/FONT&gt;&lt;/P&gt;</Content>
+    <Narrator x="-150" y="280" start="0" stop="300">video/estart_1.flv</Narrator>
+    <Flash x="" y="" width="" height="" targetId="" text="" textColor="#000000">swf/NES_1.swf</Flash>
+    <Image x="50" y="0" width="250" height="250" targetId="" text="" textColor="#000000"/>
+    <video x="80" y="245" width="240" height="167" autostart="false"/>
+    <Background>images/corporate_room_carpark.jpg</Background>
+    <information><![CDATA[]]></information>
+  </screen>
+  <screen>
+    <screen_id x="200" y="210">101</screen_id>
+    <Template>4</Template>
+    <Content x="-30" y="-120" width="760" height="380" hasBackground="false" bgColor="#FFFFFF">&lt;P ALIGN="LEFT"&gt;&lt;FONT FACE="Arial" SIZE="24" COLOR="#000066" LETTERSPACING="0" KERNING="0"&gt;&lt;I&gt;Replace this content by editing the Content tag.&lt;/I&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT FACE="Arial" SIZE="24" COLOR="#000066" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT FACE="Arial" SIZE="24" COLOR="#000066" LETTERSPACING="0" KERNING="0"&gt;&lt;I&gt;Look at the instruction information below the screen preview for more information about customising this highly flexible e-Start template.&lt;/I&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT FACE="Arial" SIZE="24" COLOR="#000066" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT FACE="Arial" SIZE="24" COLOR="#000066" LETTERSPACING="0" KERNING="0"&gt;&lt;I&gt;Did you know you can remove and add further steps by highlighting a sub-screen tab in the &amp;quot;Edit XML&amp;quot; section to the right of the screen and pressing the Cut, Copy and Paste buttons in the bottom right hand corner of the screen?&lt;/I&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT FACE="Arial" SIZE="24" COLOR="#000066" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;</Content>
+    <Narrator x="-20" y="260" start="164" stop="118"/>
+    <Image x="" y="" width="" height=""/>
+    <video x="80" y="245" width="240" height="167" autostart="false"/>
+  </screen>
+  <screen>
+    <screen_id x="200" y="210">102</screen_id>
+    <Template>4</Template>
+    <Content x="-30" y="-120" width="760" height="380" hasBackground="false" bgColor="#FFFFFF">&lt;P ALIGN="LEFT"&gt;&lt;FONT FACE="Arial" SIZE="24" COLOR="#000066" LETTERSPACING="0" KERNING="0"&gt;&lt;I&gt;Replace this content by editing the Content tag.&lt;/I&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT FACE="Arial" SIZE="24" COLOR="#000066" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT FACE="Arial" SIZE="24" COLOR="#000066" LETTERSPACING="0" KERNING="0"&gt;&lt;I&gt;Look at the instruction information below the screen preview for more information about customising this highly flexible e-Start template.&lt;/I&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT FACE="Arial" SIZE="24" COLOR="#000066" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT FACE="Arial" SIZE="24" COLOR="#000066" LETTERSPACING="0" KERNING="0"&gt;&lt;I&gt;Did you know you can remove and add further steps by highlighting a sub-screen tab in the &amp;quot;Edit XML&amp;quot; section to the right of the screen and pressing the Cut, Copy and Paste buttons in the bottom right hand corner of the screen?&lt;/I&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT FACE="Arial" SIZE="24" COLOR="#000066" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;</Content>
+    <Narrator x="-20" y="260" start="164" stop="118"/>
+    <Image x="" y="" width="" height=""/>
+    <video x="80" y="245" width="240" height="167" autostart="false"/>
+  </screen>
+  <screen>
+    <screen_id x="60" y="230">2</screen_id>
+    <Template>4</Template>
+    <Section>Your Induction</Section>
+    <Content x="500" y="-150" width="470" height="468" hasBackground="true" bgColor="#FFFFFF">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#0066CC" LETTERSPACING="0" KERNING="0"&gt;An Introduction to the Induction&lt;FONT SIZE="10"&gt; &lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="10" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;The following information is about the induction process.  Examine this carefully before pressing the green next button.&lt;FONT SIZE="10"&gt; &lt;FONT COLOR="#000066"&gt;&lt;/FONT&gt;&lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="10" COLOR="#000066" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000066" LETTERSPACING="0" KERNING="0"&gt;Replace this content by expanding the first &amp;quot;screen&amp;quot; tag and then expand and edit the Content tag. Press the Reload button above this preview to see the changes.&lt;FONT SIZE="10"&gt;  &lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="10" COLOR="#000066" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000066" LETTERSPACING="0" KERNING="0"&gt;Click on the Help button for more information about customising this highly flexible e-Start template.&lt;FONT SIZE="10"&gt; &lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="10" COLOR="#0066CC" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#0066CC" LETTERSPACING="0" KERNING="0"&gt;Press the green button at the bottom of the screen to continue… &lt;/FONT&gt;&lt;/P&gt;</Content>
+    <Narrator x="0" y="210" start="0" stop="400">video/estart_2.flv</Narrator>
+    <Flash x="" y="" width="" height="" targetId="" text="" textColor="#000000">swf/NES_2.swf</Flash>
+    <Image x="50" y="0" width="250" height="250" targetId="" text="" textColor="#000000"/>
+    <video x="50" y="160" width="300" height="169" autostart="true">video/video_sample.flv</video>
+    <Background>images/4.jpg</Background>
+    <information><![CDATA[]]></information>
+  </screen>
+  <screen>
+    <screen_id x="60" y="230">201</screen_id>
+    <Template>4</Template>
+    <Content x="500" y="-150" width="470" height="440" hasBackground="true" bgColor="#FFFFFF">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000066" LETTERSPACING="0" KERNING="0"&gt;Replace this content by editing the Content tag.&lt;FONT SIZE="10"&gt; &lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="10" COLOR="#000066" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000066" LETTERSPACING="0" KERNING="0"&gt;Look at the instruction information below the screen preview for more information about customising this highly flexible e-Start template.&lt;FONT SIZE="10"&gt; &lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="10" COLOR="#000066" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000066" LETTERSPACING="0" KERNING="0"&gt;Did you know you can remove and add further steps by pressing the Cut, Copy and Paste buttons in the bottom right hand corner of the screen?&lt;/FONT&gt;&lt;/P&gt;</Content>
+    <Narrator x="-50" y="280" start="0" stop="400"/>
+    <Image x="" y="" width="" height="" targetId="" text="" textColor="#000000"/>
+    <video x="50" y="160" width="300" height="169" autostart="true">video/video_sample.flv</video>
+  </screen>
+  <screen>
+    <screen_id x="100" y="-20">3</screen_id>
+    <Template>7</Template>
+    <Section>Introduction</Section>
+    <Title x="-20" y="60" width="150" height="100" hasBackground="false" bgColor="#FFFFFF"/>
+    <Content x="-90" y="70" width="240" height="250" hasBackground="false" bgColor="#FFFFFF">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="28" COLOR="#0066CC" LETTERSPACING="0" KERNING="0"&gt;Introduction&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="22" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="22" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;We have put all the information you need to know in one place.&lt;/FONT&gt;&lt;/P&gt;</Content>
+    <Content_1 x="70" y="590" width="800" height="500" hasBackground="false" bgColor="#FFFFFF">&lt;P ALIGN="CENTER"&gt;&lt;FONT SIZE="22" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;Press the green button or turn the page with your mouse to see further information about our company.&lt;/FONT&gt;&lt;/P&gt;</Content_1>
+    <Narrator x="-120" y="250" start="0" stop="400">video/estart_3.flv</Narrator>
+    <Image x="" y="" width="" height="" targetId="" text="" textColor="#000000"/>
+    <video x="80" y="245" width="240" height="167" autostart="false"/>
+    <Background>images/background.jpg</Background>
+    <information><![CDATA[<A HREF="http://www.youtube.com/watch?v=gq3kaGQ2k1o" TARGET="_self"><U>Click here for this screen's instruction video</U></A>…</FONT></P>
+The content of the book can be edited in this template. The xml is split between the text outside the book, and the text and images inside the book.
+Main Screen: Title and Content change the text displayed to the left of the screen.
+Child Screens: Content tag defines the text and Image defines the background of each page.]]></information>
+  </screen>
+  <screen>
+    <screen_id x="-150" y="-150">301</screen_id>
+    <Template>7</Template>
+    <Section/>
+    <Title x="285" y="68" width="250" height="87" hasBackground="false" bgColor="#FFFFFF"/>
+    <Content x="285" y="100" width="250" height="380" hasBackground="false" bgColor="#FFFFFF"/>
+    <Image x="" y="" width="" height="">images/pages/book_front.jpg</Image>
+    <video x="80" y="245" width="240" height="167" autostart="false"/>
+    <Background/>
+    <Narrator x="" y="" start="" stop=""/>
+  </screen>
+  <screen>
+    <screen_id x="-150" y="-150">302</screen_id>
+    <Template>7</Template>
+    <Section/>
+    <Title x="285" y="68" width="250" height="87"/>
+    <Content x="285" y="100" width="250" height="380"/>
+    <Image>images/pages/book_page1.jpg</Image>
+    <video/>
+    <Background/>
+    <Narrator x="" y="" start="" stop=""/>
+  </screen>
+  <screen>
+    <screen_id x="-150" y="-150">303</screen_id>
+    <Template>7</Template>
+    <Section/>
+    <Title x="285" y="68" width="250" height="40" hasBackground="false" bgColor="#FFFFFF"/>
+    <Content x="285" y="100" width="250" height="380" hasBackground="false" bgColor="#FFFFFF">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="22" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;Add further pages to the book by copying this Screen tab and Pasting two copies (2 sides to each page) before the last Screen tab.  This will insert an extra page.  You can insert as many pages as you want to.&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="22" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="22" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;You do not need to format this text.&lt;FONT SIZE="16"&gt;&lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;</Content>
+    <Image x="" y="" width="" height="">images/pages/book_page2.jpg</Image>
+    <video x="80" y="245" width="240" height="167" autostart="false"/>
+    <Background/>
+    <Narrator x="" y="" start="" stop=""/>
+  </screen>
+  <screen>
+    <screen_id x="-150" y="-150">304</screen_id>
+    <Template>7</Template>
+    <Section/>
+    <Title x="285" y="68" width="250" height="87" hasBackground="false" bgColor="#FFFFFF"/>
+    <Content x="285" y="100" width="300" height="400" hasBackground="false" bgColor="#FFFFFF"/>
+    <Image x="" y="" width="" height="">images/pages/book_back.jpg</Image>
+    <video x="80" y="245" width="240" height="167" autostart="false"/>
+    <Background/>
+    <Narrator x="" y="" start="" stop=""/>
+  </screen>
+  <screen>
+    <screen_id x="0" y="60" keywords="Slideshow, Screen, Presentation">4</screen_id>
+    <Template>2</Template>
+    <Section>Company Introduction</Section>
+    <Content x="100" y="-20" width="800" height="380" hasBackground="false" bgColor="#FFFFFF">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#0066CC" LETTERSPACING="0" KERNING="0"&gt;Click on each image to see further information about the company.&lt;FONT SIZE="10"&gt; &lt;FONT COLOR="#669900"&gt; &lt;/FONT&gt;&lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="10" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;You will need to click on all the images before you can proceed.&lt;FONT SIZE="10"&gt; &lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;</Content>
+    <Background>images/4.jpg</Background>
+    <Image x="" y="" width="" height="" targetId="" text="" textColor="#000000"/>
+    <Narrator x="-100" y="330" start="0" stop="200">video/estart_4.flv</Narrator>
+    <information><![CDATA[]]></information>
+  </screen>
+  <screen>
+    <screen_id x="0" y="0">401</screen_id>
+    <Template>2</Template>
+    <Content x="20" y="30" width="300" height="450" hasBackground="false" bgColor="#FFFFFF">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#0066CC" LETTERSPACING="0" KERNING="0"&gt;Company Info #1&lt;FONT SIZE="10"&gt; &lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="10" COLOR="#0066FF" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000066" LETTERSPACING="0" KERNING="0"&gt;Replace this content by expanding the &amp;quot;screen&amp;quot; tag for the appropriate box and then expand and edit the Content tag. Press the Save button above this preview to see the changes.&lt;FONT SIZE="10"&gt; &lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="10" COLOR="#000066" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000066" LETTERSPACING="0" KERNING="0"&gt;You can also change the image by editing the appropriate Image tag.&lt;FONT COLOR="#0066FF"&gt;&lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;</Content>
+    <Image x="-1000" y="-1000" width="20" height="20">images/art/ES_1.jpg</Image>
+    <Narrator x="550" y="400" start="" stop=""/>
+  </screen>
+  <screen>
+    <screen_id x="0" y="0">402</screen_id>
+    <Template>2</Template>
+    <Content x="20" y="30" width="300" height="450" hasBackground="false" bgColor="#FFFFFF">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#0066CC" LETTERSPACING="0" KERNING="0"&gt;Company Info #2&lt;FONT SIZE="10"&gt; &lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="10" COLOR="#0066FF" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000066" LETTERSPACING="0" KERNING="0"&gt;Replace this content by expanding the &amp;quot;screen&amp;quot; tag for the appropriate box and then expand and edit the Content tag. Press the Save button above this preview to see the changes.&lt;FONT SIZE="10"&gt; &lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="10" COLOR="#000066" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000066" LETTERSPACING="0" KERNING="0"&gt;You can also change the image by editing the appropriate Image tag.&lt;/FONT&gt;&lt;/P&gt;</Content>
+    <Image x="-1000" y="-1000" width="20" height="20">images/art/ES_2.jpg</Image>
+    <Narrator x="550" y="400" start="" stop=""/>
+  </screen>
+  <screen>
+    <screen_id x="0" y="0">403</screen_id>
+    <Template>2</Template>
+    <Content x="20" y="30" width="300" height="450" hasBackground="false" bgColor="#FFFFFF">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#0066CC" LETTERSPACING="0" KERNING="0"&gt;Company Info #3&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="10" COLOR="#0066FF" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000066" LETTERSPACING="0" KERNING="0"&gt;Replace this content by expanding the &amp;quot;screen&amp;quot; tag for the appropriate box and then expand and edit the Content tag. Press the Save button above this preview to see the changes.&lt;FONT SIZE="10"&gt; &lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="10" COLOR="#000066" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000066" LETTERSPACING="0" KERNING="0"&gt;You can also change the image by editing the appropriate Image tag.&lt;/FONT&gt;&lt;/P&gt;</Content>
+    <Image x="-1000" y="-1000" width="20" height="20">images/art/ES_3.jpg</Image>
+    <Narrator x="550" y="400" start="" stop=""/>
+  </screen>
+  <screen>
+    <screen_id x="0" y="0">404</screen_id>
+    <Template>2</Template>
+    <Content x="20" y="30" width="300" height="450" hasBackground="false" bgColor="#FFFFFF">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#0066CC" LETTERSPACING="0" KERNING="0"&gt;Company Info #4&lt;FONT SIZE="10"&gt; &lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="10" COLOR="#0066FF" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000066" LETTERSPACING="0" KERNING="0"&gt;Replace this content by expanding the &amp;quot;screen&amp;quot; tag for the appropriate box and then expand and edit the Content tag. Press the Save button above this preview to see the changes.&lt;FONT SIZE="10"&gt; &lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="10" COLOR="#000066" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000066" LETTERSPACING="0" KERNING="0"&gt;You can also change the image by editing the appropriate Image tag.&lt;/FONT&gt;&lt;/P&gt;</Content>
+    <Image x="-1000" y="-1000" width="20" height="20">images/art/ES_4.jpg</Image>
+    <Narrator x="550" y="400" start="" stop=""/>
+  </screen>
+  <screen>
+    <screen_id x="60" y="200">5</screen_id>
+    <Template>4</Template>
+    <Section>Our Locations</Section>
+    <Content x="550" y="0" width="300" height="380" hasBackground="false" bgColor="#FFFFFF">&lt;P ALIGN="LEFT"&gt;&lt;FONT FACE="Arial" SIZE="24" COLOR="#0066CC" LETTERSPACING="0" KERNING="0"&gt;Where are we based...?&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT FACE="Arial" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT FACE="Arial" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;Our company is based in a number of locations.  &lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT FACE="Arial" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT FACE="Arial" SIZE="24" COLOR="#0066CC" LETTERSPACING="0" KERNING="0"&gt;Click on the green button for further information.&lt;/FONT&gt;&lt;/P&gt;</Content>
+    <Narrator x="0" y="230" start="0" stop="200">video/estart_5.flv</Narrator>
+    <Flash x="" y="" width="" height="" targetId="" text="" textColor="#000000">swf/NES_5.swf</Flash>
+    <Image x="50" y="0" width="250" height="250" targetId="" text="" textColor="#000000"/>
+    <video x="80" y="245" width="240" height="167" autostart="false"/>
+    <Background>images/4.jpg</Background>
+    <information><![CDATA[]]></information>
+  </screen>
+  <screen>
+    <screen_id x="60" y="150">501</screen_id>
+    <Template>4</Template>
+    <Content x="520" y="-50" width="400" height="400" hasBackground="false" bgColor="#FFFFFF">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#0066CC" LETTERSPACING="0" KERNING="0"&gt;Location A&lt;FONT SIZE="10"&gt; &lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="10" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000066" LETTERSPACING="0" KERNING="0"&gt;Replace this content by expanding the &amp;quot;screen&amp;quot; tag and then expand and edit the Content tag. Press the Save button above this preview to see the changes.&lt;/FONT&gt;&lt;/P&gt;</Content>
+    <Narrator x="100" y="400" start="0" stop="200"/>
+    <Image x="100" y="140" width="" height="">images/new York.jpg</Image>
+    <video x="80" y="245" width="240" height="167" autostart="false"/>
+  </screen>
+  <screen>
+    <screen_id x="60" y="150">502</screen_id>
+    <Template>4</Template>
+    <Content x="520" y="-50" width="400" height="400" hasBackground="false" bgColor="#FFFFFF">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#0066CC" LETTERSPACING="0" KERNING="0"&gt;Location B&lt;FONT SIZE="10"&gt; &lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="10" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000066" LETTERSPACING="0" KERNING="0"&gt;Replace this content by expanding the &amp;quot;screen&amp;quot; tag and then expand and edit the Content tag. Press the Save button above this preview to see the changes.&lt;/FONT&gt;&lt;/P&gt;</Content>
+    <Narrator x="100" y="400" start="0" stop="200"/>
+    <Image x="100" y="140" width="" height="">images/london.jpg</Image>
+    <video x="80" y="245" width="240" height="167" autostart="false"/>
+  </screen>
+  <screen>
+    <screen_id x="150" y="120">6</screen_id>
+    <Template>4</Template>
+    <Section_Title>Company History</Section_Title>
+    <Content x="-120" y="-70" width="1000" height="350" hasBackground="true" bgColor="#FFFFFF">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#0066CC" LETTERSPACING="0" KERNING="0"&gt;Replace with Content 1 Label&lt;FONT SIZE="10"&gt; &lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="10" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;Find out how we got to where we are today.&lt;FONT SIZE="10"&gt; &lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="10" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000066" LETTERSPACING="0" KERNING="0"&gt;Replace this content by expanding the first &amp;quot;screen&amp;quot; tag and then expand and edit the Content tag. You will also need to edit the label by editing the Content_1 tag.  Press the Save button above this preview to see the changes.&lt;/FONT&gt;&lt;/P&gt;</Content>
+    <Content_1 x="-20" y="380" width="400" height="100" hasBackground="false" bgColor="#FFFFFF">&lt;P ALIGN="LEFT"&gt;&lt;FONT FACE="Arial" SIZE="24" COLOR="#0066CC" LETTERSPACING="0" KERNING="0"&gt;&lt;I&gt;Content 1&lt;/I&gt;&lt;/FONT&gt;&lt;/P&gt;</Content_1>
+    <Narrator x="-150" y="250" start="0" stop="400">video/estart_6.flv</Narrator>
+    <Flash x="" y="" width="" height="" targetId="" text="" textColor="#000000">swf/NES_6.swf</Flash>
+    <Image x="50" y="0" width="250" height="250" targetId="" text="" textColor="#000000"/>
+    <video x="80" y="245" width="240" height="167" autostart="false"/>
+    <Background>images/corporate_office_place_glass.jpg</Background>
+    <information><![CDATA[]]></information>
+  </screen>
+  <screen>
+    <screen_id x="200" y="150">601</screen_id>
+    <Template>4</Template>
+    <Content x="-120" y="-70" width="1000" height="350" hasBackground="true" bgColor="#FFFFFF">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#0066CC" LETTERSPACING="0" KERNING="0"&gt;Content 2&lt;FONT SIZE="10"&gt; &lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="10" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000066" LETTERSPACING="0" KERNING="0"&gt;Replace this content by expanding the first &amp;quot;screen&amp;quot; tag and then expand and edit the Content tag. You will also need to edit the label by editing the Content_1, Content_2 etc tags.  You can also change the Image tag.  Press the Reload button above this preview to see the changes.&lt;/FONT&gt;&lt;/P&gt;</Content>
+    <Content_1 x="-20" y="380" width="400" height="100" hasBackground="false" bgColor="#FFFFFF">&lt;P ALIGN="LEFT"&gt;&lt;FONT FACE="Arial" SIZE="24" COLOR="#0066CC" LETTERSPACING="0" KERNING="0"&gt;&lt;I&gt;Content 1&lt;/I&gt;&lt;/FONT&gt;&lt;/P&gt;</Content_1>
+    <Content_2 x="40" y="335" width="400" height="100" hasBackground="false" bgColor="#FFFFFF">&lt;P ALIGN="LEFT"&gt;&lt;FONT FACE="Arial" SIZE="24" COLOR="#0066CC" LETTERSPACING="0" KERNING="0"&gt;&lt;I&gt;Content 2&lt;/I&gt;&lt;/FONT&gt;&lt;/P&gt;</Content_2>
+    <Narrator x="0" y="300" start="0" stop="400"/>
+    <Image x="650" y="200" width="200" height="200">images/gas1.jpg</Image>
+    <video x="80" y="245" width="240" height="167" autostart="false"/>
+  </screen>
+  <screen>
+    <screen_id x="200" y="150">602</screen_id>
+    <Template>4</Template>
+    <Content x="-120" y="-70" width="1000" height="350" hasBackground="true" bgColor="#FFFFFF">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#0066CC" LETTERSPACING="0" KERNING="0"&gt;Content 3&lt;FONT SIZE="10"&gt; &lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="10" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000066" LETTERSPACING="0" KERNING="0"&gt;Replace this content by expanding the first &amp;quot;screen&amp;quot; tag and then expand and edit the Content tag. You will also need to edit the label by editing the Content_1, Content_2 etc tags.  You can also change the Image tag.  Press the Reload button above this preview to see the changes.&lt;FONT COLOR="#000000"&gt;&lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;</Content>
+    <Content_1 x="-20" y="380" width="400" height="100" hasBackground="false" bgColor="#FFFFFF">&lt;P ALIGN="LEFT"&gt;&lt;FONT FACE="Arial" SIZE="24" COLOR="#0066CC" LETTERSPACING="0" KERNING="0"&gt;&lt;I&gt;Content 1&lt;/I&gt;&lt;/FONT&gt;&lt;/P&gt;</Content_1>
+    <Content_2 x="40" y="335" width="400" height="100" hasBackground="false" bgColor="#FFFFFF">&lt;P ALIGN="LEFT"&gt;&lt;FONT FACE="Arial" SIZE="24" COLOR="#0066CC" LETTERSPACING="0" KERNING="0"&gt;&lt;I&gt;Content 2&lt;/I&gt;&lt;/FONT&gt;&lt;/P&gt;</Content_2>
+    <Content_3 x="100" y="290" width="700" height="380" hasBackground="false" bgColor="#FFFFFF">&lt;P ALIGN="LEFT"&gt;&lt;FONT FACE="Arial" SIZE="24" COLOR="#0066CC" LETTERSPACING="0" KERNING="0"&gt;&lt;I&gt;Content 3&lt;/I&gt;&lt;/FONT&gt;&lt;/P&gt;</Content_3>
+    <Narrator x="0" y="300" start="0" stop="400"/>
+    <Image x="650" y="200" width="200" height="200">images/gas2.jpg</Image>
+    <video x="80" y="245" width="240" height="167" autostart="false"/>
+  </screen>
+  <screen>
+    <screen_id x="30" y="100" keywords="Labels, Organisation, Structure">7</screen_id>
+    <Template>4</Template>
+    <Section>Organisation Structure</Section>
+    <Content x="320" y="150" width="530" height="270" hasBackground="false" bgColor="#FFFFFF">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#0066FF" LETTERSPACING="0" KERNING="0"&gt;Here is an overview of our company structure.&lt;FONT SIZE="10"&gt; &lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="10" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;Click on ALL of the targets on the diagram to discover more.&lt;FONT COLOR="#000066"&gt;&lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="10" COLOR="#000066" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000066" LETTERSPACING="0" KERNING="0"&gt;Edit this text by selecting the appropriate Content tag to the right of the scene.&lt;FONT SIZE="10"&gt; &lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="10" COLOR="#000066" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000066" LETTERSPACING="0" KERNING="0"&gt;For details on how to edit this template click on the Help button on the toolbar.&lt;/FONT&gt;&lt;/P&gt;</Content>
+    <Image x="125" y="190" width="180" height="198">images/org_logo.jpg</Image>
+    <Image_1 x="416" y="-50" width="177" height="64" targetId="701" text="Image 1" textColor="#000000">images/names1.jpg</Image_1>
+    <Image_2 x="106" y="35" width="131" height="64" targetId="702" text="Image 2" textColor="#000000">images/names2.jpg</Image_2>
+    <Image_3 x="272" y="35" width="131" height="64" targetId="703" text="Image 3" textColor="#000000">images/names2.jpg</Image_3>
+    <Image_4 x="436" y="35" width="131" height="64" targetId="704" text="Image 4" textColor="#000000">images/names2.jpg</Image_4>
+    <Image_5 x="602" y="35" width="131" height="64" targetId="705" text="Image 5" textColor="#000000">images/names2.jpg</Image_5>
+    <Image_6 x="768" y="35" width="131" height="64" targetId="706" text="Image 6" textColor="#000000">images/names2.jpg</Image_6>
+    <Narrator x="0" y="270" start="0" stop="400">video/estart_7.flv</Narrator>
+    <Flash x="" y="" width="" height="" targetId="" text="" textColor="#000000">swf/NES_7.swf</Flash>
+    <Video x="80" y="245" width="240" height="167" autostart="false"/>
+    <Background>images/1.jpg</Background>
+    <information><![CDATA[<A HREF="http://www.youtube.com/watch?v=kFTXqx3yzk8" TARGET="_self"><U>Click here for this scene's instruction video</U></A>â€¦</FONT></P>
+Main Scene: Content change the text displayed at the top of the scene.
+Child Screens: Content change the text displayed at each subsequent step after pressing the green next arrow button.]]></information>
+  </screen>
+  <screen>
+    <screen_id x="50" y="100">701</screen_id>
+    <Template>4</Template>
+    <Content x="320" y="190" width="530" height="270" hasBackground="false" bgColor="#FFFFFF">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000066" LETTERSPACING="0" KERNING="0"&gt;Screen x01: Edit this text by selecting the appropriate Content tag to the right of the scene.&lt;FONT SIZE="10"&gt; &lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="10" COLOR="#000066" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000066" LETTERSPACING="0" KERNING="0"&gt;For details on how to edit this template click on the Help button on the toolbar.&lt;/FONT&gt;&lt;/P&gt;</Content>
+    <Image x="125" y="190" width="180" height="198">images/org_man.jpg</Image>
+    <Image_1 x="416" y="-50" width="177" height="64" targetId="701" text="Image 1" textColor="#000000">images/names1a.jpg</Image_1>
+    <Image_2 x="106" y="35" width="131" height="64" targetId="702" text="Image 2" textColor="#000000">images/names2.jpg</Image_2>
+    <Image_3 x="272" y="35" width="131" height="64" targetId="703" text="Image 3" textColor="#000000">images/names2.jpg</Image_3>
+    <Image_4 x="436" y="35" width="131" height="64" targetId="704" text="Image 4" textColor="#000000">images/names2.jpg</Image_4>
+    <Image_5 x="602" y="35" width="131" height="64" targetId="705" text="Image 5" textColor="#000000">images/names2.jpg</Image_5>
+    <Image_6 x="768" y="35" width="131" height="64" targetId="706" text="Image 6" textColor="#000000">images/names2.jpg</Image_6>
+    <Narrator x="200" y="400" start="" stop=""/>
+    <Video x="80" y="245" width="240" height="167" autostart="false"/>
+  </screen>
+  <screen>
+    <screen_id x="50" y="100">702</screen_id>
+    <Template>4</Template>
+    <Content x="320" y="190" width="530" height="270" hasBackground="false" bgColor="#FFFFFF">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000066" LETTERSPACING="0" KERNING="0"&gt;Screen x02: Edit this text by selecting the appropriate Content tag to the right of the scene.&lt;FONT SIZE="10"&gt; &lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="10" COLOR="#000066" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000066" LETTERSPACING="0" KERNING="0"&gt;For details on how to edit this template click on the Help button on the toolbar.&lt;/FONT&gt;&lt;/P&gt;</Content>
+    <Image x="125" y="190" width="180" height="198">images/org_man.jpg</Image>
+    <Image_1 x="416" y="-50" width="177" height="64" targetId="701" text="Image 1" textColor="#000000">images/names1.jpg</Image_1>
+    <Image_2 x="106" y="35" width="131" height="64" targetId="702" text="Image 2" textColor="#000000">images/names2a.jpg</Image_2>
+    <Image_3 x="272" y="35" width="131" height="64" targetId="703" text="Image 3" textColor="#000000">images/names2.jpg</Image_3>
+    <Image_4 x="436" y="35" width="131" height="64" targetId="704" text="Image 4" textColor="#000000">images/names2.jpg</Image_4>
+    <Image_5 x="602" y="35" width="131" height="64" targetId="705" text="Image 5" textColor="#000000">images/names2.jpg</Image_5>
+    <Image_6 x="768" y="35" width="131" height="64" targetId="706" text="Image 6" textColor="#000000">images/names2.jpg</Image_6>
+    <Narrator x="200" y="400" start="" stop=""/>
+    <Video x="80" y="245" width="240" height="167" autostart="false"/>
+  </screen>
+  <screen>
+    <screen_id x="50" y="100">703</screen_id>
+    <Template>4</Template>
+    <Content x="320" y="190" width="530" height="270" hasBackground="false" bgColor="#FFFFFF">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000066" LETTERSPACING="0" KERNING="0"&gt;Screen x03: Edit this text by selecting the appropriate Content tag to the right of the scene.&lt;FONT SIZE="10"&gt; &lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="10" COLOR="#000066" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000066" LETTERSPACING="0" KERNING="0"&gt;For details on how to edit this template click on the Help button on the toolbar.&lt;/FONT&gt;&lt;/P&gt;</Content>
+    <Image x="125" y="190" width="180" height="198">images/org_man.jpg</Image>
+    <Image_1 x="416" y="-50" width="177" height="64" targetId="701" text="Image 1" textColor="#000000">images/names1.jpg</Image_1>
+    <Image_2 x="106" y="35" width="131" height="64" targetId="702" text="Image 2" textColor="#000000">images/names2.jpg</Image_2>
+    <Image_3 x="272" y="35" width="131" height="64" targetId="703" text="Image 3" textColor="#000000">images/names2a.jpg</Image_3>
+    <Image_4 x="436" y="35" width="131" height="64" targetId="704" text="Image 4" textColor="#000000">images/names2.jpg</Image_4>
+    <Image_5 x="602" y="35" width="131" height="64" targetId="705" text="Image 5" textColor="#000000">images/names2.jpg</Image_5>
+    <Image_6 x="768" y="35" width="131" height="64" targetId="706" text="Image 6" textColor="#000000">images/names2.jpg</Image_6>
+    <Narrator x="200" y="400" start="" stop=""/>
+    <Video x="80" y="245" width="240" height="167" autostart="false"/>
+  </screen>
+  <screen>
+    <screen_id x="50" y="100">704</screen_id>
+    <Template>4</Template>
+    <Content x="320" y="190" width="530" height="270" hasBackground="false" bgColor="#FFFFFF">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000066" LETTERSPACING="0" KERNING="0"&gt;Screen x04: Edit this text by selecting the appropriate Content tag to the right of the scene.&lt;FONT SIZE="10"&gt; &lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="10" COLOR="#000066" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000066" LETTERSPACING="0" KERNING="0"&gt;For details on how to edit this template click on the Help button on the toolbar.&lt;/FONT&gt;&lt;/P&gt;</Content>
+    <Image x="125" y="190" width="180" height="198">images/org_man.jpg</Image>
+    <Image_1 x="416" y="-50" width="177" height="64" targetId="701" text="Image 1" textColor="#000000">images/names1.jpg</Image_1>
+    <Image_2 x="106" y="35" width="131" height="64" targetId="702" text="Image 2" textColor="#000000">images/names2.jpg</Image_2>
+    <Image_3 x="272" y="35" width="131" height="64" targetId="703" text="Image 3" textColor="#000000">images/names2.jpg</Image_3>
+    <Image_4 x="436" y="35" width="131" height="64" targetId="704" text="Image 4" textColor="#000000">images/names2a.jpg</Image_4>
+    <Image_5 x="602" y="35" width="131" height="64" targetId="705" text="Image 5" textColor="#000000">images/names2.jpg</Image_5>
+    <Image_6 x="768" y="35" width="131" height="64" targetId="706" text="Image 6" textColor="#000000">images/names2.jpg</Image_6>
+    <Narrator x="200" y="400" start="" stop=""/>
+    <Video x="80" y="245" width="240" height="167" autostart="false"/>
+  </screen>
+  <screen>
+    <screen_id x="50" y="100">705</screen_id>
+    <Template>4</Template>
+    <Content x="320" y="190" width="530" height="270" hasBackground="false" bgColor="#FFFFFF">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000066" LETTERSPACING="0" KERNING="0"&gt;Screen x05: Edit this text by selecting the appropriate Content tag to the right of the scene.&lt;FONT SIZE="10"&gt; &lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="10" COLOR="#000066" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000066" LETTERSPACING="0" KERNING="0"&gt;For details on how to edit this template click on the Help button on the toolbar.&lt;/FONT&gt;&lt;/P&gt;</Content>
+    <Image x="125" y="190" width="180" height="198">images/org_man.jpg</Image>
+    <Image_1 x="416" y="-50" width="177" height="64" targetId="701" text="Image 1" textColor="#000000">images/names1.jpg</Image_1>
+    <Image_2 x="106" y="35" width="131" height="64" targetId="702" text="Image 2" textColor="#000000">images/names2.jpg</Image_2>
+    <Image_3 x="272" y="35" width="131" height="64" targetId="703" text="Image 3" textColor="#000000">images/names2.jpg</Image_3>
+    <Image_4 x="436" y="35" width="131" height="64" targetId="704" text="Image 4" textColor="#000000">images/names2.jpg</Image_4>
+    <Image_5 x="602" y="35" width="131" height="64" targetId="705" text="Image 5" textColor="#000000">images/names2a.jpg</Image_5>
+    <Image_6 x="768" y="35" width="131" height="64" targetId="706" text="Image 6" textColor="#000000">images/names2.jpg</Image_6>
+    <Narrator x="200" y="400" start="" stop=""/>
+    <Video x="80" y="245" width="240" height="167" autostart="false"/>
+  </screen>
+  <screen>
+    <screen_id x="50" y="100">706</screen_id>
+    <Template>4</Template>
+    <Content x="320" y="190" width="530" height="270" hasBackground="false" bgColor="#FFFFFF">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000066" LETTERSPACING="0" KERNING="0"&gt;Screen x06: Edit this text by selecting the appropriate Content tag to the right of the scene.&lt;FONT SIZE="10"&gt; &lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="10" COLOR="#000066" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000066" LETTERSPACING="0" KERNING="0"&gt;For details on how to edit this template click on the Help button on the toolbar.&lt;/FONT&gt;&lt;/P&gt;</Content>
+    <Image x="125" y="190" width="180" height="198">images/org_man.jpg</Image>
+    <Image_1 x="416" y="-50" width="177" height="64" targetId="701" text="Image 1" textColor="#000000">images/names1.jpg</Image_1>
+    <Image_2 x="106" y="35" width="131" height="64" targetId="702" text="Image 2" textColor="#000000">images/names2.jpg</Image_2>
+    <Image_3 x="272" y="35" width="131" height="64" targetId="703" text="Image 3" textColor="#000000">images/names2.jpg</Image_3>
+    <Image_4 x="436" y="35" width="131" height="64" targetId="704" text="Image 4" textColor="#000000">images/names2.jpg</Image_4>
+    <Image_5 x="602" y="35" width="131" height="64" targetId="705" text="Image 5" textColor="#000000">images/names2.jpg</Image_5>
+    <Image_6 x="768" y="35" width="131" height="64" targetId="706" text="Image 6" textColor="#000000">images/names2a.jpg</Image_6>
+    <Narrator x="200" y="400" start="" stop=""/>
+    <Video x="80" y="245" width="240" height="167" autostart="false"/>
+  </screen>
+  <screen>
+    <screen_id x="220" y="250">8</screen_id>
+    <Template>4</Template>
+    <Section_Title>Performance</Section_Title>
+    <Content x="350" y="-150" width="450" height="450" hasBackground="true" bgColor="#FFFFFF">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#0066CC" LETTERSPACING="0" KERNING="0"&gt;Business Results&lt;FONT SIZE="10"&gt; &lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="10" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;See how we have grown as a company over time...&lt;FONT SIZE="10"&gt; &lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="10" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000066" LETTERSPACING="0" KERNING="0"&gt;Replace this content by expanding the first &amp;quot;screen&amp;quot; tag and then expand and edit the Content tag. Press the Reload button above this preview to see the changes.&lt;/FONT&gt;&lt;/P&gt;</Content>
+    <Narrator x="350" y="200" start="0" stop="200">video/estart_8.flv</Narrator>
+    <Flash x="" y="" width="" height="" targetId="" text="" textColor="#000000">swf/NES_8.swf</Flash>
+    <Image x="50" y="0" width="250" height="250" targetId="" text="" textColor="#000000"/>
+    <video x="80" y="245" width="240" height="167" autostart="false"/>
+    <Background>images/2.jpg</Background>
+    <information><![CDATA[]]></information>
+  </screen>
+  <screen>
+    <screen_id x="220" y="250">801</screen_id>
+    <Template>4</Template>
+    <Content x="350" y="-150" width="450" height="450" hasBackground="true" bgColor="#FFFFFF">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000066" LETTERSPACING="0" KERNING="0"&gt;Replace this content by expanding the appropriate &amp;quot;screen&amp;quot; tag and then expand and edit the Content tag. Press the Reload button above this preview to see the changes.&lt;FONT SIZE="10"&gt; &lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="10" COLOR="#000066" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000066" LETTERSPACING="0" KERNING="0"&gt;You can also add an image by editing the Image tag.&lt;/FONT&gt;&lt;/P&gt;</Content>
+    <Narrator x="0" y="380" start="0" stop="200"/>
+    <Image x="150" y="130" width="" height="">images/new York.jpg</Image>
+    <video x="80" y="245" width="240" height="167" autostart="false"/>
+  </screen>
+  <screen>
+    <screen_id x="220" y="250">802</screen_id>
+    <Template>4</Template>
+    <Content x="350" y="-150" width="450" height="450" hasBackground="true" bgColor="#FFFFFF">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000066" LETTERSPACING="0" KERNING="0"&gt;Replace this content by expanding the appropriate &amp;quot;screen&amp;quot; tag and then expand and edit the Content tag. Press the Reload button above this preview to see the changes.&lt;FONT SIZE="10"&gt; &lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="10" COLOR="#000066" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000066" LETTERSPACING="0" KERNING="0"&gt;You can also add an image by editing the Image tag.&lt;/FONT&gt;&lt;/P&gt;</Content>
+    <Narrator x="0" y="380" start="0" stop="200"/>
+    <Image x="150" y="130" width="" height="">images/london.jpg</Image>
+    <video x="80" y="245" width="240" height="167" autostart="false"/>
+  </screen>
+  <screen>
+    <screen_id x="180" y="180">9</screen_id>
+    <Template>4</Template>
+    <Section_Title>What we do today</Section_Title>
+    <Content x="380" y="-80" width="410" height="400" hasBackground="false" bgColor="#FFFFFF">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#0066CC" LETTERSPACING="0" KERNING="0"&gt;Ok, now you are ready to look in further detail about what kind of work we do today... &lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="10" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000066" LETTERSPACING="0" KERNING="0"&gt;Replace this content by expanding the first &amp;quot;screen&amp;quot; tag and then expand and edit the Content tag. Press the Reload button above this preview to see the changes.&lt;FONT SIZE="10"&gt; &lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;</Content>
+    <Narrator x="0" y="190" start="0" stop="400">video/estart_9.flv</Narrator>
+    <Flash x="" y="" width="" height="" targetId="" text="" textColor="#000000">swf/NES_9.swf</Flash>
+    <Image x="50" y="0" width="250" height="250" targetId="" text="" textColor="#000000"/>
+    <video x="80" y="245" width="240" height="167" autostart="false"/>
+    <Background>images/4.jpg</Background>
+    <information><![CDATA[]]></information>
+  </screen>
+  <screen>
+    <screen_id x="180" y="180">901</screen_id>
+    <Template>4</Template>
+    <Content x="380" y="-80" width="410" height="430" hasBackground="false" bgColor="#FFFFFF">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000066" LETTERSPACING="0" KERNING="0"&gt;Replace this content by expanding the &amp;quot;screen&amp;quot; tag and then expand and edit the Content tag. Press the Reload button above this preview to see the changes.&lt;FONT SIZE="10"&gt; &lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="10" COLOR="#000066" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000066" LETTERSPACING="0" KERNING="0"&gt;You can change the image by editing the Image tag to the right of the screen.&lt;FONT SIZE="10"&gt; &lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="10" COLOR="#000066" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000066" LETTERSPACING="0" KERNING="0"&gt;Further steps can be added to this screen by highlighting the last step and using the Cut, Copy and Paste buttons at the bottom right hand corner of the screen.&lt;/FONT&gt;&lt;/P&gt;</Content>
+    <Narrator x="500" y="200" start="0" stop="400"/>
+    <Image x="-40" y="-100" width="300" height="444">images/12_bookimage_2.jpg</Image>
+    <video x="80" y="245" width="240" height="167" autostart="false"/>
+  </screen>
+  <screen>
+    <screen_id x="180" y="180">902</screen_id>
+    <Template>4</Template>
+    <Content x="380" y="-80" width="410" height="430" hasBackground="false" bgColor="#FFFFFF">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000066" LETTERSPACING="0" KERNING="0"&gt;Replace this content by expanding the &amp;quot;screen&amp;quot; tag and then expand and edit the Content tag. Press the Reload button above this preview to see the changes.&lt;FONT SIZE="10"&gt; &lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="10" COLOR="#000066" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000066" LETTERSPACING="0" KERNING="0"&gt;You can change the image by editing the Image tag to the right of the screen.&lt;FONT SIZE="10"&gt; &lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="10" COLOR="#000066" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000066" LETTERSPACING="0" KERNING="0"&gt;Further steps can be added to this screen by highlighting the last step and using the Cut, Copy and Paste buttons at the bottom right hand corner of the screen.&lt;/FONT&gt;&lt;/P&gt;</Content>
+    <Narrator x="500" y="200" start="0" stop="400"/>
+    <Image x="-40" y="-100" width="300" height="444">images/12_bookimage_3.jpg</Image>
+    <video x="80" y="245" width="240" height="167" autostart="false"/>
+  </screen>
+  <screen>
+    <screen_id x="180" y="210">10</screen_id>
+    <Template>4</Template>
+    <Section_Title>Test Introduction</Section_Title>
+    <Content x="350" y="-100" width="450" height="380" hasBackground="true" bgColor="#FFFFFF">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#006699" LETTERSPACING="0" KERNING="0"&gt;Test&lt;FONT SIZE="10"&gt; &lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="10" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;This test will examine your ability to retain the knowledge learned in this course.  If you do not reach the passmark then you will need to run through the text again until you can proceed through the course.&lt;FONT SIZE="10"&gt; &lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="10" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000066" LETTERSPACING="0" KERNING="0"&gt;Replace this content by expanding the first &amp;quot;screen&amp;quot; tag and then expand and edit the Content tag. Press the Reload button above this preview to see the changes.&lt;/FONT&gt;&lt;/P&gt;</Content>
+    <Narrator x="0" y="200" start="0" stop="400">video/estart_10.flv</Narrator>
+    <Flash x="" y="" width="" height="" targetId="" text="" textColor="#000000">swf/NES_10.swf</Flash>
+    <Image x="50" y="0" width="250" height="250" targetId="" text="" textColor="#000000"/>
+    <video x="80" y="245" width="240" height="167" autostart="false"/>
+    <Background>images/2.jpg</Background>
+    <information><![CDATA[]]></information>
+  </screen>
+  <screen>
+    <screen_id x="170" y="150">11</screen_id>
+    <Template>1</Template>
+    <Section>Quiz</Section>
+    <Content x="80" y="-40" width="450" height="80" hasBackground="false" bgColor="#FFFFFF">&lt;P ALIGN="LEFT"&gt;&lt;FONT FACE="Arial" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;Complete the test before continuing ...&lt;/FONT&gt;&lt;/P&gt;</Content>
+    <Narrator x="50" y="270" start="0" stop="400"/>
+    <Image x="" y="" width="" height=""/>
+    <video x="80" y="245" width="240" height="167" autostart="false"/>
+    <Quizes>
+      <settings>
+        <quiz_title/>
+        <OK>OK</OK>
+        <Issue_Detected>Issue detected</Issue_Detected>
+        <Retake_Test>You have reached the end of the test.</Retake_Test>
+        <Ratio>Your ratio is</Ratio>
+        <No_Issues>You have got 100%, no further action is required.</No_Issues>
+        <Few_Issues>You have got very few questions wrong, there is no cause for immediate concern.</Few_Issues>
+        <Some_Issues>You have got some answers wrong, you may wish to retake the test.</Some_Issues>
+        <Many_Issues>You have got many questions wrong, we strongly recommend you redo the training.</Many_Issues>
+        <Most_Issues>Select below</Most_Issues>
+        <Intro_Text/>
+        <Intro_Art/>
+        <Columns>1</Columns>
+        <Random>1</Random>
+        <Show_Intro>1</Show_Intro>
+        <Show_Results>1</Show_Results>
+        <QuizType>0</QuizType>
+        <LoadsQuizatScreenLevel>0</LoadsQuizatScreenLevel>
+        <ShowFeedback>1</ShowFeedback>
+        <PassMark>69</PassMark>
+        <Show_Answers>1</Show_Answers>
+      </settings>
+    </Quizes>
+    <Background>images/4.jpg</Background>
+  </screen>
+  <screen>
+    <screen_id x="200" y="210">12</screen_id>
+    <Template>4</Template>
+    <Section>And there's more ...</Section>
+    <Title x="0" y="-115" width="700" height="80" hasBackground="false" bgColor="#FFFFFF">&lt;P ALIGN="LEFT"&gt;&lt;FONT FACE="Arial" SIZE="24" COLOR="#0066CC" LETTERSPACING="0" KERNING="0"&gt;&lt;I&gt;Want to learn more...? &lt;/I&gt;&lt;FONT COLOR="#669900"&gt;&lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;</Title>
+    <Content x="290" y="-140" width="500" height="360" hasBackground="False" bgColor="#FFFFFF">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;You should be on your way now to creating a great looking induction course.&lt;FONT SIZE="10"&gt; &lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="10" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;In addition to this we have over 40 e-learning courses which can be used to supplement your standard induction.  Details can be &lt;FONT COLOR="#0033FF"&gt;&lt;A HREF="http://www.e-learningwmb.com/page/editable-courses" TARGET="_blank"&gt;&lt;U&gt;found online&lt;/U&gt;&lt;/A&gt;&lt;/FONT&gt;.  And since all the systems we produce follow the e-learning standard SCORM, you can run courses from any supplier on the same system as your induction.&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="10" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt; &lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="10" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000066" LETTERSPACING="0" KERNING="0"&gt;You can remove this screen or alter it when you start to create your induction...&lt;/FONT&gt;&lt;/P&gt;</Content>
+    <Narrator x="-100" y="250" start="0" stop="200">video/estart_12.flv</Narrator>
+    <Flash x="" y="" width="" height="" targetId="" text="" textColor="#000000">swf/NES_12.swf</Flash>
+    <Image x="-40" y="-100" width="300" height="444" targetId="" text="" textColor="#000000"/>
+    <video x="80" y="140" width="240" height="167" autostart="true">video/courses_preview.flv</video>
+    <Background>images/4.jpg</Background>
+    <information><![CDATA[]]></information>
+  </screen>
+  <screen>
+    <screen_id x="80" y="150">13</screen_id>
+    <Template>4</Template>
+    <Section>About the Course</Section>
+    <Content x="470" y="-10" width="450" height="380" hasBackground="false" bgColor="#FFFFFF">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="28" COLOR="#0066CC" LETTERSPACING="0" KERNING="0"&gt;&lt;B&gt;About the Course&lt;/B&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="22" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="22" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;You have nearly completed the e-learning - well done!&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="22" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="22" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;There are many options now available to you which we can run through before finishing...&lt;/FONT&gt;&lt;/P&gt;</Content>
+    <Narrator x="700" y="320" start="0" stop="400">sound/app_1.mp3</Narrator>
+    <Flash x="" y="" width="" height="" targetId="" text="" textColor="#000000">swf/app_video.swf</Flash>
+    <Image x="-5" y="95" width="380" height="250">images/App_course.jpg</Image>
+    <Video x="80" y="245" width="240" height="167" autostart="false"/>
+    <Background>images/4.jpg</Background>
+    <information><![CDATA[]]></information>
+  </screen>
+  <screen>
+    <screen_id x="80" y="150">1301</screen_id>
+    <Template>4</Template>
+    <Content x="470" y="-10" width="450" height="380" hasBackground="false" bgColor="#FFFFFF">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="28" COLOR="#0066CC" LETTERSPACING="0" KERNING="0"&gt;&lt;B&gt;Multi-Platform Deployment&lt;/B&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="22" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="22" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;e-Learning WMB make dozens of courses which consist of over 30% of the top 50 &amp;quot;e-Learning&amp;quot; Apps.  e-learning can be customised and rebranded via your web browser and the same course delivered on &lt;U&gt;both&lt;/U&gt; your computer &lt;U&gt;and&lt;/U&gt; Smartphone.&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="22" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="22" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;Our &lt;FONT COLOR="#0066CC"&gt;&lt;A HREF="http://e-learningwmb.com/page/editable-courses" TARGET="_blank"&gt;&lt;U&gt;course catalogue&lt;/U&gt;&lt;/A&gt;&lt;/FONT&gt; is available else contact &lt;FONT COLOR="#0066CC"&gt;&lt;A HREF="mailto:sales@e-learningwmb.co.uk" TARGET="_self"&gt;&lt;U&gt;e-Learning WMB&lt;/U&gt;&lt;/A&gt;&lt;/FONT&gt; for a quote.&lt;/FONT&gt;&lt;/P&gt;</Content>
+    <Narrator x="700" y="320" start="0" stop="400">sound/app_101.mp3</Narrator>
+    <Image x="-5" y="95" width="380" height="250">images/App_courses.jpg</Image>
+    <Video x="80" y="245" width="240" height="167" autostart="false"/>
+  </screen>
+  <screen>
+    <screen_id x="80" y="150">1302</screen_id>
+    <Template>4</Template>
+    <Content x="470" y="-10" width="450" height="380" hasBackground="false" bgColor="#FFFFFF">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="28" COLOR="#0066CC" LETTERSPACING="0" KERNING="0"&gt;&lt;B&gt;Bespoke Development&lt;/B&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="22" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="22" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;Have an idea for an e-learning App or online course?&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="22" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="22" COLOR="#0066CC" LETTERSPACING="0" KERNING="0"&gt;&lt;A HREF="http://mailto:emilrw@e-learningwmb.co.uk" TARGET="_self"&gt;&lt;U&gt;Let us know&lt;/U&gt;&lt;/A&gt;&lt;FONT COLOR="#000000"&gt; - we have a team ready to put your ideas into reality with our unique 3D e-learning development.&lt;FONT COLOR="#0066CC"&gt;&lt;/FONT&gt;&lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;</Content>
+    <Narrator x="700" y="320" start="0" stop="400">sound/app_102.mp3</Narrator>
+    <Image x="-5" y="95" width="380" height="250">images/App_team.jpg</Image>
+    <Video x="80" y="245" width="240" height="167" autostart="false"/>
+  </screen>
+  <screen>
+    <screen_id x="80" y="150">1303</screen_id>
+    <Template>4</Template>
+    <Content x="470" y="-10" width="450" height="380" hasBackground="false" bgColor="#FFFFFF">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="28" COLOR="#0066CC" LETTERSPACING="0" KERNING="0"&gt;&lt;B&gt;Rapid Authorware&lt;/B&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="22" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="22" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;Would you like to have a go at making a course such as this one yourself?&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="22" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="22" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;No problem - all our courses are made using the Jackdaw Cloud&lt;FONT COLOR="#0066CC"&gt; &lt;/FONT&gt;rapid authoring system.  Visit &lt;FONT COLOR="#0066FF"&gt;&lt;A HREF="http://www.jackdawcloud.com/" TARGET="_blank"&gt;&lt;B&gt;&lt;U&gt;www.jackdawcloud.com&lt;/U&gt;&lt;/B&gt;&lt;/A&gt;&lt;/FONT&gt; to start today - no payment necessary.&lt;/FONT&gt;&lt;/P&gt;</Content>
+    <Narrator x="700" y="320" start="0" stop="400">sound/app_103.mp3</Narrator>
+    <Image x="-5" y="95" width="380" height="250">images/App_Jackdaw.jpg</Image>
+    <Video x="80" y="245" width="240" height="167" autostart="false"/>
+  </screen>
+  <screen>
+    <screen_id x="120" y="80">14</screen_id>
+    <Template>4</Template>
+    <Section>Well done</Section>
+    <Content x="370" y="60" width="360" height="380" hasBackground="false" bgColor="#FFFFFF">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#0066CC" LETTERSPACING="0" KERNING="0"&gt;Well done&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;Thank you for completing your induction and welcome to our organisation.&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;I&gt;Replace this content by expanding the first &amp;quot;screen&amp;quot; tag and then expand and edit the Content tag. Press the Reload button above this preview to see the changes.&lt;/I&gt;&lt;/FONT&gt;&lt;/P&gt;</Content>
+    <Narrator x="-100" y="190" start="0" stop="200">video/estart_13.flv</Narrator>
+    <Flash x="" y="" width="" height="" targetId="" text="" textColor="#000000">swf/NES_13.swf</Flash>
+    <Image x="50" y="0" width="250" height="250">images/hat.png</Image>
+    <video x="80" y="245" width="240" height="167" autostart="false"/>
+    <Background>images/4.jpg</Background>
+    <information><![CDATA[]]></information>
+  </screen>
+  <video>
+    <vid>estart_new</vid>
+    <video_file_visible>true</video_file_visible>
+    <time_visible>false</time_visible>
+    <video_streaming>true</video_streaming>
+    <server>null</server>
+    <video_width>280</video_width>
+    <video_height>250</video_height>
+    <video_slides_in>false</video_slides_in>
+  </video>
+  <scorm>
+    <scorm_format>SVGA_1905</scorm_format>
+    <screen_scorm_finish>14</screen_scorm_finish>
+    <scorm_frame>14</scorm_frame>
+    <xmlversion>TTTTWQ-OQMTDXDC UAY</xmlversion>
+    <scorm_2004>223516</scorm_2004>
+    <scorm_2005>249812</scorm_2005>
+    <course_name>IPhone - e-Start</course_name>
+  </scorm>
+  <settings>
+    <status_set_to_passed>true</status_set_to_passed>
+    <show_background>false</show_background>
+    <title_color>16750848</title_color>
+    <default_thumb>wave_orange.jpg</default_thumb>
+    <show_second_menu>false</show_second_menu>
+  </settings>
+  <introduction>
+    <show_intro>true</show_intro>
+  </introduction>
+</screens>

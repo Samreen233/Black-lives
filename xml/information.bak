@@ -1,0 +1,876 @@
+<screens>
+	<background src="VirtualGalleryTest.swf">
+		<menu>
+			<item item_label="Welcome" item_url="1" item_url_target="_self" thumbnail="1.jpg"/>
+			<item item_label="Who is this course aimed at" item_url="2" item_url_target="_self" thumbnail="1.jpg"/>
+			<item item_label="Overview" item_url="3" item_url_target="_self" thumbnail="1.jpg"/>
+			
+			<item item_label="Introduction" item_url="4" item_url_target="_self" thumbnail="1.jpg"/><item item_label="The Problem" item_url="5" item_url_target="_self" thumbnail="1.jpg"/>
+			<item item_label="What can we do?" item_url="6" item_url_target="_self" thumbnail="1.jpg"/>
+			
+			<item item_label="What is unconscious bias?" item_url="7" item_url_target="_self" thumbnail="1.jpg"/><item item_label="How does unconscious bias work?" item_url="8" item_url_target="_self" thumbnail="1.jpg"/><item item_label="Leadership" item_url="9" item_url_target="_self" thumbnail="1.jpg"/><item item_label="When is unconscious bias most active?" item_url="10" item_url_target="_self" thumbnail="1.jpg"/><item item_label="What do you see?" item_url="11" item_url_target="_self" thumbnail="1.jpg"/><item item_label="Types of Bias" item_url="12" item_url_target="_self" thumbnail="1.jpg"/><item item_label="How can you overcome your biases?" item_url="13" item_url_target="_self" thumbnail="1.jpg"/><item item_label="Call out racism" item_url="14" item_url_target="_self" thumbnail="1.jpg"/><item item_label="Confront Racism in Public" item_url="15" item_url_target="_self" thumbnail="1.jpg"/><item item_label="Handling Racism in Private" item_url="16" item_url_target="_self" thumbnail="1.jpg"/><item item_label="Harmful Intentions" item_url="17" item_url_target="_self" thumbnail="1.jpg"/><item item_label="Act to make a change" item_url="18" item_url_target="_self" thumbnail="1.jpg"/>
+		<item item_label="Quiz" item_url="19" item_url_target="_self" thumbnail="1.jpg"/><item item_label="Final Word" item_url="20" item_url_target="_self" thumbnail="1.jpg"/></menu>
+	</background>
+	<screen>
+		<screen_id keywords="Desk, Office, Work, Computer, PC, Keybord, Documents" x="200" y="180">1</screen_id>
+		<Template>4</Template>
+		<Section>Welcome</Section>
+		<Content bgColor="#FFFFFF" hasBackground="false" height="380" width="500" x="137" y="-4">
+			<![CDATA[<p id="docs-internal-guid-0ed378ce-7fff-b45f-2ff9-dc8195f59a73" dir="ltr"><span style="font-family: arial, helvetica, sans-serif; font-size: 24px;">The following elearning has been produced by Open eLMS Creator in support of the Black Lives Matter movement.&nbsp; Please use it freely, embedding it on your website or installing on your company&rsquo;s Learning Management System. <br /></span></p><p>&nbsp;</p><p dir="ltr"><span style="font-family: arial, helvetica, sans-serif; font-size: 24px;">Please spread the word in your organisation - this is a free course.&nbsp; All we ask is for you to consider Open eLMS the next time you need any online learning. <br /></span></p>]]>
+		</Content>
+		<Narrator start="0" stop="400" x="0" y="200">sound/BLM_1.mp3</Narrator>
+		<Flash height="" targetId="" text="" textColor="#000000" width="" x="" y="">swf/BLM_1.swf</Flash>
+		<Image x="-169" y="-41" width="209" height="305" swfSizing="stage">images/blm.png</Image>
+		<Video autostart="false" height="167" width="240" x="80" y="245"/>
+		<Background>images/BLM_BG1.jpg</Background>
+		<information/>
+	</screen>
+	<screen>
+		<screen_id x="240" y="190">2</screen_id>
+		<Template>4</Template>
+		<Section>Who is this course aimed at</Section>
+		<Content bgColor="#FFFFFF" hasBackground="false" height="380" width="780" x="-30" y="-120">
+			<![CDATA[<p id="docs-internal-guid-baf37729-7fff-d860-5522-2e4d99805241" dir="ltr"><span style="font-family: arial, helvetica, sans-serif; font-size: 24px;">This training is designed for everyone in the workplace since it involves the need to ensure fairness for all regardless of skin colour or any other trait which may bring to mind unconscious bias.</span></p><p>&nbsp;</p><p dir="ltr"><span style="font-family: arial, helvetica, sans-serif; font-size: 24px;">Should you have accessibility issues all text can be read by a screen reader and text is vocalised by the presenter or voiceover in most cases. <br /></span></p>]]>
+		</Content>
+		<Narrator start="0" stop="400" x="0" y="200">sound/BLM_2.mp3</Narrator>
+		<Flash height="" targetId="" text="" textColor="#000000" width="" x="" y="">swf/BLM_2.swf</Flash>
+		<Image height="250" targetId="" text="" textColor="#000000" width="250" x="50" y="0"/>
+		<Video autostart="false" height="167" width="240" x="80" y="245"/>
+		<Background>images/room_4.jpg</Background>
+		<information/>
+	</screen>
+	<screen>
+		<screen_id keywords="Work, Office, Whiteboard, Board, Presentation" x="0" y="0">3</screen_id>
+		<Template>4</Template>
+		<Section>Overview</Section>
+		<Content bgColor="#FFFFFF" hasBackground="false" height="340" width="620" x="399" y="98">
+			<![CDATA[<p><span style="font-size: 24px;">In this learning session we will</span><span style="font-family: arial, helvetica, sans-serif; font-size: 24px;">show you how to:</span></p><p>&nbsp;</p><p><span id="docs-internal-guid-904b83f5-7fff-1fe9-19b3-7dd3a22a46fb" style="font-family: arial, helvetica, sans-serif; font-size: 24px;"><span style="color: #e67e23;">&bull;</span> Why we need the Black Lives Matter movement</span></p><p><span id="docs-internal-guid-f5a94ede-7fff-4f9e-efd6-6aec6846fb77" style="font-family: arial, helvetica, sans-serif; font-size: 24px;"><span style="color: #e67e23;">&bull;</span> Recognise your unconscious bias at work</span></p><p><span id="docs-internal-guid-19c6f205-7fff-9b96-f782-ec4064b76d89" style="font-family: arial, helvetica, sans-serif; font-size: 24px;"><span style="color: #e67e23;">&bull;</span> Call out unconscious bias and racism</span></p><p><span id="docs-internal-guid-6589bedf-7fff-bb15-037b-2f2d68af41a3" style="font-family: arial, helvetica, sans-serif; font-size: 24px;"><span style="color: #e67e23;">&bull;</span> Act to make a change</span></p><p>&nbsp;</p><p><span id="docs-internal-guid-e1146ddd-7fff-d564-0396-30fb1f4934f1" style="font-family: arial, helvetica, sans-serif; font-size: 24px;">The elearning will take 45 minutes and you can close this and return at any time.</span></p>]]>
+		</Content>
+		<Narrator start="0" stop="400" x="-20" y="140" width="336" height="540">video/BLM_3.flv</Narrator>
+		<Flash height="" targetId="" text="" textColor="#000000" width="" x="" y="">swf/BLM_3.swf</Flash>
+		<Image height="" targetId="" text="" textColor="#000000" width="" x="" y=""/>
+		<Video autostart="false" height="167" width="240" x="80" y="245"/>
+		<Background>images/BLM_BG3.jpg</Background>
+		<information/>
+	</screen>
+	
+	
+	
+	
+	<screen>
+    <screen_id x="100" y="50" keywords="Empty, Template, Clean">4</screen_id>
+    <Template>4</Template>
+    <Section>&lt;p&gt;&lt;font face="Arial"&gt;Introduction&lt;/font&gt;&lt;/p&gt;</Section>
+    <Content x="-41" y="86" width="402" height="322" hasBackground="true" bgColor="#FFFFFF"><![CDATA[<p align="LEFT"><font face="Arial"><span style="font-size: 24px;">On May 25, 2020, George Floyd, a 46-year-old black man, died of asphyxiation in Minneapolis, Minnesota.&nbsp; He died because one white police officer pressed his knee onto the neck of Floyd - who was already face down on the ground and in handcuffs - for eight minutes.&nbsp;</span></font></p>]]></Content>
+    <Narrator x="-50" y="325" start="">sound/BLM_4.mp3</Narrator>
+    <Flash x="" y="" width="" height="" targetId="" text="" textColor="#000000">swf/empty.swf</Flash>
+    <Image x="662" y="245" width="201" height="185" swfSizing="stage">images/BLM_4.jpg</Image>
+    <Video x="80" y="245" width="240" height="167" autostart="false"/>
+    <Background>images/BLM_bg4.jpg</Background>
+    <information><![CDATA[<A HREF="http://www.youtube.com/watch?v=gMrrybE8784&feature=youtube_gdata" TARGET="_blank"><U>Click here for this screen's instruction video</U></A>…</FONT></P>
+This is a basic template.
+Main Screen: Title and Content change the text displayed on the screen.
+Add or remove child screens to alter the length of the slideshow.]]></information>
+  </screen><screen>
+    <screen_id x="100" y="50" keywords="Empty, Template, Clean">401</screen_id>
+    <Template>4</Template>
+    <Section>Empty</Section>
+    <Content x="-38" y="219" width="402" height="73" hasBackground="true" bgColor="#FFFFFF"><![CDATA[<p align="LEFT"><font face="Arial"><span style="font-size: 24px;">He was suspected of using a counterfeit $20 bill.</span></font></p>]]></Content>
+    <Narrator x="-50" y="325" start="">sound/BLM_401.mp3</Narrator>
+    <Flash x="" y="" width="" height="" targetId="" text="" textColor="#000000">swf/empty.swf</Flash>
+    <Image x="631" y="239" swfSizing="stage" width="232" height="194">images/BLM_401.jpg</Image>
+    <Video x="80" y="245" width="240" height="167" autostart="false"/>
+    <Background>images/BLM_bg4.jpg</Background>
+    <information><![CDATA[<A HREF="http://www.youtube.com/watch?v=gMrrybE8784&feature=youtube_gdata" TARGET="_blank"><U>Click here for this screen's instruction video</U></A>…</FONT></P>
+This is a basic template.
+Main Screen: Title and Content change the text displayed on the screen.
+Add or remove child screens to alter the length of the slideshow.]]></information>
+  <navigation></navigation></screen><screen>
+    <screen_id x="100" y="50" keywords="Empty, Template, Clean">402</screen_id>
+    <Template>4</Template>
+    <Section>Empty</Section>
+    <Content x="-37" y="140" width="402" height="190" hasBackground="true" bgColor="#FFFFFF"><![CDATA[<p align="LEFT"><font face="Arial"><span style="font-size: 24px;">During this time two other police officers helped &ldquo;restrain&rdquo; him further and another kept the screaming onlookers from intervening.</span></font></p>
+<p align="LEFT"><font face="Arial"><span style="font-size: 24px;">&nbsp;</span></font></p>
+<p align="LEFT"><font face="Arial"><span style="font-size: 24px;">This was all caught on video.</span></font></p>]]></Content>
+    <Narrator x="-50" y="325" start="">sound/BLM_402.mp3</Narrator>
+    <Flash x="" y="" width="" height="" targetId="" text="" textColor="#000000">swf/empty.swf</Flash>
+    <Image x="640" y="249" swfSizing="stage" width="202" height="184">images/BLM_402.jpg</Image>
+    <Video x="80" y="245" width="240" height="167" autostart="false"/>
+    <Background>images/BLM_bg4.jpg</Background>
+    <information><![CDATA[<A HREF="http://www.youtube.com/watch?v=gMrrybE8784&feature=youtube_gdata" TARGET="_blank"><U>Click here for this screen's instruction video</U></A>…</FONT></P>
+This is a basic template.
+Main Screen: Title and Content change the text displayed on the screen.
+Add or remove child screens to alter the length of the slideshow.]]></information>
+  <navigation></navigation></screen><screen>
+    <screen_id x="100" y="50" keywords="Empty, Template, Clean">403</screen_id>
+    <Template>4</Template>
+    <Section>Empty</Section>
+    <Content x="-48" y="143" width="402" height="214" hasBackground="true" bgColor="#FFFFFF"><![CDATA[<p align="LEFT"><font face="Arial"><span style="font-size: 24px;">Unfortunately images of a racist policeman killing a black man is not new to see, but what is shocking was the total lack of humanity shown by his co-workers. They were probably unaware of what they had become.&nbsp;</span></font></p>]]></Content>
+    <Narrator x="-50" y="325" start="">sound/BLM_403.mp3</Narrator>
+    <Flash x="" y="" width="" height="" targetId="" text="" textColor="#000000">swf/empty.swf</Flash>
+    <Image x="637" y="246" swfSizing="stage" width="212" height="190">images/BLM_403.jpg</Image>
+    <Video x="80" y="245" width="240" height="167" autostart="false"/>
+    <Background>images/BLM_bg4.jpg</Background>
+    <information><![CDATA[<A HREF="http://www.youtube.com/watch?v=gMrrybE8784&feature=youtube_gdata" TARGET="_blank"><U>Click here for this screen's instruction video</U></A>…</FONT></P>
+This is a basic template.
+Main Screen: Title and Content change the text displayed on the screen.
+Add or remove child screens to alter the length of the slideshow.]]></information>
+  <navigation></navigation></screen><screen>
+    <screen_id x="100" y="50" keywords="Empty, Template, Clean">404</screen_id>
+    <Template>4</Template>
+    <Section>Empty</Section>
+    <Content x="-41" y="86" width="402" height="322" hasBackground="true" bgColor="#FFFFFF"><![CDATA[<p align="LEFT"><font face="Arial"><span style="font-size: 24px;">Very few people think of themselves as evil. Unconscious bias can lead people down very dark roads.</span></font></p>
+<p align="LEFT">&nbsp;</p>
+<p align="LEFT"><font face="Arial"><span style="font-size: 24px;">We hope this training helps you to see this bias in others and maybe even yourself and act accordingly to ensure the message of the Black LIves Matter movement is realised at work and the wider society.&nbsp;</span></font></p>]]></Content>
+    <Narrator x="-50" y="325" start="">sound/BLM_404.mp3</Narrator>
+    <Flash x="" y="" width="" height="" targetId="" text="" textColor="#000000">swf/empty.swf</Flash>
+    <Image x="649" y="248" swfSizing="stage" width="194" height="174">images/BLM_404.jpg</Image>
+    <Video x="80" y="245" width="240" height="167" autostart="false"/>
+    <Background>images/BLM_bg4.jpg</Background>
+    <information><![CDATA[<A HREF="http://www.youtube.com/watch?v=gMrrybE8784&feature=youtube_gdata" TARGET="_blank"><U>Click here for this screen's instruction video</U></A>…</FONT></P>
+This is a basic template.
+Main Screen: Title and Content change the text displayed on the screen.
+Add or remove child screens to alter the length of the slideshow.]]></information>
+  <navigation></navigation></screen>
+	<screen>
+		<screen_id keywords="Book, Page, 3D, Paper, Notes, Notepad, Notes, Document" x="100" y="70">5</screen_id>
+		<Template>4</Template>
+		<Section>The Problem</Section>
+		<Content bgColor="#FFFFFF" hasBackground="true" height="210" width="546" x="361" y="-19">
+			<![CDATA[<p id="docs-internal-guid-51b27c34-7fff-ca6c-0624-888ea92a71c2" dir="ltr"><span style="font-size: 24px; font-family: arial, helvetica, sans-serif;">As we have seen, there is a war on black people in the United States.&nbsp; It is being waged by some of the people who have sworn to protect and serve.</span></p><p dir="ltr"><span style="font-family: arial, helvetica, sans-serif;"><span style="font-size: 24px;">This is completely unacceptable. Humankind should be enraged.&nbsp;</span></span></p>]]>
+		</Content>
+		<Narrator start="0" stop="400" x="-20" y="140" width="336" height="540">video/BLM_5.flv</Narrator>
+		<Flash height="" targetId="" text="" textColor="#000000" width="" x="" y="">swf/BLM_5.swf</Flash>
+		<Image height="300" targetId="" text="" textColor="#000000" width="300" x="280" y="190"></Image>
+		<Video autostart="false" height="167" width="240" x="80" y="245"/>
+		<Background>images/BLM_BG5.jpg</Background>
+		<information/>
+	</screen>
+	<screen>
+		<screen_id x="100" y="70">501</screen_id>
+		<Template>4</Template>
+		<Content bgColor="#FFFFFF" hasBackground="false" height="279" width="350" x="450" y="30">
+			<![CDATA[<p><span style="font-size: 24px; font-family: arial, helvetica, sans-serif;">The violence and beatings are just the tip of the iceberg.&nbsp; Black people face discrimination that has resulted in the deck stacked against them from birth. <br /></span></p>]]>
+		</Content>
+		<Narrator start="0" stop="400" x="0" y="200">sound/BLM_501.mp3</Narrator>
+		<Image targetId="" text="" textColor="#000000" x="51" y="14" width="380" height="484">images/BLM_501.jpg</Image>
+		<Video autostart="false" height="167" width="240" x="80" y="245"/>
+		<Background>images/Health_Hospital.jpg</Background>
+	</screen>
+	<screen>
+		<screen_id x="100" y="70">502</screen_id>
+		<Template>4</Template>
+		<Content bgColor="#FFFFFF" hasBackground="false" height="470" width="350" x="450" y="30">
+			<![CDATA[<p id="docs-internal-guid-10aaa1ce-7fff-a033-3e4c-4756806dfa76" dir="ltr"><strong><span style="font-size: 24px; font-family: arial, helvetica, sans-serif;">The Path of Discrimination</span></strong></p><p dir="ltr">&nbsp;</p><p dir="ltr"><span style="font-size: 24px; font-family: arial, helvetica, sans-serif;">In the USA 48% of black pupils will get suspended at school.</span></p><p dir="ltr">&nbsp;</p><p dir="ltr"><span style="font-size: 24px; font-family: arial, helvetica, sans-serif;">Only 5% of white pupils get suspended.</span></p>]]>
+		</Content>
+		<Narrator start="0" stop="400" x="0" y="200">sound/BLM_502.mp3</Narrator>
+		<Image targetId="" text="" textColor="#000000" x="51" y="14" width="380" height="484">images/BLM_502.jpg</Image>
+		<Video autostart="false" height="167" width="240" x="80" y="245"/>
+		<Background>images/room_14.jpg</Background>
+	</screen>
+	<screen>
+		<screen_id x="100" y="70">503</screen_id>
+		<Template>4</Template>
+		<Content bgColor="#FFFFFF" hasBackground="false" height="222" width="350" x="448" y="179">
+			<![CDATA[<p><span style="font-size: 24px; font-family: arial, helvetica, sans-serif;">Unsurprisingly, black students are 33% less likely to get a college degree. <br /></span></p>]]>
+		</Content>
+		<Narrator start="0" stop="400" x="0" y="200">sound/BLM_503.mp3</Narrator>
+		<Image targetId="" text="" textColor="#000000" x="51" y="14" width="380" height="484">images/BLM_503.jpg</Image>
+		<Video autostart="false" height="167" width="240" x="80" y="245"/>
+		<Background>images/building_9.jpg</Background>
+	</screen>
+	<screen>
+		<screen_id x="100" y="70">504</screen_id>
+		<Template>4</Template>
+		<Content x="477" y="120" width="258" height="142" hasBackground="true" bgColor="#FFFFFF"><![CDATA[<p align="LEFT"><span style="font-family: Arial;"><span style="font-size: 24px;">32 black teens get killed per million of the population, compare with 1.5 white teens.</span></span></p>]]></Content>
+		<Narrator start="0" stop="400" x="0" y="200">sound/BLM_504.mp3</Narrator>
+		<Image targetId="" text="" textColor="#000000" x="51" y="14" width="380" height="484">images/BLM_504.jpg</Image>
+		<Video autostart="false" height="167" width="240" x="80" y="245"/>
+		<Background>images/abstract_1.jpg</Background>
+	</screen>
+	<screen>
+		<screen_id x="100" y="70">505</screen_id>
+		<Template>4</Template>
+		<Content bgColor="#FFFFFF" hasBackground="false" height="167" width="350" x="455" y="150">
+			<![CDATA[<p><span style="font-size: 24px; font-family: arial, helvetica, sans-serif;">One in 3 black males will go to prison, compared with one in 18 whites. </span></p>]]>
+		</Content>
+		<Narrator start="0" stop="400" x="0" y="200">sound/BLM_505.mp3</Narrator>
+		<Image targetId="" text="" textColor="#000000" x="51" y="14" width="380" height="484">images/BLM_505.jpg</Image>
+		<Video autostart="false" height="167" width="240" x="80" y="245"/>
+		<Background>images/broken_window.jpg</Background>
+	</screen>
+	<screen>
+		<screen_id x="100" y="70">506</screen_id>
+		<Template>4</Template>
+		<Content bgColor="#FFFFFF" hasBackground="false" height="338" width="350" x="452" y="93">
+			<![CDATA[<p id="docs-internal-guid-e4dfeb96-7fff-6094-96be-95fe05c1423e" dir="ltr"><span style="font-size: 24px; font-family: arial, helvetica, sans-serif;">At work black income is on average 64% of whites.</span></p><p dir="ltr">&nbsp;</p><p dir="ltr"><span style="font-size: 24px; font-family: arial, helvetica, sans-serif;">This endemic discrimination has to stop. So this begs the question... what can you do?</span></p>]]>
+		</Content>
+		<Narrator start="0" stop="400" x="0" y="200">sound/BLM_506.mp3</Narrator>
+		<Image targetId="" text="" textColor="#000000" x="51" y="14" width="380" height="484">images/BLM_506.jpg</Image>
+		<Video autostart="false" height="167" width="240" x="80" y="245"/>
+		<Background>images/building_car_park.jpg</Background>
+	</screen>
+	<screen>
+		<screen_id x="100" y="70">507</screen_id>
+		<Template>4</Template>
+		<Content bgColor="#FFFFFF" hasBackground="false" height="470" width="350" x="450" y="30">
+			<![CDATA[<p id="docs-internal-guid-8932d6d7-7fff-1f0b-b470-97814f2c086d" dir="ltr"><strong><span style="font-size: 24px; font-family: arial, helvetica, sans-serif;">A Global Problem <br /></span></strong></p><p dir="ltr">&nbsp;</p><p dir="ltr"><span style="font-size: 24px; font-family: arial, helvetica, sans-serif;">These statistics are figures from the whole of&nbsp; United States.&nbsp; They may not directly reflect your community, society or country.&nbsp;&nbsp;</span></p><p>&nbsp;</p><p dir="ltr"><span style="font-size: 24px; font-family: arial, helvetica, sans-serif;">You may live thousands of miles away from Minneapolis, but racism is a global issue. It is not one that is merely confined to the United States - it is everywhere, and it is systemic. </span></p>]]>
+		</Content>
+		<Narrator start="0" stop="400" x="0" y="200">sound/BLM_507.mp3</Narrator>
+		<Image targetId="" text="" textColor="#000000" x="51" y="14" width="380" height="484">images/BLM_507.jpg</Image>
+		<Video autostart="false" height="167" width="240" x="80" y="245"/>
+		<Background>images/abstract_light_blue.jpg</Background>
+	</screen>
+	<screen>
+		<screen_id x="100" y="70">508</screen_id>
+		<Template>4</Template>
+		
+		<Narrator start="0" stop="400" x="0" y="200">sound/BLM_508.mp3</Narrator><Narrator_1 x="-50" y="325" start="">sound/BLM_508_1.mp3</Narrator_1>
+		<Image targetId="" text="" textColor="#000000" x="51" y="14" width="380" height="484">images/BLM_508.jpg</Image>
+		<Video autostart="false" height="223" width="332" x="561" y="327">https://www.youtube.com/watch?v=GGXEB25WdyQ</Video>
+		<Background>images/city_park.jpg</Background>
+	<Content x="455" y="29" width="339" height="249" hasBackground="false" bgColor="#000000"><![CDATA[<p align="LEFT"><span style="font-family: arial, helvetica, sans-serif; font-size: 24px;">Saying we&rsquo;re better than them is not saying we do not have a problem?&nbsp; The global protests have shown that hurt caused by racism is everywhere.&nbsp; This film of the actor John Boyega was shot at the London protests.</span></p>]]></Content></screen>
+	<screen>
+		<screen_id x="100" y="70">509</screen_id>
+		<Template>4</Template>
+		<Content bgColor="#FFFFFF" hasBackground="false" height="470" width="350" x="450" y="30">
+			<![CDATA[<p id="docs-internal-guid-9c6119f2-7fff-759a-12eb-7dab2ddf750a" dir="ltr"><strong><span style="font-size: 24px; font-family: arial, helvetica, sans-serif;">Racism at Work </span></strong></p><p dir="ltr"><span style="font-size: 24px; font-family: arial, helvetica, sans-serif;">Prejudices that have been conditioned into us from an early age are bought into the working environment.&nbsp;</span></p><p dir="ltr">&nbsp;</p><p><span style="font-size: 24px; font-family: arial, helvetica, sans-serif;">Assumptions and judgements lead to discrimination against people of colour throughout the employee life cycle, whether that&rsquo;s in the recruitment process, development opportunities, performance management, employee relations cases or dismissals.</span></p>]]>
+		</Content>
+		<Narrator start="0" stop="400" x="0" y="200">sound/BLM_509.mp3</Narrator>
+		<Image targetId="" text="" textColor="#000000" x="51" y="14" width="380" height="484">images/BLM_509.jpg</Image>
+		<Background>images/BLM_BG501.jpg</Background>
+	</screen><screen>
+    <screen_id x="180" y="180" keywords="Silhouettes, Law, Negotiation, Business, People, Legal, Justice, Court, Protest, Hands, Banner">6</screen_id>
+    <Template>4</Template>
+    <Section>&lt;p&gt;&lt;font face="Arial"&gt;What can we do?&lt;/font&gt;&lt;/p&gt;</Section>
+    <Content x="-83" y="-90" width="418" height="352" hasBackground="false" bgColor="#FFFFFF"><![CDATA[<p align="LEFT"><span style="font-family: Arial;"><span style="font-size: 24px;"><strong>It is no longer acceptable to simply state you are not racist, the time has come to take action.</strong></span></span></p>
+<p align="LEFT"><span style="font-family: Arial;"><span style="font-size: 24px;"><strong>&nbsp;</strong></span></span></p>
+<p align="LEFT"><span style="font-family: Arial;"><span style="font-size: 24px;"><strong>There are 3 real steps you can take to support the Black Lives Matter movement.&nbsp;&nbsp;</strong></span></span></p>
+<p>&nbsp;</p>]]></Content><Content_1 x="331" y="4" width="491" height="181" hasBackground="true" bgColor="#000000" bgAlpha="1" alpha="1"><![CDATA[<ol>
+<li><span style="font-family: Arial; color: #ffffff;"><span style="font-size: 24px;"><strong>Recognise your unconscious bias at work</strong></span></span></li>
+<li><span style="font-family: Arial; color: #ffffff;"><span style="font-size: 24px;"><strong>Call out unconscious bias and racism</strong></span></span></li>
+<li><span style="font-family: Arial; color: #ffffff;"><span style="font-size: 24px;"><strong>Act to make a change</strong></span></span></li>
+</ol>]]></Content_1>
+    <Narrator x="-50" y="325" start="">sound/BLM_6.mp3</Narrator>
+    <Flash x="" y="" width="" height="" targetId="" text="" textColor="#000000">swf/protest.swf</Flash>
+    
+    <Video x="80" y="245" width="240" height="167" autostart="false"/>
+    <Background>images/5.jpg</Background>
+    <information><![CDATA[<A HREF="http://www.youtube.com/watch?v=yu7JNY_X8HU" TARGET="_blank"><U>Click here for this screen's basic instruction video</U></A>…</FONT></P>
+If you have Adobe Flash and want to find out how to edit the Flash template then <A HREF="http://www.youtube.com/watch?v=TtCQB4asTQc" TARGET="_blank"><U>Click here</U></A>…</FONT></P>
+This is a basic multi-step template.
+Main Screen: Title and Content change the text displayed on the screen.
+Child Screens: The Title and Content change the text displayed, add/remove child screens to increase the steps up to the maximum shown.]]></information>
+  </screen><screen>
+    <screen_id x="0" y="0" keywords="Work, Office, Whiteboard, Board, Presentation">7</screen_id>
+    <Template>4</Template>
+    <Section>&lt;p&gt;&lt;font face="Arial"&gt;What is unconscious bias?&lt;/font&gt;&lt;/p&gt;</Section>
+    <Content x="391" y="125" width="620" height="309" hasBackground="false" bgColor="#FFFFFF"><![CDATA[<p align="LEFT"><font face="Arial"><span style="font-size: 24px;"><strong>What is unconscious bias?</strong></span></font></p>
+<p align="LEFT">&nbsp;</p>
+<p align="LEFT"><font face="Arial"><span style="font-size: 24px;">It is an assumption that we make &ndash; a prejudice that we have &ndash; that we may not even realise.</span></font></p>
+<p align="LEFT">&nbsp;</p>
+<p align="LEFT"><font face="Arial"><span style="font-size: 24px;">It&rsquo;s not something that we have thought about and consciously decided upon. It&rsquo;s not based on reasoning.</span></font></p>
+<p>&nbsp;</p>]]></Content>
+    <Narrator x="-2" y="154" start="" width="281" height="498">video/BLM_7.flv</Narrator>
+    <Flash x="" y="" width="" height="" targetId="" text="" textColor="#000000">swf/Introduction_screen.swf</Flash>
+    <Image x="" y="" width="" height="" targetId="" text="" textColor="#000000"/>
+    <Video x="80" y="245" width="240" height="167" autostart="false"/>
+    <Background>images/Sim_GDPR_CS_BG2.jpg</Background>
+    <information/>
+  </screen><screen>
+    <screen_id x="0" y="0">701</screen_id>
+    <Template>4</Template>
+    <Content x="389" y="72" width="620" height="101" hasBackground="false" bgColor="#FFFFFF"><![CDATA[<p align="LEFT"><font face="Arial"><span style="font-size: 24px;">As you can see, such biases can put innocent people in danger ...</span></font></p>]]></Content>
+    <Narrator x="-50" y="325" start="">sound/BLM_701.mp3</Narrator>
+    <Image x="" y="" width="" height="" targetId="" text="" textColor="#000000"/>
+    <Video x="453" y="156" width="503" height="284" autostart="false">
+                https://www.youtube.com/watch?v=iUQWd4q3tjA
+            </Video>
+  </screen><screen>
+    <screen_id x="220" keywords="Silhouettes, Manager, Businessman, Thinking, Talking, Negotiation, Mediation, Consultation" y="210">8</screen_id>
+    <Template>4</Template>
+    <Section>How does unconscious bias work?</Section>
+    <Content width="340" x="440" height="380" y="-100" bgColor="#FFFFFF" hasBackground="false">&lt;P ALIGN="CENTER"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;‘Psychologists tell us that our unconscious biases are simply our tendency to prefer people who are like us, sound like us, and share our interests.’&lt;/FONT&gt;&lt;/P&gt;</Content>
+    <Narrator start="0" x="100" stop="400" y="170">sound/bias_4.mp3</Narrator>
+    <Flash width="" x="" height="" y="" text="" targetId="" textColor="#000000">swf/Bias_4.swf</Flash>
+    <Image width="200" x="-100" height="200" y="-180" text="" targetId="" textColor="#000000">images/Bias_4a.png</Image>
+    <Video width="240" x="80" height="167" y="245" autostart="false"/>
+    <Background>images/people1.jpg</Background>
+    <information/>
+  </screen><screen>
+    <screen_id x="180" y="210">801</screen_id>
+    <Template>4</Template>
+    <Content width="360" x="-185" height="380" y="-170" bgColor="#FFFFFF" hasBackground="false">&lt;P ALIGN="CENTER"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt; ‘Social psychologists say that we routinely and rapidly sort people into groups. This preference bypasses our normal, rational, and logical thinking.’&lt;/FONT&gt;&lt;/P&gt;</Content>
+    <Narrator start="0" x="100" stop="400" y="170">sound/bias_401.mp3</Narrator>
+    <Image width="200" x="500" height="200" y="-130" text="" targetId="" textColor="#000000">images/Bias_4b.png</Image>
+    <Video width="240" x="80" height="167" y="245" autostart="false"/>
+  </screen><screen>
+    <screen_id x="180" y="210">802</screen_id>
+    <Template>4</Template>
+    <Content width="340" x="440" height="380" y="-80" bgColor="#FFFFFF" hasBackground="false">&lt;P ALIGN="CENTER"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;‘We use these processes very effectively, but the categories we use to sort people are not logical, modern, or perhaps even legal.’&lt;/FONT&gt;&lt;/P&gt;</Content>
+    <Narrator start="0" x="100" stop="400" y="170">sound/bias_402.mp3</Narrator>
+    <Image width="200" x="-100" height="200" y="-180" text="" targetId="" textColor="#000000">images/Bias_4c.png</Image>
+    <Video width="240" x="80" height="167" y="245" autostart="false"/>
+  </screen><screen>
+    <screen_id x="180" y="210">803</screen_id>
+    <Template>4</Template>
+    <Content width="360" x="-190" height="380" y="-140" bgColor="#FFFFFF" hasBackground="false">&lt;P ALIGN="CENTER"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;‘These neurological “short cuts” can also lead to bias and poor decision making.’&lt;/FONT&gt;&lt;/P&gt;</Content>
+    <Narrator start="0" x="100" stop="400" y="170">sound/bias_403.mp3</Narrator>
+    <Image width="200" x="500" height="200" y="-130" text="" targetId="" textColor="#000000">images/Bias_4d.png</Image>
+    <Video width="240" x="80" height="167" y="245" autostart="false"/>
+  </screen><screen>
+    <screen_id x="150" keywords="Silhouettes, Manager, Businessman, Businesswoman, Thinking, Talking, Negotiation, Mediation, Consultation" y="150">9</screen_id>
+    <Template>9</Template>
+    <Section>Leadership</Section>
+    <Content width="700" x="-110" height="60" y="-90" bgColor="#FFFFFF" hasBackground="true">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;Have a look at this line up – at first glance, who do you think is likely to be a Chief Executive (click on one choice.)? &lt;/FONT&gt;&lt;/P&gt;</Content>
+    <Narrator start="0" x="796" stop="400" y="113" width="305" height="540">video/BLM_9.flv</Narrator>
+    <Flash width="" x="" height="" y="" text="" targetId="" textColor="#000000">swf/Bias_5.swf</Flash>
+    <Image width="" x="" height="" y="" text="" targetId="" textColor="#000000"/>
+    <Video width="240" x="580" height="147" y="300" autostart="false"/>
+    <Background>images/meeting_room.jpg</Background>
+    <information/>
+  </screen><screen>
+    <screen_id x="200" y="150">901</screen_id>
+    <Template>9</Template>
+    <Content width="700" x="-110" height="60" y="-90" bgColor="#FFFFFF" hasBackground="true">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;Studies show that most people pick 2 or 3 due to dress, age and even height.&lt;/FONT&gt;&lt;/P&gt;</Content>
+    <Narrator start="0" x="400" stop="400" y="170">sound/bias_501.mp3</Narrator>
+    <Image width="" x="" height="" y="" text="" targetId="" textColor="#000000"/>
+    <Video width="240" x="80" height="167" y="245" autostart="false"/>
+  </screen><screen>
+    <screen_id x="200" y="150">902</screen_id>
+    <Template>9</Template>
+    <Content width="320" x="570" height="440" y="-90" bgColor="#FFFFFF" hasBackground="true">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;B&gt;Fortune 500 Company Research &lt;/B&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;Did you know however that a study of the Fortune 500 companies showed that 58% of Chief Execs are six ft or over while in the general population of men, only 14.5% are six feet or over. &lt;FONT SIZE="24"&gt; &lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;This is one reason why executive cars are always larger! &lt;/FONT&gt;&lt;/P&gt;</Content>
+    <Narrator start="0" x="100" stop="400" y="170">sound/bias_502.mp3</Narrator>
+    <Image width="100" x="160" height="100" y="-105" text="" targetId="" textColor="#000000">images/Bias_5a.jpg</Image>
+    <Video width="240" x="80" height="167" y="245" autostart="false"/>
+  </screen><screen>
+    <screen_id x="200" y="150">903</screen_id>
+    <Template>9</Template>
+    <Content width="320" x="570" height="210" y="-90" bgColor="#FFFFFF" hasBackground="true">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;One possible reason for this might be that the stereotype of what a leader is “supposed” to look like is big and powerful and may get in the way of other considerations.&lt;/FONT&gt;&lt;/P&gt;</Content>
+    <Narrator start="0" x="100" stop="400" y="170">sound/bias_503.mp3</Narrator>
+    <Image width="" x="" height="" y="" text="" targetId="" textColor="#000000"/>
+    <Video width="240" x="80" height="167" y="245" autostart="false"/>
+  </screen><screen>
+    <screen_id x="200" y="150">904</screen_id>
+    <Template>9</Template>
+    <Content width="320" x="570" height="210" y="-90" bgColor="#FFFFFF" hasBackground="true">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;Judgements about physical attributes and gender come into play here.  Another example of this would be that Fortune 500 CEOs are overwhelmingly white men!&lt;/FONT&gt;&lt;/P&gt;</Content>
+    <Narrator start="0" x="100" stop="400" y="170">sound/bias_504.mp3</Narrator>
+    <Image width="300" x="130" height="596" y="-80" text="" targetId="" textColor="#000000">images/Bias_5b.png</Image>
+    <Image_1 width="100" x="-15" height="100" y="-40" text="" targetId="" textColor="#000000">images/Bias_5a.jpg</Image_1>
+    <Video width="240" x="80" height="167" y="245" autostart="false"/>
+  </screen><screen>
+    <screen_id x="90" keywords="Silhouettes, Page, Document, Paper, Thinking, List" y="-20">10</screen_id>
+    <Template>4</Template>
+    <Section>When is unconscious bias most active?</Section>
+    <Content width="260" x="180" height="380" y="120" bgColor="#FFFFFF" hasBackground="true">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;B&gt;When is unconscious bias most active?&lt;/B&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;Tick all that apply&lt;/FONT&gt;&lt;/P&gt;</Content>
+    <Content_1 width="410" x="590" height="380" y="120" bgColor="#FFFFFF" hasBackground="false"><![CDATA[<p align="LEFT"><span style="color: #000000; font-size: 24px;">When you are:</span></p>
+<p align="LEFT"><span style="color: #000000; font-size: 22px;"> Under stress</span></p>
+<p align="LEFT"><span style="color: #000000; font-size: 22px;"> Calm and relaxed</span></p>
+<p align="LEFT"><span style="color: #000000; font-size: 22px;"> Under time constraints</span></p>
+<p align="LEFT"><span style="color: #000000; font-size: 22px;"> Tired</span></p>
+<p align="LEFT"><span style="color: #000000; font-size: 22px;"> Happy</span></p>
+<p align="LEFT"><span style="color: #000000; font-size: 22px;"> Frustrated</span></p>
+<p align="LEFT"><span style="color: #000000; font-size: 22px;"> Angry</span></p>]]></Content_1>
+    <Narrator start="0" x="100" stop="400" y="170">sound/bias_6.mp3</Narrator>
+    <Flash width="" x="" height="" y="" text="" targetId="" textColor="#000000">swf/Bias_6.swf</Flash>
+    <Image width="" x="" height="" y="" text="" targetId="" textColor="#000000"/>
+    <Video width="240" x="80" height="167" y="245" autostart="false"/>
+    <Background>images/corporate_office3.jpg</Background>
+    <information/>
+  </screen><screen>
+    <screen_id x="50" y="20">1001</screen_id>
+    <Template>4</Template>
+    <Content width="377" x="113" height="391" y="109" bgColor="#FFFFFF" hasBackground="true">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;Bias is more likely to influence behaviour when someone is cognitively strained, such as when emotionally stressed, under time constraints, or distracted.&lt;FONT SIZE="24"&gt; &lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt; &lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;Bias is also more likely when someone is operating on “auto-pilot,” or acting without being self-reflective and mindful of one’s motivations and thinking.&lt;/FONT&gt;&lt;/P&gt;</Content>
+    <Content_1 width="410" x="590" height="380" y="120" bgColor="#FFFFFF" hasBackground="false"><![CDATA[<p align="LEFT"><span style="color: #000000; font-size: 24px;">When you are:</span></p>
+<p align="LEFT"><span style="color: #000000; font-size: 22px;"> Under stress</span></p>
+<p align="LEFT"><span style="color: #000000; font-size: 22px;"> Calm and relaxed</span></p>
+<p align="LEFT"><span style="color: #000000; font-size: 22px;"> Under time constraints</span></p>
+<p align="LEFT"><span style="color: #000000; font-size: 22px;"> Tired</span></p>
+<p align="LEFT"><span style="color: #000000; font-size: 22px;"> Happy</span></p>
+<p align="LEFT"><span style="color: #000000; font-size: 22px;"> Frustrated</span></p>
+<p align="LEFT"><span style="color: #000000; font-size: 22px;"> Angry</span></p>]]></Content_1>
+    <Narrator x="-50" y="325" start="">sound/BLM_1001mp3.mp3</Narrator>
+    <Image width="" x="" height="" y="" text="" targetId="" textColor="#000000"/>
+    <Video width="240" x="80" height="167" y="245" autostart="false"/>
+  </screen><screen>
+    <screen_id x="150" keywords="Quiz, Questionnaire, Question, Exam, Multiple Choice" y="100">11</screen_id>
+    <Template>9</Template>
+    <Section>What do you see?</Section>
+    <Content width="350" x="-50" height="380" y="0" bgColor="#FFFFFF" hasBackground="false">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;B&gt;How many legs does the elephant have?&lt;/B&gt;&lt;/FONT&gt;&lt;/P&gt;</Content>
+    <Content_1 width="550" x="-50" height="380" y="265" bgColor="#FFFFFF" hasBackground="false">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;One&lt;/FONT&gt;&lt;/P&gt;</Content_1>
+    <Content_2 width="550" x="-50" height="380" y="310" bgColor="#FFFFFF" hasBackground="false">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;Two&lt;/FONT&gt;&lt;/P&gt;</Content_2>
+    <Content_3 width="550" x="-50" height="380" y="355" bgColor="#FFFFFF" hasBackground="false">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;Three&lt;/FONT&gt;&lt;/P&gt;</Content_3>
+    <Content_4 width="550" x="-50" height="380" y="400" bgColor="#FFFFFF" hasBackground="false">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;Four&lt;/FONT&gt;&lt;/P&gt;</Content_4>
+    <Narrator start="0" x="100" stop="400" y="170">sound/bias_8.mp3</Narrator>
+    <Flash width="" x="" height="" y="" text="" targetId="" textColor="#000000">swf/Bias_8.swf</Flash>
+    <Image width="400" x="450" height="288" y="-50" text="" targetId="" textColor="#000000">images/Bias_8a.jpg</Image>
+    <Video width="240" x="80" height="167" y="245" autostart="false"/>
+    <Background>images/corporate_white_wall.jpg</Background>
+    <information/>
+  </screen><screen>
+    <screen_id x="200" y="150">1101</screen_id>
+    <Template>9</Template>
+    <Content width="550" x="-120" height="380" y="-60" bgColor="#FFFFFF" hasBackground="false">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;B&gt;What do you see?&lt;/B&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;The only correct elephant leg in the drawing is the back left leg. That leg is completely intact, but the others aren’t. If you look very closely, you’ll see that the rest of the legs have the foot missing from them. Basically, the artist chopped the feet off of the legs and put the images of the feet between the actual legs. Look closely at the image and you’ll see exactly what I’m talking about.&lt;/FONT&gt;&lt;/P&gt;</Content>
+    <Content_1 width="550" x="-50" height="380" y="265" bgColor="#FFFFFF" hasBackground="false">&lt;P ALIGN="LEFT"&gt;&lt;FONT FACE="Arial" SIZE="24" COLOR="#339900" LETTERSPACING="0" KERNING="0"&gt;&lt;B&gt;One&lt;/B&gt;&lt;FONT COLOR="#CC0000"&gt;&lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;</Content_1>
+    <Content_2 width="550" x="-50" height="380" y="310" bgColor="#FFFFFF" hasBackground="false">&lt;P ALIGN="LEFT"&gt;&lt;FONT FACE="Arial" SIZE="24" COLOR="#CC0000" LETTERSPACING="0" KERNING="0"&gt;&lt;B&gt;Two&lt;/B&gt;&lt;/FONT&gt;&lt;/P&gt;</Content_2>
+    <Content_3 width="550" x="-50" height="380" y="355" bgColor="#FFFFFF" hasBackground="false">&lt;P ALIGN="LEFT"&gt;&lt;FONT FACE="Arial" SIZE="24" COLOR="#CC0000" LETTERSPACING="0" KERNING="0"&gt;&lt;B&gt;Three&lt;/B&gt;&lt;/FONT&gt;&lt;/P&gt;</Content_3>
+    <Content_4 width="550" x="-50" height="380" y="400" bgColor="#FFFFFF" hasBackground="false">&lt;P ALIGN="LEFT"&gt;&lt;FONT FACE="Arial" SIZE="24" COLOR="#CC0000" LETTERSPACING="0" KERNING="0"&gt;&lt;B&gt;Four&lt;/B&gt;&lt;/FONT&gt;&lt;/P&gt;</Content_4>
+    <Narrator start="0" x="100" stop="400" y="170">sound/bias_801.mp3</Narrator>
+    <Image width="400" x="450" height="288" y="-50" text="" targetId="" textColor="#000000">images/Bias_8b.jpg</Image>
+    <Video width="240" x="80" height="167" y="245" autostart="false"/>
+  </screen><screen>
+    <screen_id x="200" y="150">1102</screen_id>
+    <Template>9</Template>
+    <Content width="550" x="-120" height="380" y="-60" bgColor="#FFFFFF" hasBackground="false">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;B&gt;What do you see?&lt;/B&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;The only correct elephant leg in the drawing is the back left leg. That leg is completely intact, but the others aren’t. If you look very closely, you’ll see that the rest of the legs have the foot missing from them. Basically, the artist chopped the feet off of the legs and put the images of the feet between the actual legs. Look closely at the image and you’ll see exactly what I’m talking about.&lt;/FONT&gt;&lt;/P&gt;</Content>
+    <Content_1 width="550" x="-50" height="380" y="265" bgColor="#FFFFFF" hasBackground="false">&lt;P ALIGN="LEFT"&gt;&lt;FONT FACE="Arial" SIZE="24" COLOR="#339900" LETTERSPACING="0" KERNING="0"&gt;&lt;B&gt;One&lt;/B&gt;&lt;FONT COLOR="#CC0000"&gt;&lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;</Content_1>
+    <Content_2 width="550" x="-50" height="380" y="310" bgColor="#FFFFFF" hasBackground="false">&lt;P ALIGN="LEFT"&gt;&lt;FONT FACE="Arial" SIZE="24" COLOR="#CC0000" LETTERSPACING="0" KERNING="0"&gt;&lt;B&gt;Two&lt;/B&gt;&lt;/FONT&gt;&lt;/P&gt;</Content_2>
+    <Content_3 width="550" x="-50" height="380" y="355" bgColor="#FFFFFF" hasBackground="false">&lt;P ALIGN="LEFT"&gt;&lt;FONT FACE="Arial" SIZE="24" COLOR="#CC0000" LETTERSPACING="0" KERNING="0"&gt;&lt;B&gt;Three&lt;/B&gt;&lt;/FONT&gt;&lt;/P&gt;</Content_3>
+    <Content_4 width="550" x="-50" height="380" y="400" bgColor="#FFFFFF" hasBackground="false">&lt;P ALIGN="LEFT"&gt;&lt;FONT FACE="Arial" SIZE="24" COLOR="#CC0000" LETTERSPACING="0" KERNING="0"&gt;&lt;B&gt;Four&lt;/B&gt;&lt;/FONT&gt;&lt;/P&gt;</Content_4>
+    <Narrator start="0" x="100" stop="400" y="170">sound/bias_801.mp3</Narrator>
+    <Image width="400" x="450" height="288" y="-50" text="" targetId="" textColor="#000000">images/Bias_8b.jpg</Image>
+    <Video width="240" x="80" height="167" y="245" autostart="false"/>
+  </screen><screen>
+    <screen_id x="200" y="150">1103</screen_id>
+    <Template>9</Template>
+    <Content width="550" x="-120" height="380" y="-60" bgColor="#FFFFFF" hasBackground="false">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;B&gt;What do you see?&lt;/B&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;The only correct elephant leg in the drawing is the back left leg. That leg is completely intact, but the others aren’t. If you look very closely, you’ll see that the rest of the legs have the foot missing from them. Basically, the artist chopped the feet off of the legs and put the images of the feet between the actual legs. Look closely at the image and you’ll see exactly what I’m talking about.&lt;/FONT&gt;&lt;/P&gt;</Content>
+    <Content_1 width="550" x="-50" height="380" y="265" bgColor="#FFFFFF" hasBackground="false">&lt;P ALIGN="LEFT"&gt;&lt;FONT FACE="Arial" SIZE="24" COLOR="#339900" LETTERSPACING="0" KERNING="0"&gt;&lt;B&gt;One&lt;/B&gt;&lt;FONT COLOR="#CC0000"&gt;&lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;</Content_1>
+    <Content_2 width="550" x="-50" height="380" y="310" bgColor="#FFFFFF" hasBackground="false">&lt;P ALIGN="LEFT"&gt;&lt;FONT FACE="Arial" SIZE="24" COLOR="#CC0000" LETTERSPACING="0" KERNING="0"&gt;&lt;B&gt;Two&lt;/B&gt;&lt;/FONT&gt;&lt;/P&gt;</Content_2>
+    <Content_3 width="550" x="-50" height="380" y="355" bgColor="#FFFFFF" hasBackground="false">&lt;P ALIGN="LEFT"&gt;&lt;FONT FACE="Arial" SIZE="24" COLOR="#CC0000" LETTERSPACING="0" KERNING="0"&gt;&lt;B&gt;Three&lt;/B&gt;&lt;/FONT&gt;&lt;/P&gt;</Content_3>
+    <Content_4 width="550" x="-50" height="380" y="400" bgColor="#FFFFFF" hasBackground="false">&lt;P ALIGN="LEFT"&gt;&lt;FONT FACE="Arial" SIZE="24" COLOR="#CC0000" LETTERSPACING="0" KERNING="0"&gt;&lt;B&gt;Four&lt;/B&gt;&lt;/FONT&gt;&lt;/P&gt;</Content_4>
+    <Narrator start="0" x="100" stop="400" y="170">sound/bias_801.mp3</Narrator>
+    <Image width="400" x="450" height="288" y="-50" text="" targetId="" textColor="#000000">images/Bias_8b.jpg</Image>
+    <Video width="240" x="80" height="167" y="245" autostart="false"/>
+  </screen><screen>
+    <screen_id x="200" y="150">1104</screen_id>
+    <Template>9</Template>
+    <Content width="550" x="-120" height="380" y="-60" bgColor="#FFFFFF" hasBackground="false">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;B&gt;What do you see?&lt;/B&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;The only correct elephant leg in the drawing is the back left leg. That leg is completely intact, but the others aren’t. If you look very closely, you’ll see that the rest of the legs have the foot missing from them. Basically, the artist chopped the feet off of the legs and put the images of the feet between the actual legs. Look closely at the image and you’ll see exactly what I’m talking about.&lt;/FONT&gt;&lt;/P&gt;</Content>
+    <Content_1 width="550" x="-50" height="380" y="265" bgColor="#FFFFFF" hasBackground="false">&lt;P ALIGN="LEFT"&gt;&lt;FONT FACE="Arial" SIZE="24" COLOR="#339900" LETTERSPACING="0" KERNING="0"&gt;&lt;B&gt;One&lt;/B&gt;&lt;FONT COLOR="#CC0000"&gt;&lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;</Content_1>
+    <Content_2 width="550" x="-50" height="380" y="310" bgColor="#FFFFFF" hasBackground="false">&lt;P ALIGN="LEFT"&gt;&lt;FONT FACE="Arial" SIZE="24" COLOR="#CC0000" LETTERSPACING="0" KERNING="0"&gt;&lt;B&gt;Two&lt;/B&gt;&lt;/FONT&gt;&lt;/P&gt;</Content_2>
+    <Content_3 width="550" x="-50" height="380" y="355" bgColor="#FFFFFF" hasBackground="false">&lt;P ALIGN="LEFT"&gt;&lt;FONT FACE="Arial" SIZE="24" COLOR="#CC0000" LETTERSPACING="0" KERNING="0"&gt;&lt;B&gt;Three&lt;/B&gt;&lt;/FONT&gt;&lt;/P&gt;</Content_3>
+    <Content_4 width="550" x="-50" height="380" y="400" bgColor="#FFFFFF" hasBackground="false">&lt;P ALIGN="LEFT"&gt;&lt;FONT FACE="Arial" SIZE="24" COLOR="#CC0000" LETTERSPACING="0" KERNING="0"&gt;&lt;B&gt;Four&lt;/B&gt;&lt;/FONT&gt;&lt;/P&gt;</Content_4>
+    <Narrator start="0" x="100" stop="400" y="170">sound/bias_801.mp3</Narrator>
+    <Image width="400" x="450" height="288" y="-50" text="" targetId="" textColor="#000000">images/Bias_8b.jpg</Image>
+    <Video width="240" x="80" height="167" y="245" autostart="false"/>
+  </screen><screen>
+    <screen_id x="200" y="150">1105</screen_id>
+    <Template>9</Template>
+    <Content width="350" x="-50" height="380" y="0" bgColor="#FFFFFF" hasBackground="false">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;This demonstrates that the brain fills in gaps based on assumptions and previous experience.&lt;FONT SIZE="24"&gt; &lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;Some of this is necessary to make us function.&lt;FONT SIZE="24"&gt; &lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;But it can have a negative impact if we apply this to people by making assumptions about them.&lt;/FONT&gt;&lt;/P&gt;</Content>
+    <Narrator start="0" x="100" stop="400" y="170">sound/bias_802.mp3</Narrator>
+    <Image width="500" x="300" height="500" y="-30" text="" targetId="" textColor="#000000">images/Bias_8c.png</Image>
+    <Video width="240" x="80" height="167" y="245" autostart="false"/>
+  </screen><screen>
+    <screen_id x="160" keywords="3D, Falling Blocks, Cubes, Images, Presentation" y="130">12</screen_id>
+    <Template>5</Template>
+    <Section>Types of Bias</Section>
+    <Content width="912" x="-100" height="96" y="92" bgColor="#FFFFFF" hasBackground="true"><![CDATA[<p style="text-align: center;" align="LEFT"><span style="color: #000000; font-size: 24px;">There are many different types of bias that may affect our decision making at work. Impartial and better decisions are achievable if you can recognise such behaviour in yourself and others. </span></p>]]></Content>
+    <Narrator start="0" x="100" stop="400" y="170">sound/bias_9.mp3</Narrator>
+    <Image width="300" x="200" height="237" y="50" text="" targetId="" textColor="#000000"/>
+    <Video width="240" x="80" height="167" y="245" autostart="false"/>
+    <Background>images/lab.jpg</Background>
+    <information/>
+  </screen><screen>
+    <screen_id x="0" y="0">1201</screen_id>
+    <Template>5</Template>
+    <Content width="230" x="-140" height="550" y="-70" bgColor="#FFFFFF" hasBackground="true">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;B&gt;Halo and Horns&lt;/B&gt;&lt;FONT SIZE="24"&gt;&lt;B&gt; &lt;/B&gt;&lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;The halo effect is a cognitive bias where we see the good in people and don’t move away from that view, the horns effect is the opposite. Halo around the head, the person can’t put a foot wrong, horns, they can’t do anything right.&lt;/FONT&gt;&lt;/P&gt;</Content>
+    <Image width="300" x="200" height="237" y="50" text="" targetId="" textColor="#000000">images/Bias_9a.jpg</Image>
+    <Video width="240" x="80" height="167" y="245" autostart="false"/>
+    <Narrator start="0" x="100" stop="400" y="170">sound/bias_901.mp3</Narrator>
+  </screen><screen>
+    <screen_id x="0" y="0">1202</screen_id>
+    <Template>5</Template>
+    <Content width="230" x="-140" height="550" y="-70" bgColor="#FFFFFF" hasBackground="true">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;B&gt;Affinity Bias&lt;/B&gt;&lt;FONT SIZE="24"&gt;&lt;B&gt; &lt;/B&gt;&lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;Favouring people who share the same social background, who look and sound like you. You ignore their faults or don’t even notice them.&lt;/FONT&gt;&lt;/P&gt;</Content>
+    <Image width="300" x="200" height="237" y="50" text="" targetId="" textColor="#000000">images/Bias_9b.jpg</Image>
+    <Video width="240" x="80" height="167" y="245" autostart="false"/>
+    <Narrator start="0" x="100" stop="400" y="170">sound/bias_902.mp3</Narrator>
+  </screen><screen>
+    <screen_id x="0" y="0">1203</screen_id>
+    <Template>5</Template>
+    <Content width="230" x="-140" height="550" y="-70" bgColor="#FFFFFF" hasBackground="true">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;B&gt;Confirmation Bias&lt;/B&gt;&lt;FONT SIZE="24"&gt;&lt;B&gt; &lt;/B&gt;&lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;The tendency to search for or interpret information and behaviours in a way that confirms what we already believe.&lt;/FONT&gt;&lt;/P&gt;</Content>
+    <Image width="300" x="200" height="237" y="50" text="" targetId="" textColor="#000000">images/Bias_9c.jpg</Image>
+    <Video width="240" x="80" height="167" y="245" autostart="false"/>
+    <Narrator start="0" x="100" stop="400" y="170">sound/bias_903.mp3</Narrator>
+  </screen><screen>
+    <screen_id x="0" y="0">1204</screen_id>
+    <Template>5</Template>
+    <Content width="230" x="-140" height="550" y="-70" bgColor="#FFFFFF" hasBackground="true">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;B&gt;Social Comparison Bias&lt;/B&gt;&lt;FONT SIZE="24"&gt;&lt;B&gt; &lt;/B&gt;&lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;Having feelings of dislike and competitiveness with someone that you believe is physically or mentally a threat to yourself.&lt;/FONT&gt;&lt;/P&gt;</Content>
+    <Image width="300" x="200" height="237" y="50" text="" targetId="" textColor="#000000">images/Bias_9d.jpg</Image>
+    <Video width="240" x="80" height="167" y="245" autostart="false"/>
+    <Narrator start="0" x="100" stop="400" y="170">sound/bias_904.mp3</Narrator>
+  </screen><screen>
+    <screen_id x="0" y="0">1205</screen_id>
+    <Template>5</Template>
+    <Content width="230" x="-140" height="550" y="-70" bgColor="#FFFFFF" hasBackground="true">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;B&gt;Stereotype Threat&lt;/B&gt;&lt;FONT SIZE="24"&gt;&lt;B&gt; &lt;/B&gt;&lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;Being biased about  people who you feel conform to negative stereotypes about your social group.&lt;/FONT&gt;&lt;/P&gt;</Content>
+    <Image width="300" x="200" height="237" y="50" text="" targetId="" textColor="#000000">images/Bias_9e.jpg</Image>
+    <Video width="240" x="80" height="167" y="245" autostart="false"/>
+    <Narrator start="0" x="100" stop="400" y="170">sound/bias_905.mp3</Narrator>
+  </screen><screen>
+    <screen_id x="0" y="0">1206</screen_id>
+    <Template>5</Template>
+    <Content width="230" x="-140" height="550" y="-70" bgColor="#FFFFFF" hasBackground="true"><![CDATA[<p align="LEFT"><span style="color: #000000; font-size: 24px;"><strong>Gender Bias</strong> </span></p>
+<p align="LEFT">&nbsp;</p>
+<p align="LEFT"><span style="color: #000000; font-size: 24px;">Viewing different sexes as less competent and this could result in being over protective and asserting dominance over them.</span></p>
+<p align="LEFT">&nbsp;</p>
+<p align="LEFT"><span style="font-size: 24px;">Think how gender and racial biases have combined in your thinking.</span></p>]]></Content>
+    <Image width="300" x="200" height="237" y="50" text="" targetId="" textColor="#000000">images/Bias_9f.jpg</Image>
+    <Video width="240" x="80" height="167" y="245" autostart="false"/>
+    <Narrator start="0" x="100" stop="400" y="170">sound/BLM_1206.mp3</Narrator>
+  </screen><screen>
+    <screen_id x="200" keywords="Silhouettes, Manager, Businessman, Businesswoman, Presentation, Whiteboard" y="210">13</screen_id>
+    <Template>4</Template>
+    <Section>How can you overcome your biases?</Section>
+    <Content width="700" x="0" height="193" y="-110" bgColor="#FFFFFF" hasBackground="false">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;So we have learnt about unconscious biases and how to recognise them. Can you think about a time in your past where an unconscious bias would have affected your decision making.&lt;FONT SIZE="24"&gt; &lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;Think about how you would have acted differently if you were put in that position again.&lt;/FONT&gt;&lt;/P&gt;</Content>
+    <Narrator start="0" x="-11" stop="400" y="260" width="336" height="540">video/BLM_13.flv</Narrator>
+    <Flash width="" x="" height="" y="" text="" targetId="" textColor="#000000">swf/Bias_11.swf</Flash>
+    <Image x="591" y="47" width="164" height="198" swfSizing="stage">images/blm.png</Image>
+    <Video width="240" x="80" height="167" y="245" autostart="false"/>
+    <Background>images/BLM_BG3.jpg</Background>
+    <information/>
+  </screen><screen>
+    <screen_id x="200" y="210">1301</screen_id>
+    <Template>4</Template>
+    <Content width="400" x="-20" height="380" y="-110" bgColor="#FFFFFF" hasBackground="false">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;Remember these steps to reduce unconscious bias in future. Firstly assume that you are unconsciously biased.&lt;FONT SIZE="24"&gt; &lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;Many black civil rights leaders said that the great thing about JFK was not that he was not biased or prejudiced, but that he recognised that he was and attempted to do something about it.&lt;/FONT&gt;&lt;/P&gt;</Content>
+    <Narrator start="0" x="100" stop="400" y="170">sound/bias_1101.mp3</Narrator>
+    <Image width="240" x="480" height="240" y="-70" text="" targetId="" textColor="#000000">images/Bias_11a.jpg</Image>
+    <Video width="240" x="80" height="167" y="245" autostart="false"/>
+  </screen><screen>
+    <screen_id x="200" y="210">1302</screen_id>
+    <Template>4</Template>
+    <Content width="370" x="0" height="380" y="-80" bgColor="#FFFFFF" hasBackground="false">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;Stop and think before you act.&lt;FONT SIZE="24"&gt; &lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;Decisions made in haste can lead to mental shortcuts which often rely on ill conceived stereotypes.&lt;/FONT&gt;&lt;/P&gt;</Content>
+    <Narrator start="0" x="100" stop="400" y="170">sound/bias_1102.mp3</Narrator>
+    <Image width="240" x="480" height="240" y="-70" text="" targetId="" textColor="#000000">images/Bias_11b.jpg</Image>
+    <Video width="240" x="80" height="167" y="245" autostart="false"/>
+  </screen><screen>
+    <screen_id x="200" y="210">1303</screen_id>
+    <Template>4</Template>
+    <Content width="400" x="-20" height="380" y="-110" bgColor="#FFFFFF" hasBackground="false">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;Create a structure for decision making involving someone else too.&lt;FONT SIZE="24"&gt; &lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;Two heads are better than one, or will at least lead to different ways of thinking which can cause you to question any decisions as biased.&lt;/FONT&gt;&lt;/P&gt;</Content>
+    <Narrator start="0" x="100" stop="400" y="170">sound/bias_1103.mp3</Narrator>
+    <Image width="240" x="480" height="240" y="-70" text="" targetId="" textColor="#000000">images/Bias_11c.jpg</Image>
+    <Video width="240" x="80" height="167" y="245" autostart="false"/>
+  </screen><screen>
+    <screen_id x="200" y="210">1304</screen_id>
+    <Template>4</Template>
+    <Content width="400" x="-20" height="380" y="-110" bgColor="#FFFFFF" hasBackground="false"><![CDATA[<p align="LEFT"><span style="color: #000000; font-size: 24px;">Make an effort to really get to know someone. </span></p>
+<p align="LEFT">&nbsp;</p>
+<p align="LEFT"><span style="font-size: 24px;">See through physical attributes and understand what a person is really like.&nbsp; In societies where there is less segregation there is universally less racism.</span></p>]]></Content>
+    <Narrator start="0" x="100" stop="400" y="170">sound/BLM_1304.mp3</Narrator>
+    <Image width="240" x="480" height="240" y="-70" text="" targetId="" textColor="#000000">images/Bias_11d.jpg</Image>
+    <Video width="240" x="80" height="167" y="245" autostart="false"/>
+  </screen><screen>
+    <screen_id x="200" y="210">1305</screen_id>
+    <Template>4</Template>
+    <Content width="370" x="0" height="380" y="-80" bgColor="#FFFFFF" hasBackground="false">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;Ask other people for their views about things.&lt;FONT SIZE="24"&gt; &lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;Bouncing ideas of others can act as a check to prevent making decisions which are biased.&lt;/FONT&gt;&lt;/P&gt;</Content>
+    <Narrator start="0" x="100" stop="400" y="170">sound/bias_1105.mp3</Narrator>
+    <Image width="240" x="480" height="240" y="-70" text="" targetId="" textColor="#000000">images/Bias_11e.jpg</Image>
+    <Video width="240" x="80" height="167" y="245" autostart="false"/>
+  </screen><screen>
+    <screen_id x="200" y="210">1306</screen_id>
+    <Template>4</Template>
+    <Content width="400" x="0" height="380" y="-110" bgColor="#FFFFFF" hasBackground="false">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;Look out for people who are excluded from a group and ask yourself why?&lt;FONT SIZE="24"&gt; &lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;Very often you can see bias at play in a social setting.  Take steps to counteract it.&lt;/FONT&gt;&lt;/P&gt;</Content>
+    <Narrator start="0" x="100" stop="400" y="170">sound/bias_1106.mp3</Narrator>
+    <Image width="240" x="480" height="240" y="-70" text="" targetId="" textColor="#000000">images/Bias_11f.jpg</Image>
+    <Video width="240" x="80" height="167" y="245" autostart="false"/>
+  </screen><screen>
+    <screen_id x="200" y="210">1307</screen_id>
+    <Template>4</Template>
+    <Content width="370" x="0" height="380" y="-80" bgColor="#FFFFFF" hasBackground="false">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;Take a break if you are stressed.&lt;FONT SIZE="24"&gt; &lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;Decisions made under stress are more likely to be ill considered and are open to bias.&lt;/FONT&gt;&lt;/P&gt;</Content>
+    <Narrator start="0" x="100" stop="400" y="170">sound/bias_1107.mp3</Narrator>
+    <Image width="240" x="480" height="240" y="-70" text="" targetId="" textColor="#000000">images/Bias_11g.jpg</Image>
+    <Video width="240" x="80" height="167" y="245" autostart="false"/>
+  </screen><screen>
+    <screen_id x="180" y="180" keywords="Silhouettes, Discussion, Manager, Businessman, Businesswoman, Thinking, Talking, Negotiation, Mediation, Consultation">14</screen_id>
+    <Template>4</Template>
+    <Section>&lt;p&gt;&lt;font face="Arial"&gt;Call out racism&lt;/font&gt;&lt;/p&gt;</Section>
+    <Content x="400" y="-80" width="360" height="400"><![CDATA[<p align="LEFT"><font face="Arial"><span style="font-size: 24px;">The failure to call our racism can be as damaging as the act of racism itself.&nbsp;&nbsp;</span></font></p>
+<p align="LEFT"><font face="Arial"><span style="font-size: 24px;">&nbsp;</span></font></p>
+<p align="LEFT"><font face="Arial"><span style="font-size: 24px;">This is why there was such indignation when only the direct perpetrator was initially charged for the murder of George Floyd.</span></font></p>
+<p>&nbsp;</p>]]></Content>
+    <Narrator x="-50" y="325" start="">sound/BLM_14.mp3</Narrator>
+    <Flash x="" y="" width="" height="">swf/three_people_meeting.swf</Flash>
+    <Image x="-168" y="-206" width="507" height="691">images/blm.png</Image>
+    <Video x="80" y="245" width="240" height="167" autostart="false"/>
+    <Background>images/4.jpg</Background>
+    <information><![CDATA[<A HREF="http://www.youtube.com/watch?v=hY2bsNFHPVU" TARGET="_blank"><U>Click here for this screen's basic instruction video</U></A>…</FONT></P>
+This is a basic multi-step template.
+Main Screen: Title and Content change the text displayed on the screen.
+Child Screens: The Title and Content change the text displayed, add/remove child screens to increase the steps up to the maximum shown.]]></information>
+  </screen><screen>
+    <screen_id x="180" y="180">1401</screen_id>
+    <Template>4</Template>
+    <Content x="400" y="-80" width="360" height="219"><![CDATA[<p align="LEFT"><font face="Arial"><span style="font-size: 24px;">Let&rsquo;s have a look at a workplace example.&nbsp; You are at a meeting and your manager makes a statement which is clearly racist.</span></font></p>
+<p align="LEFT"><font face="Arial"><span style="font-size: 24px;">&nbsp;</span></font></p>
+<p align="LEFT"><font face="Arial"><span style="font-size: 24px;">How should you act?</span></font></p>
+<p>&nbsp;</p>]]></Content>
+    <Narrator x="-50" y="325" start="">sound/BLM_1401.mp3</Narrator>
+    <Image x="-103" y="-76" width="224" height="220" swfSizing="stage">swf/Element_speak_bubble_talk_much.swf</Image>
+    <Video x="80" y="245" width="240" height="167" autostart="false"/>
+  </screen><screen>
+    <screen_id x="180" y="180">1402</screen_id>
+    <Template>4</Template>
+    <Content x="400" y="-80" width="360" height="400"><![CDATA[<p align="LEFT"><font face="Arial"><span style="font-size: 24px;">Consider what happens if you remain silent?</span></font></p>
+<p align="LEFT"><font face="Arial"><span style="font-size: 24px;">&nbsp;</span></font></p>
+<p align="LEFT"><font face="Arial"><span style="font-size: 24px;">The message it sends to the rest of the group is that this behaviour is acceptable.&nbsp; Next time the message may be more insulting, more hurtful, more racist.&nbsp; Racism is a result of taking baby steps towards the abhorrent.&nbsp;</span></font></p>
+<p>&nbsp;</p>]]></Content>
+    <Narrator x="-50" y="325" start="">sound/BLM_1402.mp3</Narrator>
+    <Image x="92" y="-68" width="235" height="225" swfSizing="stage">swf/Element_speak_bubble_talk_repeat.swf</Image>
+    <Video x="80" y="245" width="240" height="167" autostart="false"/>
+  </screen><screen>
+    <screen_id x="100" y="50" keywords="Empty, Template, Clean">15</screen_id>
+    <Template>4</Template>
+    <Section>&lt;p&gt;&lt;font face="Arial"&gt;Confront Racism in Public&lt;/font&gt;&lt;/p&gt;</Section>
+    <Content x="-13" y="301" width="865" height="155" hasBackground="true" bgColor="#FFFFFF"><![CDATA[<p align="LEFT"><font face="Arial"><span style="font-size: 24px;">You should call out racist behaviour or comments as soon as the situation allows.</span></font></p>
+<p align="LEFT"><font face="Arial"><span style="font-size: 24px;">&nbsp;</span></font></p>
+<p align="LEFT"><font face="Arial"><span style="font-size: 24px;">The person may have simply vocalised his unconscious bias.&nbsp; You have a good relationship with the person and know it is out of character.</span></font></p>
+<p>&nbsp;</p>]]></Content>
+    <Narrator x="-50" y="325" start="">sound/BLM_15.mp3</Narrator>
+    <Flash x="" y="" width="" height="" targetId="" text="" textColor="#000000">swf/empty.swf</Flash>
+    <Image x="" y="" width="" height="" targetId="" text="" textColor="#000000"/>
+    <Video x="80" y="245" width="240" height="167" autostart="false"/>
+    <Background>images/BLM_15.jpg</Background>
+    <information><![CDATA[<A HREF="http://www.youtube.com/watch?v=gMrrybE8784&feature=youtube_gdata" TARGET="_blank"><U>Click here for this screen's instruction video</U></A>…</FONT></P>
+This is a basic template.
+Main Screen: Title and Content change the text displayed on the screen.
+Add or remove child screens to alter the length of the slideshow.]]></information>
+  </screen><screen>
+    <screen_id x="100" y="50">1501</screen_id>
+    <Template>4</Template>
+    <Content x="-41" y="179" width="302" height="210" hasBackground="true" bgColor="#FFFFFF"><![CDATA[<p align="LEFT"><font face="Arial"><span style="font-size: 24px;">In such cases you may want to interrupt the person informally and calmly explain at the time what is the issue and why it does (or could) cause offence.&nbsp;&nbsp;</span></font></p>]]></Content>
+    <Narrator x="-50" y="325" start="">sound/BLM_1501.mp3</Narrator>
+    <Image x="" y="" width="" height="" targetId="" text="" textColor="#000000"/>
+    <Video x="80" y="245" width="240" height="167" autostart="false"/>
+  <Background>images/BLM_1501.jpg</Background></screen><screen>
+    <screen_id x="100" y="50">1502</screen_id>
+    <Template>4</Template>
+    <Content x="72" y="249" width="679" height="267" hasBackground="true" bgColor="#FFFFFF"><![CDATA[<p align="LEFT"><font face="Arial"><span style="font-size: 24px;">The conversation isn't a debate, but an understanding that actions have consequences. Were you hurt? Disappointed?&nbsp;</span></font></p>
+<p align="LEFT"><font face="Arial"><span style="font-size: 24px;">&nbsp;</span></font></p>
+<p align="LEFT"><font face="Arial"><span style="font-size: 24px;">Share your feelings, and (if you can) the feelings of the team.&nbsp; Look at the impact of divisiveness&mdash;and ask for others to do the same. Ask for greater understanding around collaboration: because we are all better when we work together, without fear of harassment.</span></font></p>]]></Content>
+    <Narrator x="-50" y="325" start="">sound/BLM_1502.mp3</Narrator>
+    <Image x="" y="" width="" height="" targetId="" text="" textColor="#000000"/>
+    <Video x="80" y="245" width="240" height="167" autostart="false"/>
+  <Background>images/BLM_1502.jpg</Background><navigation></navigation></screen><screen>
+    <screen_id x="100" y="50">1503</screen_id>
+    <Template>4</Template>
+    <Content x="114" y="306" width="650" height="104" hasBackground="true" bgColor="#FFFFFF"><![CDATA[<p align="LEFT"><span style="font-family: Arial;"><span style="font-size: 24px;">It is likely that the perpetrator will not have recognised the indiscretion and be embarrassed.&nbsp; Hopefully this will follow up with an apology.</span></span></p>]]></Content>
+    <Narrator x="-50" y="325" start="">sound/BLM_1503.mp3</Narrator>
+    <Image x="" y="" width="" height="" targetId="" text="" textColor="#000000"/>
+    <Video x="80" y="245" width="240" height="167" autostart="false"/>
+  <Background>images/BLM_1503.jpg</Background><navigation></navigation></screen><screen>
+    <screen_id x="100" y="50" keywords="Empty, Template, Clean">16</screen_id>
+    <Template>4</Template>
+    <Section>&lt;p&gt;&lt;font face="Arial"&gt;Handling Racism in Private&lt;/font&gt;&lt;/p&gt;</Section>
+    <Content x="106" y="68" width="650" height="321" hasBackground="true" bgColor="#FFFFFF"><![CDATA[<p align="LEFT"><span style="font-family: Arial;"><span style="font-size: 24px;"><strong>A Private Conversation</strong></span></span></p>
+<p align="LEFT">&nbsp;</p>
+<p align="LEFT"><span style="font-family: Arial;"><span style="font-size: 24px;">If there is not an opportunity or you are too intimidated to make a statement, then approach the perpetrator at a later time.&nbsp;&nbsp;</span></span></p>
+<p align="LEFT"><span style="font-family: Arial;"><span style="font-size: 24px;">&nbsp;</span></span></p>
+<p align="LEFT"><span style="font-family: Arial;"><span style="font-size: 24px;">Confronting racism can be a difficult dialogue, ripe with opportunity for disagreement. That's why it's important to shut the door.&nbsp;</span></span></p>
+<p>&nbsp;</p>]]></Content>
+    <Narrator x="-50" y="325" start="">sound/BLM_16.mp3</Narrator>
+    <Flash x="" y="" width="" height="" targetId="" text="" textColor="#000000">swf/empty.swf</Flash>
+    <Image x="" y="" width="" height="" targetId="" text="" textColor="#000000"/>
+    <Video x="80" y="245" width="240" height="167" autostart="false"/>
+    <Background>images/BLM_16.jpg</Background>
+    <information><![CDATA[<A HREF="http://www.youtube.com/watch?v=gMrrybE8784&feature=youtube_gdata" TARGET="_blank"><U>Click here for this screen's instruction video</U></A>…</FONT></P>
+This is a basic template.
+Main Screen: Title and Content change the text displayed on the screen.
+Add or remove child screens to alter the length of the slideshow.]]></information>
+  </screen><screen>
+    <screen_id x="100" y="50">1601</screen_id>
+    <Template>4</Template>
+    <Content x="570" y="187" width="336" height="176" hasBackground="true" bgColor="#FFFFFF"><![CDATA[<p align="LEFT"><span style="font-size: 24px;">Explain how words (and actions) can do harm - even unintentionally - and&nbsp; shed a non-confrontational light on unwanted actions.&nbsp;</span></p>]]></Content>
+    <Narrator x="-50" y="325" start="">sound/BLM_1601.mp3</Narrator>
+    <Image x="" y="" width="" height="" targetId="" text="" textColor="#000000"/>
+    <Video x="80" y="245" width="240" height="167" autostart="false"/>
+  <Background>images/BLM_1601.jpg</Background></screen><screen>
+    <screen_id x="100" y="50">1602</screen_id>
+    <Template>4</Template>
+    <Content x="252" y="32" width="650" height="166" hasBackground="true" bgColor="#FFFFFF"><![CDATA[<p align="LEFT"><span style="font-size: 24px;">Once an apology is made then you have reset the normal.&nbsp; </span></p>
+<p align="LEFT">&nbsp;</p>
+<p align="LEFT"><span style="font-size: 24px;">Redefined what is acceptable.</span></p>
+<p align="LEFT">&nbsp;</p>
+<p align="LEFT"><span style="font-size: 24px;">Maybe you can't change minds, but you can close lips.</span></p>
+<p>&nbsp;</p>]]></Content>
+    <Narrator x="-50" y="325" start="">sound/BLM_1602.mp3</Narrator>
+    <Image x="" y="" width="" height="" targetId="" text="" textColor="#000000"/>
+    <Video x="80" y="245" width="240" height="167" autostart="false"/>
+  <navigation></navigation><Background>images/BLM_1602.jpg</Background></screen><screen>
+    <screen_id x="100" y="50">1603</screen_id>
+    <Template>4</Template>
+    <Content x="109" y="312" width="650" height="115" hasBackground="true" bgColor="#FFFFFF"><![CDATA[<p align="LEFT"><span style="font-size: 24px;">It is actions such as these which will move the culture of your organisation and society towards a vision where people are not judged by the colour of their skin.</span></p>]]></Content>
+    <Narrator x="-50" y="325" start="">sound/BLM_1603.mp3</Narrator>
+    <Image x="" y="" width="" height="" targetId="" text="" textColor="#000000"/>
+    <Video x="80" y="245" width="240" height="167" autostart="false"/>
+  <navigation></navigation><Background>images/BLM_1603.jpg</Background></screen><screen>
+    <screen_id x="150" y="220" keywords="Silhouettes, Manager, Businessman, Businesswoman, Thinking, Talking, Negotiation, Mediation, Consultation">17</screen_id>
+    <Template>4</Template>
+    <Section>&lt;p&gt;&lt;font face="Arial"&gt;Harmful Intentions&lt;/font&gt;&lt;/p&gt;</Section>
+    <Content x="107" y="-168" width="564" height="195" hasBackground="false" bgColor="#FFFFFF"><![CDATA[<p align="LEFT"><font face="Arial"><span style="font-size: 24px;">All racism is harmful, but sometimes the person inflicting racism may have clear harmful intent.&nbsp;&nbsp;</span></font></p>
+<p align="LEFT"><font face="Arial"><span style="font-size: 24px;">&nbsp;</span></font></p>
+<p align="LEFT"><font face="Arial"><span style="font-size: 24px;">In such cases you should discuss this with HR and/or your line manager and bring them into the conversation.</span></font></p>]]></Content>
+    <Narrator x="-50" y="325" start="">sound/BLM_17.mp3</Narrator>
+    <Flash x="" y="" width="" height="" targetId="" text="" textColor="#000000">swf/two_people_meeting.swf</Flash>
+    <Image x="" y="" width="" height="" targetId="" text="" textColor="#000000"/>
+    <Video x="80" y="245" width="240" height="167" autostart="false"/>
+    <Background>images/corporate_office2.jpg</Background>
+    <information><![CDATA[<A HREF="http://www.youtube.com/watch?v=hY2bsNFHPVU" TARGET="_blank"><U>Click here for this screen's basic instruction video</U></A>…</FONT></P>
+This is a basic multi-step template.
+Main Screen: Title and Content change the text displayed on the screen.
+Child Screens: The Title and Content change the text displayed, add/remove child screens to increase the steps up to the maximum shown.]]></information>
+  </screen><screen>
+    <screen_id x="100" y="50" keywords="Empty, Template, Clean">18</screen_id>
+    <Template>4</Template>
+    <Section>&lt;p&gt;Act to make a change&lt;/p&gt;</Section>
+    <Content x="-51" y="26" width="957" height="93" hasBackground="true" bgColor="#FFFFFF"><![CDATA[<p align="LEFT"><span style="font-family: Arial;"><span style="font-size: 24px;">We have discussed how to recognise bias and racism in ourselves and others and what we can do when we confront racism.&nbsp; But there are also many steps we can take to build fair organisations and society.</span></span></p>]]></Content><Content_1 x="168" y="255" width="557" height="141" hasBackground="false" bgColor="#FFFFFF"><![CDATA[<p align="LEFT"><span style="font-family: Arial; font-size: 24px;">Do the difficult things while they are easy and do the great things while they are small. A journey of a thousand miles must begin with a single step.</span></p>
+<p style="text-align: right;" align="LEFT">&nbsp;</p>
+<p style="text-align: right;" align="LEFT"><span style="font-family: Arial; font-size: 24px;">Martin Luther King, Jr.</span></p>]]></Content_1>
+    <Narrator x="-50" y="325" start="">sound/BLM_18.mp3</Narrator>
+    <Flash x="" y="" width="" height="" targetId="" text="" textColor="#000000">swf/empty.swf</Flash>
+    <Image x="253" y="302" width="360" height="424" swfSizing="stage" alpha="0.44">swf/People_man_lecture.swf</Image><Image_1 x="41" y="-54" width="802" height="748" swfSizing="stage">swf/Element_quotes_text_horizontal.swf</Image_1>
+    <Video x="80" y="245" width="240" height="167" autostart="false"/>
+    <Background>images/BLM_18.jpg</Background>
+    <information><![CDATA[<A HREF="http://www.youtube.com/watch?v=gMrrybE8784&feature=youtube_gdata" TARGET="_blank"><U>Click here for this screen's instruction video</U></A>…</FONT></P>
+This is a basic template.
+Main Screen: Title and Content change the text displayed on the screen.
+Add or remove child screens to alter the length of the slideshow.]]></information>
+  </screen><screen>
+    <screen_id x="100" y="50">1801</screen_id>
+    <Template>4</Template>
+    <Content x="108" y="68" width="650" height="380" hasBackground="true" bgColor="#000000" bgAlpha="0.75"><![CDATA[<p align="LEFT"><span style="color: #ffffff;"><font face="Arial"><span style="font-size: 24px;"><strong>Direct Your Support</strong></span></font></span></p>
+<p align="LEFT"><span style="color: #ffffff;"><font face="Arial"><span style="font-size: 24px;">If you want to support those on the frontlines at protests immediately, please donate to city bail relief funds in the US - <span style="color: #c2e0f4;"><a style="color: #c2e0f4;" href="https://www.communityjusticeexchange.org/nbfn-directory?utm_source=thenewstack&amp;utm_medium=website" target="_blank" rel="noopener">https://www.communityjusticeexchange.org/nbfn-directory?utm_source=thenewstack&amp;utm_medium=website</a>.</span>&nbsp;</span></font></span></p>
+<p align="LEFT"><span style="color: #ffffff;"><font face="Arial"><span style="font-size: 24px;">&nbsp;</span></font></span></p>
+<p align="LEFT"><span style="color: #ffffff;"><font face="Arial"><span style="font-size: 24px;">Cash-based bail is an incredibly biased practice that requires peaceful protesters to pay bail and remain in jail without trial. During a pandemic, giving financial support to bail relief funds could actually save lives.</span></font></span></p>
+<p>&nbsp;</p>]]></Content>
+    <Narrator x="-50" y="325" start="">sound/BLM_1801.mp3</Narrator>
+    <Image x="" y="" width="" height="" targetId="" text="" textColor="#000000"/>
+    <Video x="80" y="245" width="240" height="167" autostart="false"/>
+  <Background>images/BLM_1801.jpg</Background></screen><screen>
+    <screen_id x="100" y="50">1802</screen_id>
+    <Template>4</Template>
+    <Content x="403" y="8" width="518" height="447" hasBackground="true" bgColor="#000000" bgAlpha="0.75"><![CDATA[<p align="LEFT"><span style="font-family: Arial; color: #ffffff;"><span style="font-size: 24px;"><strong>Support Organisations against Police Violence</strong></span></span></p>
+<p align="LEFT"><span style="font-family: Arial; color: #ffffff;"><span style="font-size: 24px;">The next most important way to support the Black Lives Matter movement is to donate to organizations that work against police violence and the systemic criminalization of black communities.&nbsp;</span></span></p>
+<p align="LEFT"><span style="font-family: Arial; color: #ffffff;"><span style="font-size: 24px;">&nbsp;</span></span></p>
+<p align="LEFT"><span style="font-family: Arial; color: #ffffff;"><span style="font-size: 24px;">Ask your organisation to contribute time or money to one of the following funds:</span></span></p>
+<p align="LEFT">&nbsp;</p>
+<p style="text-align: right;" align="LEFT"><span style="font-family: Arial; color: #ffffff;"><span style="font-size: 24px;"><strong>Data for Black Lives</strong></span></span></p>
+<p style="text-align: right;" align="LEFT"><span style="font-family: Arial; color: #ffffff;"><span style="font-size: 24px;"><strong>Campaign Zero</strong></span></span></p>
+<p style="text-align: right;" align="LEFT"><span style="font-family: Arial; color: #ffffff;"><span style="font-size: 24px;"><strong>Citizens Police Data Project</strong></span></span></p>
+<p style="text-align: right;" align="LEFT"><span style="font-family: Arial; color: #ffffff;"><span style="font-size: 24px;"><strong>Center for Policing Equity</strong></span></span></p>]]></Content>
+    <Narrator x="-50" y="325" start="">sound/BLM_1802.mp3</Narrator>
+    <Image x="" y="" width="" height="" targetId="" text="" textColor="#000000"/>
+    <Video x="80" y="245" width="240" height="167" autostart="false"/>
+  <Background>images/BLM_1802.jpg</Background><navigation></navigation></screen><screen>
+    <screen_id x="100" y="50">1803</screen_id>
+    <Template>4</Template>
+    <Content x="43" y="355" width="518" height="216" hasBackground="false" bgColor="#000000" bgAlpha="0.75"><![CDATA[<p align="LEFT"><span style="color: #000000;"><span style="font-family: Arial;"><span style="font-size: 24px;"><strong>Make arrangements to Protest</strong></span></span></span></p>
+<p align="LEFT"><span style="color: #000000;"><span style="font-family: Arial;"><span style="font-size: 24px;">Protests take place with short notice so talk to HR about allowing time off in advance under special circumstances (HR usually requires a notice period longer than the time off but should make exceptions.)</span></span></span></p>
+<p>&nbsp;</p>]]></Content>
+    <Narrator x="-50" y="325" start="">sound/BLM_1803.mp3</Narrator>
+    <Image x="" y="" width="" height="" targetId="" text="" textColor="#000000"/>
+    <Video x="80" y="245" width="240" height="167" autostart="false"/>
+  <Background>images/BLM_1803.jpg</Background><navigation></navigation></screen><screen>
+    <screen_id x="100" y="50">1804</screen_id>
+    <Template>4</Template>
+    <Content x="144" y="124" width="518" height="310" hasBackground="true" bgColor="#000000" bgAlpha="0.75"><![CDATA[<p align="LEFT"><font color="#ffffff" face="Arial"><span style="font-size: 24px;"><strong>March</strong></span></font></p>
+<p align="LEFT"><font color="#ffffff" face="Arial"><span style="font-size: 24px;">Support the Black Lives Matter movement along with any anti-racist organisation by marching.&nbsp; People marching against those in power have already made great changes.&nbsp;&nbsp;</span></font></p>
+<p align="LEFT"><font color="#ffffff" face="Arial"><span style="font-size: 24px;">&nbsp;</span></font></p>
+<p align="LEFT"><font color="#ffffff" face="Arial"><span style="font-size: 24px;">Racist police forces are being disbanded and racist symbols are being removed... just make sure you wear a mask.</span></font></p>
+<p>&nbsp;</p>]]></Content>
+    <Narrator x="-50" y="325" start="">sound/BLM_1804.mp3</Narrator>
+    <Image x="" y="" width="" height="" targetId="" text="" textColor="#000000"/>
+    <Video x="80" y="245" width="240" height="167" autostart="false"/>
+  <Background>images/BLM_1804.jpg</Background><navigation></navigation></screen><screen>
+    <screen_id x="100" y="50">1805</screen_id>
+    <Template>4</Template>
+    <Content x="362" y="155" width="518" height="275" hasBackground="true" bgColor="#ffffff" bgAlpha="0.75"><![CDATA[<p align="LEFT"><span style="color: #000000;"><span style="font-family: Arial;"><span style="font-size: 24px;"><strong>Record</strong></span></span></span></p>
+<p align="LEFT"><span style="color: #000000;"><span style="font-family: Arial;"><span style="font-size: 24px;">There has always been racism in our society, the use of camera phones has simply made it more visible.&nbsp;&nbsp;</span></span></span></p>
+<p align="LEFT"><span style="color: #000000;"><span style="font-family: Arial;"><span style="font-size: 24px;">&nbsp;</span></span></span></p>
+<p align="LEFT"><span style="color: #000000;"><span style="font-family: Arial;"><span style="font-size: 24px;">Document confrontations with the police or those in power.&nbsp; Use your phone as a tool to fight racism and protect those being oppressed.</span></span></span></p>
+<p>&nbsp;</p>]]></Content>
+    <Narrator x="-50" y="325" start="">sound/BLM_1805.mp3</Narrator>
+    <Image x="" y="" width="" height="" targetId="" text="" textColor="#000000"/>
+    <Video x="80" y="245" width="240" height="167" autostart="false"/>
+  <Background>images/BLM_1805.jpg</Background><navigation></navigation></screen><screen>
+    <screen_id x="200" y="150" keywords="Quiz, Questionnaire, Question, Exam, Multiple Choice">19</screen_id>
+    <Template>1</Template>
+    <Section>Quiz</Section>
+    <Content x="100" y="-70" width="450" height="50" hasBackground="false" bgColor="#FFFFFF">&lt;P ALIGN="LEFT"&gt;&lt;FONT FACE="Arial" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;Complete the quiz before continuing.&lt;/FONT&gt;&lt;/P&gt;</Content>
+    <Narrator x="740" y="260" start="0" stop="400"/>
+    <Image x="" y="" width="" height="" targetId="" text="" textColor="#000000"/>
+    <Video x="80" y="245" width="240" height="167" autostart="false"/>
+    <Quizes>
+      <settings>
+        <quiz_title/>
+        <OK>OK</OK>
+        <Issue_Detected>Issue detected</Issue_Detected>
+        <Retake_Test>You have reached the end of the test.</Retake_Test>
+        <Ratio>Your ratio is</Ratio>
+        <No_Issues>You have got 100%, no further action is required.</No_Issues>
+        <Few_Issues>You have got very few questions wrong, there is no cause for immediate concern.</Few_Issues>
+        <Some_Issues>You have got some answers wrong, you may wish to retake the test.</Some_Issues>
+        <Many_Issues>You have got many questions wrong, we strongly recommend you redo the training.</Many_Issues>
+        <Most_Issues>Select below</Most_Issues>
+        <Intro_Text/>
+        <Intro_Art/>
+        <Columns>1</Columns>
+        <Random>1</Random>
+        <Show_Intro>1</Show_Intro>
+        <Show_Results>1</Show_Results>
+        <QuizType>0</QuizType>
+        <LoadsQuizatScreenLevel>0</LoadsQuizatScreenLevel>
+        <ShowFeedback>1</ShowFeedback>
+        <PassMark>70</PassMark>
+        <Show_Answers>1</Show_Answers>
+      </settings>
+    </Quizes>
+    <Background>images/4.jpg</Background>
+  </screen>
+	
+	
+	<screen>
+    <screen_id x="0" y="0" keywords="Stage, Cinema, Theatre, Black, Lights">20</screen_id>
+    <Template>4</Template>
+    <Section>&lt;p&gt;&lt;font face="Arial"&gt;Final Word&lt;/font&gt;&lt;/p&gt;</Section>
+    <Content x="329" y="58" width="673" height="232" hasBackground="false" bgColor="#FFFFFF"><![CDATA[<p align="LEFT"><span style="color: #ffffff; font-family: Arial;"><span style="font-size: 24px;">Many thanks for undertaking the training. Please check our website for updates in the elearning as this course will be regularly revised.</span></span></p>
+<p align="LEFT"><span style="color: #ffffff; font-family: Arial;"><span style="font-size: 24px;">&nbsp;</span></span></p>
+<p align="LEFT"><span style="color: #ffffff; font-family: Arial;"><span style="font-size: 24px;">Should you want to make your own changes then contact us about using Open eLMS Creator to edit this course or <a href="https://www.elearningwmb.com/page/open-elms-creator" target="_blank" rel="noopener"><span style="text-decoration: underline; color: #c2e0f4;">visit this page</span></a> for further information about this online authoring tool.</span></span></p>]]></Content><Content_1 x="796" y="457" width="242" height="22" hasBackground="false" bgColor="#000000"><![CDATA[<p align="LEFT"><span style="color: #ffffff; font-size: 16px;"><span style="font-family: Arial;">Also <a href="https://www.elearningwmb.com/page/coronavirus-awareness-course-free-downloadwebsite-embed" target="_blank" rel="noopener"><span style="text-decoration: underline;"><span style="color: #c2e0f4; text-decoration: underline;">download this free course</span></span></a> on ...</span></span></p>]]></Content_1>
+    <Narrator x="-10" y="129" start="" width="298" height="478">video/BLM_20.flv</Narrator>
+    <Flash x="" y="" width="" height="" targetId="" text="" textColor="#000000">swf/stage 2.swf</Flash>
+    <Image x="796" y="329" width="232" height="98" swfSizing="stage" targetId="">images/OpeneLMS_no_stress_Creator.png</Image><Image_1 x="407" y="258" width="400" height="400">swf/Element_tv_screen.swf</Image_1><Image_2 x="925" y="492" width="127" height="110" swfSizing="stage" targetId="">images/Element_corona.png</Image_2>
+    <Video x="469" y="355" width="284" height="163" autostart="false">
+                https://www.youtube.com/watch?v=RVk1Jypf0cU
+            </Video>
+    <Background>images/stage.jpg</Background>
+    <information><![CDATA[<A HREF="http://www.youtube.com/watch?v=8powW-CJ8Zs&feature=youtube_gdata" TARGET="_blank"><U>Click here for this screen's basic instruction video</U></A>…</FONT></P>
+This is a basic multi-step template.
+Main Screen: Title and Content change the text displayed on the screen.
+Child Screens: The Title and Content change the text displayed, add/remove child screens to increase the steps up to the maximum shown.]]></information>
+  </screen>
+	<video>
+		<vid/>
+		<video_file_visible>true</video_file_visible>
+		<time_visible>false</time_visible>
+		<video_streaming>false</video_streaming>
+		<server/>
+		<video_width>280</video_width>
+		<video_height>320</video_height>
+		<video_slides_in>false</video_slides_in>
+	</video>
+	<scorm>
+		<scorm_format>SVGA_1905</scorm_format>
+		<screen_scorm_finish>20</screen_scorm_finish>
+		<scorm_frame>20</scorm_frame>
+		<xmlversion>TTTTWQ-OQMTDXDC UAY</xmlversion>
+		<scorm_2004>970309</scorm_2004>
+		<scorm_2005>1084463</scorm_2005>
+		<course_name>Black LIves Matter Awareness</course_name>
+	</scorm>
+	<settings>
+		<status_set_to_passed>true</status_set_to_passed>
+		<show_background>false</show_background>
+		<title_color>26367</title_color>
+		<default_thumb>1.jpg</default_thumb>
+		<show_second_menu>false</show_second_menu>
+		<show_text_toggle_button>true</show_text_toggle_button>
+	</settings>
+	<introduction>
+		<show_intro>true</show_intro>
+	</introduction>
+</screens>

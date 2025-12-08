@@ -1,0 +1,223 @@
+<Quizes>
+  <Quiz identifier="MI00" Type="exam">
+    <Question qType="TF" Title="Confronting Racism in First Aid" CommentBox="0" image="" QuestionType="exam" QuestionID="FA01">
+    <Text><![CDATA[Confronting racism during first aid is always about debating with the person. True or False]]></Text>
+    <Answers>
+        <Answer AnswerID="1" Correct="0" Score="0" Order="1" TaskSeverity="0" ActionByID="0">
+            <Text>True</Text>
+            <TaskName/>
+            <TaskDescription/>
+            <Feedback>False. Confronting racism is not about debating; it’s about helping others understand the impact of their words or actions and maintaining a safe environment.</Feedback>
+        </Answer>
+        <Answer AnswerID="2" Correct="1" Score="1" Order="2" TaskSeverity="0" ActionByID="0">
+            <Text>False</Text>
+            <TaskName/>
+            <TaskDescription/>
+            <Feedback>Correct. Confronting racism should be calm, non-confrontational, and focused on safety and respect, not debate.</Feedback>
+        </Answer>
+    </Answers>
+    <Image x="0" y="0" width="" height=""></Image>
+</Question>
+
+    <Question qType="TF" Title="Confronting Racism Later" CommentBox="0" image="" QuestionType="exam" QuestionID="FA02">
+    <Text><![CDATA[If you feel too intimidated to confront someone immediately during first aid, you should ignore it completely. True or False]]></Text>
+    <Answers>
+        <Answer Correct="0" AnswerID="1" Order="1" Score="10" TaskSeverity="0" ActionByID="0">
+            <Text>True</Text>
+            <TaskName/>
+            <TaskDescription/>
+            <Feedback>Incorrect. Ignoring the behaviour completely does not address the issue. It’s better to approach the person later in a calm and private setting.</Feedback>
+        </Answer>
+        <Answer Correct="1" AnswerID="2" Order="2" Score="0" TaskSeverity="0" ActionByID="0">
+            <Text>False</Text>
+            <TaskName/>
+            <TaskDescription/>
+            <Feedback>Correct. If you feel intimidated, you can address the behaviour later when it is safer and more private.</Feedback>
+        </Answer>
+    </Answers>
+    <Image x="0" y="0" width="" height=""></Image>
+</Question>
+
+<Question qType="MC" Title="Apology and Behaviour Reset" CommentBox="0" image="" QuestionType="exam" QuestionID="FA03">
+    <Text><![CDATA[Once an apology is made after a racist comment or action during first aid, what is the outcome?]]></Text>
+    <Answers>
+        <Answer Correct="1" AnswerID="1" Order="1" Score="10" TaskSeverity="0" ActionByID="0">
+            <Text><![CDATA[It helps re-establish acceptable behaviour and standards.]]></Text>
+            <TaskName/>
+            <TaskDescription/>
+            <Feedback>Correct. An apology helps reset the normal and clarify what behaviour is acceptable during first aid.</Feedback>
+        </Answer>
+        <Answer Correct="0" AnswerID="2" Order="2" Score="0" TaskSeverity="0" ActionByID="0">
+            <Text><![CDATA[It automatically changes the person’s beliefs.]]></Text>
+            <TaskName/>
+            <TaskDescription/>
+            <Feedback>Incorrect. Apologies do not automatically change beliefs, but they help clarify acceptable behaviour.</Feedback>
+        </Answer>
+        <Answer Correct="0" AnswerID="3" Order="3" Score="0" TaskSeverity="0" ActionByID="0">
+            <Text><![CDATA[The issue can be ignored forever.]]></Text>
+            <TaskName/>
+            <TaskDescription/>
+            <Feedback>Incorrect. Ignoring the issue does not address the behaviour or protect patients.</Feedback>
+        </Answer>
+    </Answers>
+    <Image x="0" y="0" width="" height=""></Image>
+</Question>
+
+    <Question qType="MC" Title="Documenting Incidents" CommentBox="0" image="" QuestionType="exam" QuestionID="FA04">
+    <Text><![CDATA[Why is it important to document incidents of racism or discrimination during first aid?]]></Text>
+    <Answers>
+        <Answer AnswerID="1" Correct="0" Score="0" Order="1" TaskSeverity="0" ActionByID="0">
+            <Text><![CDATA[To publicly shame the person who behaved inappropriately.]]></Text>
+            <TaskName/>
+            <TaskDescription/>
+            <Feedback>Incorrect. The goal is not to shame but to protect patients and support accountability.</Feedback>
+        </Answer>
+        <Answer AnswerID="2" Correct="1" Score="10" Order="2" TaskSeverity="0" ActionByID="0">
+            <Text><![CDATA[To provide evidence for accountability and protect patients.]]></Text>
+            <TaskName/>
+            <TaskDescription/>
+            <Feedback>Correct. Documenting incidents ensures accountability, helps protect patients, and can be used to address inappropriate behaviour.</Feedback>
+        </Answer>
+        <Answer AnswerID="3" Correct="0" Score="0" Order="3" TaskSeverity="0" ActionByID="0">
+            <Text><![CDATA[To create content for social media.]]></Text>
+            <TaskName/>
+            <TaskDescription/>
+            <Feedback>Incorrect. Recording should be for safety and accountability, not for social media attention.</Feedback>
+        </Answer>
+        <Answer AnswerID="4" Correct="0" Score="0" Order="4" TaskSeverity="0" ActionByID="0">
+            <Text><![CDATA[To argue with the person later in public.]]></Text>
+            <TaskName/>
+            <TaskDescription/>
+            <Feedback>Incorrect. Confronting publicly is not the goal; documentation is for evidence and safety.</Feedback>
+        </Answer>
+    </Answers>
+    <Image x="0" y="0" width="" height=""></Image>
+</Question>
+
+  <Question qType="MC" Title="Responding to Intentional Racism" CommentBox="0" QuestionType="exam" QuestionID="FA05">
+    <Text><![CDATA[If someone intentionally behaves in a racist way during first aid, what is the recommended action?]]></Text>
+    <Answers>
+        <Answer AnswerID="1" Correct="0" Score="0" Order="1" TaskSeverity="0" ActionByID="0">
+            <Text><![CDATA[Handle it yourself without involving others.]]></Text>
+            <TaskName/>
+            <TaskDescription/>
+            <Feedback>Incorrect. Deliberate racism should not be handled alone; it requires proper reporting and support.</Feedback>
+        </Answer>
+        <Answer AnswerID="2" Correct="0" Score="0" Order="2" TaskSeverity="0" ActionByID="0">
+            <Text><![CDATA[Ignore it for the sake of the patient.]]></Text>
+            <TaskName/>
+            <TaskDescription/>
+            <Feedback>Incorrect. Ignoring intentional racism does not protect patients or maintain a safe environment.</Feedback>
+        </Answer>
+        <Answer AnswerID="3" Correct="1" Score="10" Order="3" TaskSeverity="0" ActionByID="0">
+            <Text><![CDATA[Involve HR or your supervisor to address the issue.]]></Text>
+            <TaskName/>
+            <TaskDescription/>
+            <Feedback>Correct. Intentional racist behaviour should be reported to HR or a supervisor to ensure accountability and safety.</Feedback>
+        </Answer>
+        <Answer AnswerID="4" Correct="0" Score="0" Order="4" TaskSeverity="0" ActionByID="0">
+            <Text><![CDATA[Confront them aggressively in front of others.]]></Text>
+            <TaskName/>
+            <TaskDescription/>
+            <Feedback>Incorrect. Public confrontation can escalate the situation; a calm, private approach with HR involvement is recommended.</Feedback>
+        </Answer>
+    </Answers>
+    <Image x="0" y="0" width="" height=""></Image>
+</Question>
+
+    
+ <Question qType="MC" Title="Explaining Harm" CommentBox="0" QuestionType="exam" QuestionID="FA06">
+    <Text><![CDATA[Why is it important to explain that words and actions can cause harm during first aid, even if unintentional?]]></Text>
+    <Answers>
+        <Answer AnswerID="1" Correct="0" Score="0" Order="1" TaskSeverity="0" ActionByID="0">
+            <Text><![CDATA[To blame the person for their behaviour.]]></Text>
+            <TaskName/>
+            <TaskDescription/>
+            <Feedback>Incorrect. The goal is not to blame but to help them understand the impact of their behaviour.</Feedback>
+        </Answer>
+        <Answer AnswerID="2" Correct="1" Score="10" Order="2" TaskSeverity="0" ActionByID="0">
+            <Text><![CDATA[To highlight the impact without creating confrontation.]]></Text>
+            <TaskName/>
+            <TaskDescription/>
+            <Feedback>Correct. Calmly explaining the harm helps prevent future incidents and encourages respectful behaviour.</Feedback>
+        </Answer>
+        <Answer AnswerID="3" Correct="0" Score="0" Order="3" TaskSeverity="0" ActionByID="0">
+            <Text><![CDATA[To make the patient feel guilty.]]></Text>
+            <TaskName/>
+            <TaskDescription/>
+            <Feedback>Incorrect. The explanation is aimed at the person behaving inappropriately, not to make the patient feel guilty.</Feedback>
+        </Answer>
+        <Answer AnswerID="4" Correct="0" Score="0" Order="4" TaskSeverity="0" ActionByID="0">
+            <Text><![CDATA[To escalate the situation for training purposes.]]></Text>
+            <TaskName/>
+            <TaskDescription/>
+            <Feedback>Incorrect. Escalation is not the goal; education and safety are.</Feedback>
+        </Answer>
+    </Answers>
+    <Image x="0" y="0" width="" height=""></Image>
+</Question>
+
+   <Question qType="MC" Title="Apology in First Aid" CommentBox="0" QuestionType="exam" QuestionID="FA07">
+    <Text><![CDATA[What should you do after someone apologizes for a racist comment or action during first aid?]]></Text>
+    <Answers>
+        <Answer AnswerID="1" Correct="1" Score="10" Order="1" TaskSeverity="0" ActionByID="0">
+            <Text><![CDATA[Reset the normal and clarify acceptable behaviour.]]></Text>
+            <TaskName/>
+            <TaskDescription/>
+            <Feedback>Correct. After an apology, you re-establish standards for respectful behaviour and maintain a safe environment for patients.</Feedback>
+        </Answer>
+        <Answer AnswerID="2" Correct="0" Score="0" Order="2" TaskSeverity="0" ActionByID="0">
+            <Text><![CDATA[Ignore it and move on without discussion.]]></Text>
+            <TaskName/>
+            <TaskDescription/>
+            <Feedback>Incorrect. Ignoring the apology does not clarify acceptable behaviour or protect patients.</Feedback>
+        </Answer>
+        <Answer AnswerID="3" Correct="0" Score="0" Order="3" TaskSeverity="0" ActionByID="0">
+            <Text><![CDATA[Assume the person’s beliefs are completely changed.]]></Text>
+            <TaskName/>
+            <TaskDescription/>
+            <Feedback>Incorrect. Apologies do not automatically change beliefs but help clarify behaviour standards.</Feedback>
+        </Answer>
+        <Answer AnswerID="4" Correct="0" Score="0" Order="4" TaskSeverity="0" ActionByID="0">
+            <Text><![CDATA[Confront the person publicly to make a point.]]></Text>
+            <TaskName/>
+            <TaskDescription/>
+            <Feedback>Incorrect. Public confrontation is not recommended; focus on private clarification and maintaining safety.</Feedback>
+        </Answer>
+    </Answers>
+    <Image x="0" y="0" width="" height=""></Image>
+</Question>
+
+<Question qType="MC" Title="Documenting Racism" CommentBox="0" QuestionType="exam" QuestionID="FA08">
+    <Text><![CDATA[Why is it important to document incidents of racism or discrimination during first aid?]]></Text>
+    <Answers>
+        <Answer AnswerID="1" Correct="0" Score="0" Order="1" TaskSeverity="0" ActionByID="0">
+            <Text><![CDATA[To publicly shame the person who behaved inappropriately.]]></Text>
+            <TaskName/>
+            <TaskDescription/>
+            <Feedback>Incorrect. Documentation is for accountability and safety, not public shaming.</Feedback>
+        </Answer>
+        <Answer AnswerID="2" Correct="1" Score="10" Order="2" TaskSeverity="0" ActionByID="0">
+            <Text><![CDATA[To provide evidence and protect patients.]]></Text>
+            <TaskName/>
+            <TaskDescription/>
+            <Feedback>Correct. Recording incidents ensures accountability and helps protect patients during future interactions.</Feedback>
+        </Answer>
+        <Answer AnswerID="3" Correct="0" Score="0" Order="3" TaskSeverity="0" ActionByID="0">
+            <Text><![CDATA[To create content for social media.]]></Text>
+            <TaskName/>
+            <TaskDescription/>
+            <Feedback>Incorrect. Documentation should focus on safety and accountability, not social media attention.</Feedback>
+        </Answer>
+        <Answer AnswerID="4" Correct="0" Score="0" Order="4" TaskSeverity="0" ActionByID="0">
+            <Text><![CDATA[To escalate the situation publicly.]]></Text>
+            <TaskName/>
+            <TaskDescription/>
+            <Feedback>Incorrect. Public escalation is not the goal; documentation is for safe and effective resolution.</Feedback>
+        </Answer>
+    </Answers>
+    <Image x="0" y="0" width="" height=""></Image>
+</Question>
+
+    </Quiz>
+</Quizes>

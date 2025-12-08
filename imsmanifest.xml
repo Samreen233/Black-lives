@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest xmlns:imsmd="http://www.imsglobal.org/xsd/imsmd_v1p2" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" identifier="MANIFEST01" version="1.2" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+	<metadata>
+		<schema>ADL SCORM</schema>
+		<schemaversion>1.2</schemaversion>
+		<imsmd:lom>
+			<imsmd:general>
+				<imsmd:title>
+					<imsmd:langstring xml:lang="en">e-Start Induction<imsmd:0>Black LIves Matter Awareness</imsmd:0></imsmd:langstring>
+				</imsmd:title>
+			</imsmd:general>
+		</imsmd:lom>
+	</metadata>
+	<organizations default="MANIFEST01_ORG1Black_LIves1592479841000">
+		<organization identifier="MANIFEST01_ORG1Black_LIves1592479841000">
+				<item identifier="MI01Black_LIves1592479841000" identifierref="Res01Black_LIves1592479841000" isvisible="true" parameters="">
+					<title>Black LIves Matter Awareness</title>
+				</item>
+		</organization>
+	</organizations>
+
+	<resources>
+		<resource identifier="Res01Black_LIves1592479841000" type="webcontent" adlcp:scormtype="sco" href="training.htm">
+			<file href="training.htm"/>
+		</resource>
+	</resources>
+	
+	</manifest>

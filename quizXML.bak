@@ -1,0 +1,204 @@
+<Quizes>
+  <Quiz identifier="MI00" Type="exam">
+    <Question qType="TF" Title="Unconscious bias " CommentBox="0" image="" QuestionType="exam" QuestionID="MI01">
+      <Text><![CDATA[Unconscious bias is based on reasoning.  True or False]]></Text>
+      <Answers>
+        
+        
+        
+        
+      <Answer AnswerID="1" Correct="0" Score="0" Order="1" TaskSeverity="0" ActionByID="0">
+                <Text>True</Text>
+                <TaskName/>
+                <TaskDescription/>
+                <Feedback>It’s not something that we have thought about and consciously decided upon. It’s not based on reasoning.</Feedback>
+            </Answer><Answer AnswerID="2" Correct="1" Score="1" Order="2" TaskSeverity="0" ActionByID="0">
+                <Text>False</Text>
+                <TaskName/>
+                <TaskDescription/>
+                <Feedback>It’s not something that we have thought about and consciously decided upon. It’s not based on reasoning.</Feedback>
+            </Answer></Answers>
+    <Image x="0" y="0" width="" height=""></Image></Question>
+    <Question qType="TF" Title="Chief Execs" CommentBox="0" image="" QuestionType="exam" QuestionID="MI02">
+      <Text><![CDATA[A higher proportion of Chief Execs are over 6ft than the general population. True or False]]></Text>
+      <Answers>
+        <Answer Correct="1" AnswerID="1" Order="1" Score="10" TaskSeverity="0" ActionByID="0">
+          <Text>True</Text>
+          <TaskName/>
+          <TaskDescription/>
+          <Feedback>People tend to favour the image they have of a strong tall man as a leader.</Feedback>
+        </Answer>
+        <Answer Correct="0" AnswerID="2" Order="2" Score="0" TaskSeverity="0" ActionByID="0">
+          <Text>False</Text>
+          <TaskName/>
+          <TaskDescription/>
+          <Feedback>People tend to favour the image they have of a strong tall man as a leader.</Feedback>
+        </Answer>
+      </Answers>
+    <Image x="0" y="0" width="" height=""></Image></Question>
+  <Question qType="MC" Title="Blacks in Prison" CommentBox="0" image="" QuestionType="exam" QuestionID="MI03">
+      <Text><![CDATA[In the USA, if you are a black male, a what are the chances that you will be imprisoned in your lifetime?]]></Text>
+      <Answers>
+        <Answer Correct="1" AnswerID="1" Order="1" Score="10" TaskSeverity="0" ActionByID="0">
+          <Text><![CDATA[1 in 3]]></Text>
+          <TaskName/>
+          <TaskDescription/>
+          <Feedback>The chance is 1 in 3.  This compares with 1 in 18 if white.</Feedback>
+        </Answer>
+        <Answer Correct="0" AnswerID="2" Order="2" Score="0" TaskSeverity="0" ActionByID="0">
+          <Text><![CDATA[1 in 10]]></Text>
+          <TaskName/>
+          <TaskDescription/>
+          <Feedback>The chance is 1 in 3.  This compares with 1 in 18 if white.</Feedback>
+        </Answer>
+      <Answer AnswerID="3" Correct="0" Score="0" Order="3" TaskSeverity="0" ActionByID="0">
+            <Text><![CDATA[1 in 30]]></Text>
+            <TaskName/>
+            <TaskDescription/>
+            <Feedback>The chance is 1 in 3.  This compares with 1 in 18 if white.</Feedback>
+            <Match/>
+        </Answer></Answers>
+    <Image x="0" y="0" width="" height=""></Image></Question><Question qType="MC" Title="Decision making" CommentBox="0" image="" QuestionType="exam" QuestionID="MI04">
+      <Text><![CDATA[Unconscious bias is more likely to affect someone when they are:]]></Text>
+      <Answers>
+        
+        
+      <Answer AnswerID="1" Correct="0" Score="0" Order="1" TaskSeverity="0" ActionByID="0">
+            <Text><![CDATA[Calm and relaxed]]></Text>
+            <TaskName/>
+            <TaskDescription/>
+            <Feedback>Stressed is the correct answer.  Bias is more likely to influence behaviour when someone is cognitively strained, such as when emotionally stressed, under time constraints, or distracted.</Feedback>
+            <Match/>
+        </Answer><Answer AnswerID="2" Correct="0" Score="0" Order="2" TaskSeverity="0" ActionByID="0">
+            <Text><![CDATA[Have no time constraints]]></Text>
+            <TaskName/>
+            <TaskDescription/>
+            <Feedback>Stressed is the correct answer.  Bias is more likely to influence behaviour when someone is cognitively strained, such as when emotionally stressed, under time constraints, or distracted.</Feedback>
+            <Match/>
+        </Answer><Answer AnswerID="3" Correct="1" Score="10" Order="3" TaskSeverity="0" ActionByID="0">
+            <Text><![CDATA[Stressed ]]></Text>
+            <TaskName/>
+            <TaskDescription/>
+            <Feedback>Stressed is the correct answer.  Bias is more likely to influence behaviour when someone is cognitively strained, such as when emotionally stressed, under time constraints, or distracted.</Feedback>
+            <Match/>
+        </Answer><Answer AnswerID="4" Correct="0" Score="0" Order="4" TaskSeverity="0" ActionByID="0">
+            <Text><![CDATA[Happy]]></Text>
+            <TaskName/>
+            <TaskDescription/>
+            <Feedback>Stressed is the correct answer.  Bias is more likely to influence behaviour when someone is cognitively strained, such as when emotionally stressed, under time constraints, or distracted.</Feedback>
+            <Match/>
+        </Answer></Answers>
+    <Image x="0" y="0" width="" height=""></Image></Question><Question qType="MC" Title="Mental Shortcuts" CommentBox="0" QuestionType="exam" QuestionID="MI05">
+      <Text><![CDATA[How many legs does the elephant have?]]></Text>
+      <Answers>
+        
+        
+      <Answer AnswerID="1" Correct="1" Score="10" Order="1" TaskSeverity="0" ActionByID="0">
+            <Text><![CDATA[1]]></Text>
+            <TaskName/>
+            <TaskDescription/>
+            <Feedback>The only correct elephant leg in the drawing is the back left leg. That leg is completely intact, but the others aren’t. It pays too look closely at a situation rather than trust on your preconceived ideas.</Feedback>
+            <Match/>
+        </Answer><Answer AnswerID="2" Correct="0" Score="0" Order="2" TaskSeverity="0" ActionByID="0">
+            <Text><![CDATA[2]]></Text>
+            <TaskName/>
+            <TaskDescription/>
+            <Feedback>The only correct elephant leg in the drawing is the back left leg. That leg is completely intact, but the others aren’t. It pays too look closely at a situation rather than trust on your preconceived ideas.</Feedback>
+            <Match/>
+        </Answer><Answer AnswerID="3" Correct="0" Score="0" Order="3" TaskSeverity="0" ActionByID="0">
+            <Text><![CDATA[3]]></Text>
+            <TaskName/>
+            <TaskDescription/>
+            <Feedback>The only correct elephant leg in the drawing is the back left leg. That leg is completely intact, but the others aren’t. It pays too look closely at a situation rather than trust on your preconceived ideas.</Feedback>
+            <Match/>
+        </Answer><Answer AnswerID="4" Correct="0" Score="0" Order="4" TaskSeverity="0" ActionByID="0">
+            <Text><![CDATA[4]]></Text>
+            <TaskName/>
+            <TaskDescription/>
+            <Feedback>The only correct elephant leg in the drawing is the back left leg. That leg is completely intact, but the others aren’t. It pays too look closely at a situation rather than trust on your preconceived ideas.</Feedback>
+            <Match/>
+        </Answer></Answers>
+    <Image x="0" y="0" width="250" swfSizing="stage" height="200">images/elephant_1.jpg</Image></Question><Question qType="MC" Title="Income" CommentBox="0" QuestionType="exam" QuestionID="MI06">
+      <Text><![CDATA[In the USA, at work black income is on average ____ % of whites.]]></Text>
+      <Answers>
+        
+        
+      <Answer AnswerID="1" Correct="0" Score="0" Order="1" TaskSeverity="0" ActionByID="0">
+            <Text><![CDATA[49%]]></Text>
+            <TaskName/>
+            <TaskDescription/>
+            <Feedback/>
+            <Match/>
+        </Answer><Answer AnswerID="2" Correct="0" Score="0" Order="2" TaskSeverity="0" ActionByID="0">
+            <Text><![CDATA[54%]]></Text>
+            <TaskName/>
+            <TaskDescription/>
+            <Feedback/>
+            <Match/>
+        </Answer><Answer AnswerID="3" Correct="0" Score="0" Order="3" TaskSeverity="0" ActionByID="0">
+            <Text><![CDATA[61%]]></Text>
+            <TaskName/>
+            <TaskDescription/>
+            <Feedback/>
+            <Match/>
+        </Answer><Answer AnswerID="4" Correct="1" Score="10" Order="4" TaskSeverity="0" ActionByID="0">
+            <Text><![CDATA[64%]]></Text>
+            <TaskName/>
+            <TaskDescription/>
+            <Feedback></Feedback>
+            <Match/>
+        </Answer><Answer AnswerID="5" Correct="0" Score="0" Order="5" TaskSeverity="0" ActionByID="0">
+            <Text><![CDATA[72%]]></Text>
+            <TaskName/>
+            <TaskDescription/>
+            <Feedback/>
+            <Match/>
+        </Answer></Answers>
+    </Question><Question qType="MC" Title="Biases" CommentBox="0" QuestionType="exam" QuestionID="MI07">
+      <Text><![CDATA[If you favour people who share the same background and/or physical characteristics as you then this is called the .... bias?]]></Text>
+      <Answers>
+        
+        
+      <Answer AnswerID="1" Correct="1" Score="1" Order="1" TaskSeverity="0" ActionByID="0">
+                <Text><![CDATA[Affinity]]></Text>
+                <TaskName/>
+                <TaskDescription/>
+                <Feedback>Affinity bias is correct.  Favouring people who share the same social background, who look and sound like you.  You ignore their faults or don’t even notice them.</Feedback>
+            </Answer><Answer AnswerID="2" Correct="0" Score="1" Order="2" TaskSeverity="0" ActionByID="0">
+                <Text><![CDATA[Confirmation]]></Text>
+                <TaskName/>
+                <TaskDescription/>
+                <Feedback>Affinity bias is correct.  Favouring people who share the same social background, who look and sound like you.  You ignore their faults or don’t even notice them.</Feedback>
+            </Answer><Answer AnswerID="3" Correct="0" Score="1" Order="3" TaskSeverity="0" ActionByID="0">
+            <Text><![CDATA[Social Comparison]]></Text>
+            <TaskName/>
+            <TaskDescription/>
+            <Feedback>Affinity bias is correct.  Favouring people who share the same social background, who look and sound like you.  You ignore their faults or don’t even notice them.</Feedback>
+            <Match/>
+        </Answer></Answers>
+    <Image x="0" y="0" width="" height=""></Image></Question><Question qType="MC" Title="Why unconscious bias?" CommentBox="0" QuestionType="exam" QuestionID="MI08">
+      <Text><![CDATA[Why are we learning about unconscious bias?]]></Text>
+      <Answers>
+        
+        
+      <Answer AnswerID="1" Correct="0" Score="0" Order="1" TaskSeverity="0" ActionByID="0">
+            <Text><![CDATA[It’s interesting]]></Text>
+            <TaskName/>
+            <TaskDescription/>
+            <Feedback>Only by recognising unconscious bias can we correct these mental short-cuts when making decisions.</Feedback>
+            <Match/>
+        </Answer><Answer AnswerID="2" Correct="1" Score="10" Order="2" TaskSeverity="0" ActionByID="0">
+            <Text><![CDATA[Recognising unconscious bias moderates behaviour]]></Text>
+            <TaskName/>
+            <TaskDescription/>
+            <Feedback>Only by recognising unconscious bias can we correct these mental short-cuts when making decisions.</Feedback>
+            <Match/>
+        </Answer><Answer AnswerID="3" Correct="0" Score="0" Order="3" TaskSeverity="0" ActionByID="0">
+            <Text><![CDATA[It is necessary in order to quantify the effect it has on the company]]></Text>
+            <TaskName/>
+            <TaskDescription/>
+            <Feedback>Only by recognising unconscious bias can we correct these mental short-cuts when making decisions.</Feedback>
+            <Match/>
+        </Answer></Answers>
+    <Image x="0" y="0" width="" height=""></Image></Question></Quiz>
+</Quizes>
