@@ -30,11 +30,12 @@
 		<Content bgColor="#FFFFFF" hasBackground="false" height="380" width="500" x="137" y="-4">
 			<![CDATA[<p id="docs-internal-guid-0ed378ce-7fff-b45f-2ff9-dc8195f59a73" dir="ltr"><span style="font-family: arial, helvetica, sans-serif; font-size: 24px;">Each year, 5.8 million people die from injuries, and cardiovascular disease and road accidents are major causes of death and disability. Learning basic first aid can save lives, and this First Aid for Adults course from the Red Cross and Red Crescent teaches essential skills to help those in need.</span></p><p>&nbsp;</p><p dir="ltr"><span style="font-family: arial, helvetica, sans-serif; font-size: 24px;"><br /></span></p>]]>
 		</Content>
-		<Narrator start="0" stop="400" x="0" y="200">sound/BLM_1.mp3</Narrator>
+		<!--<Narrator start="0" stop="400" x="0" y="200">sound/BLM_1.mp3</Narrator> -->
+    
 		<Flash height="" targetId="" text="" textColor="#000000" width="" x="" y="">swf/BLM_1.swf</Flash>
-		<Image x="-169" y="-41" width="209" height="305" swfSizing="stage" alt="black lives matter">images/blm.png</Image>
+		<!-- <Image x="-169" y="-41" width="209" height="305" swfSizing="stage" alt="black lives matter">images/blm.png</Image> -->
 		<Video autostart="false" height="167" width="240" x="80" y="245"/>
-		<Background>images/BLM_BG1.jpg</Background>
+		<Background>images/BLM_BG1.jpg</Background> 
 		<information/>
 	<navigation/></screen>
 	<screen>
@@ -44,7 +45,7 @@
 		<Content bgColor="#FFFFFF" hasBackground="false" height="380" width="780" x="-30" y="-120">
 			<![CDATA[<p id="docs-internal-guid-baf37729-7fff-d860-5522-2e4d99805241" dir="ltr"><span style="font-family: arial, helvetica, sans-serif; font-size: 24px;">The course starts with the fundamentals of first aid and covers essential topics such as the recovery position, CPR, choking, stroke, bleeding, road accidents, burns, and psychological first aid. It also emphasizes key actions to prevent accidents, reinforcing that prevention is better than cure. Additionally, the course includes lessons on providing first aid safely during infectious disease outbreaks, such as COVID-19, and highlights the importance of staying updated with local guidance and evolving international standards.</span></p><p>&nbsp;</p><p dir="ltr"><span style="font-family: arial, helvetica, sans-serif; font-size: 24px;"><br /></span></p>]]>
 		</Content>
-		<Narrator start="0" stop="400" x="0" y="200">sound/BLM_2.mp3</Narrator>
+		<!-- <Narrator start="0" stop="400" x="0" y="200">sound/BLM_2.mp3</Narrator> -->
 		<Flash height="" targetId="" text="" textColor="#000000" width="" x="" y="">swf/BLM_2.swf</Flash>
 		<Image height="250" targetId="" text="" textColor="#000000" width="250" x="50" y="0"/>
 		<Video autostart="false" height="167" width="240" x="80" y="245"/>
@@ -60,23 +61,23 @@
 Providing first aid can sometimes be stressful, but it is normal to feel anxious or uncertain. Seek support if needed, and be mindful of helping others safely.
 Before moving on to the core modules, you will learn key actions to respond effectively to accidents and medical emergencies.</span></p><p>&nbsp;</p><p><span id="docs-internal-guid-e1146ddd-7fff-d564-0396-30fb1f4934f1" style="font-family: arial, helvetica, sans-serif; font-size: 24px;"></span></p>]]>
 		</Content>
-		<Narrator start="0" stop="400" x="-20" y="140" width="336" height="540">video/BLM_3.flv</Narrator>
+	<!-- <Narrator start="0" stop="400" x="-20" y="140" width="336" height="540">video/BLM_3.flv</Narrator> -->
 		<Flash height="" targetId="" text="" textColor="#000000" width="" x="" y="">swf/BLM_3.swf</Flash>
 		<Image height="" targetId="" text="" textColor="#000000" width="" x="" y=""/>
 		<Video autostart="false" height="167" width="240" x="80" y="245"/>
-		<Background>images/BLM_BG3.jpg</Background>
+		<Background>images/2-1-1024x536.png</Background>
 		<information/>
 	<navigation/></screen>
 	<screen>
     <screen_id x="100" y="50" keywords="Empty, Template, Clean">4</screen_id>
     <Template>4</Template>
     <Section>&lt;p&gt;&lt;font face="Arial"&gt;Introduction&lt;/font&gt;&lt;/p&gt;</Section>
-    <Content x="-40" y="80" width="378" height="292" hasBackground="true" bgColor="#ffffff" bgAlpha="0.95" padding="10"><![CDATA[<p align="LEFT"><font face="Arial"><span style="font-size: 24px;">Imagine walking down the street and seeing someone suddenly collapse. Your heart races, and you feel the urge to help—but what should you do first?</span></font></p>]]></Content>
-    <Narrator x="-50" y="325" start="">sound/BLM_4.mp3</Narrator>
+    <Content x="400" y="80" width="378" height="292" hasBackground="true" bgColor="#ffffff" bgAlpha="0.95"  padding-left="435px"><![CDATA[<p align="LEFT"><font face="Arial"><span style="font-size: 24px;">Imagine walking down the street and seeing someone suddenly collapse. Your heart races, and you feel the urge to help—but what should you do first?</span></font></p>]]></Content>
+    <!-- <Narrator x="-50" y="325" start="">sound/BLM_4.mp3</Narrator> -->
     <Flash x="" y="" width="" height="" targetId="" text="" textColor="#000000">swf/empty.swf</Flash>
-    <Image x="662" y="245" width="201" height="185" swfSizing="stage" alt="brutality">images/BLM_4.jpg</Image>
+    <!-- <Image x="662" y="245" width="201" height="185" swfSizing="stage" alt="brutality">images/BLM_4.jpg</Image> -->
     <Video x="80" y="245" width="240" height="167" autostart="false"/>
-    <Background>images/BLM_BG4.jpg</Background>
+    <Background>images/img60_drsabcd_02_response.jpg</Background>
     <information><![CDATA[<A HREF="http://www.youtube.com/watch?v=gMrrybE8784&feature=youtube_gdata" TARGET="_blank"><U>Click here for this screen's instruction video</U></A>…</FONT></P>
 This is a basic template.
 Main Screen: Title and Content change the text displayed on the screen.
@@ -86,11 +87,11 @@ Add or remove child screens to alter the length of the slideshow.]]></informatio
     <Template>4</Template>
     <Section>Empty</Section>
     <Content x="-38" y="46" width="350" height="200" hasBackground="true" bgColor="#ffffff" bgAlpha="0.95"><![CDATA[<p align="LEFT"><font face="Arial"><span style="font-size: 24px;">This course on First Aid for Adults is designed to turn that uncertainty into confidence. You will learn the essential skills to respond calmly and safely in emergencies.</span></font></p>]]></Content>
-    <Narrator x="-50" y="325" start="">sound/BLM_401.mp3</Narrator>
+    <!-- <Narrator x="-50" y="325" start="">sound/BLM_401.mp3</Narrator> -->
     <Flash x="" y="" width="" height="" targetId="" text="" textColor="#000000">swf/empty.swf</Flash>
-    <Image x="631" y="239" swfSizing="stage" width="232" height="194" alt="currency">images/BLM_401.jpg</Image>
+    <!-- <Image x="631" y="239" swfSizing="stage" width="232" height="194" alt="currency">images/BLM_401.jpg</Image> -->
     <Video x="80" y="245" width="240" height="167" autostart="false"/>
-    <Background>images/blm_police.jpg</Background>
+    <Background>images/CERTClass_STL_082123.png</Background>
     <information><![CDATA[<A HREF="http://www.youtube.com/watch?v=gMrrybE8784&feature=youtube_gdata" TARGET="_blank"><U>Click here for this screen's instruction video</U></A>…</FONT></P>
 This is a basic template.
 Main Screen: Title and Content change the text displayed on the screen.
@@ -102,11 +103,11 @@ Add or remove child screens to alter the length of the slideshow.]]></informatio
     <Content x="-20" y="111" width="332" height="230" hasBackground="true" bgColor="#ffffff" bgAlpha="0.95" padding="10"><![CDATA[<p align="LEFT"><font face="Arial"><span style="font-size: 24px;">You’ll discover how to support others effectively, whether it’s performing CPR, helping someone who’s choking, or assisting in a road accident.</span></font></p>
 <p align="LEFT"><font face="Arial"><span style="font-size: 24px;">&nbsp;</span></font></p>
 <p align="LEFT"><font face="Arial"><span style="font-size: 24px;"></span></font></p>]]></Content>
-    <Narrator x="-50" y="325" start="">sound/BLM_402.mp3</Narrator>
+    <!-- <Narrator x="-50" y="325" start="">sound/BLM_402.mp3</Narrator> -->
     <Flash x="" y="" width="" height="" targetId="" text="" textColor="#000000">swf/empty.swf</Flash>
-    <Image x="640" y="249" swfSizing="stage" width="202" height="184" alt="brutality">images/BLM_402.jpg</Image>
+    <!-- <Image x="640" y="249" swfSizing="stage" width="202" height="184" alt="brutality">images/BLM_402.jpg</Image> -->
     <Video x="80" y="245" width="240" height="167" autostart="false"/>
-    <Background>images/blm_police2.jpg</Background>
+    <Background>images/83424167_l.png</Background>
     <information><![CDATA[<A HREF="http://www.youtube.com/watch?v=gMrrybE8784&feature=youtube_gdata" TARGET="_blank"><U>Click here for this screen's instruction video</U></A>…</FONT></P>
 This is a basic template.
 Main Screen: Title and Content change the text displayed on the screen.
@@ -116,11 +117,11 @@ Add or remove child screens to alter the length of the slideshow.]]></informatio
     <Template>4</Template>
     <Section>Empty</Section>
     <Content x="-38" y="143" width="402" height="214" hasBackground="true" bgColor="#ffffff" bgAlpha="0.95" padding="10"><![CDATA[<p align="LEFT"><font face="Arial"><span style="font-size: 24px;">The lessons also emphasize prevention, showing how small actions can reduce the likelihood of accidents and keep everyone safer.&nbsp;</span></font></p>]]></Content>
-    <Narrator x="-50" y="325" start="">sound/BLM_403.mp3</Narrator>
+    <!-- <Narrator x="-50" y="325" start="">sound/BLM_403.mp3</Narrator> -->
     <Flash x="" y="" width="" height="" targetId="" text="" textColor="#000000">swf/empty.swf</Flash>
-    <Image x="637" y="246" swfSizing="stage" width="212" height="190" alt="brutality">images/BLM_403.jpg</Image>
+    <!-- <Image x="637" y="246" swfSizing="stage" width="212" height="190" alt="brutality">images/BLM_403.jpg</Image> -->
     <Video x="80" y="245" width="240" height="167" autostart="false"/>
-    <Background>images/blm_police3.jpg</Background>
+    <Background>images/firstaid.jpg</Background>
     <information><![CDATA[<A HREF="http://www.youtube.com/watch?v=gMrrybE8784&feature=youtube_gdata" TARGET="_blank"><U>Click here for this screen's instruction video</U></A>…</FONT></P>
 This is a basic template.
 Main Screen: Title and Content change the text displayed on the screen.
@@ -132,11 +133,11 @@ Add or remove child screens to alter the length of the slideshow.]]></informatio
     <Content x="-47" y="53" width="402" height="200" hasBackground="true" bgColor="#ffffff" bgAlpha="0.95" padding="10"><![CDATA[<p align="LEFT"><font face="Arial"><span style="font-size: 24px;">By the end of this course, you’ll be empowered to act responsibly, save lives, and create a safer environment for yourself and those around you.</span></font></p>
 <p align="LEFT">&nbsp;</p>
 <p align="LEFT"><font face="Arial"><span style="font-size: 24px;">&nbsp;</span></font></p>]]></Content>
-    <Narrator x="-50" y="325" start="">sound/BLM_404.mp3</Narrator>
+    <!-- <Narrator x="-50" y="325" start="">sound/BLM_404.mp3</Narrator> -->
     <Flash x="" y="" width="" height="" targetId="" text="" textColor="#000000">swf/empty.swf</Flash>
-    <Image x="649" y="248" swfSizing="stage" width="194" height="174" alt="twitter">images/BLM_404.jpg</Image>
-    <Video x="80" y="245" width="240" height="167" autostart="false"/>
-    <Background>images/blm_police4.jpg</Background>
+    <!-- <Image x="649" y="248" swfSizing="stage" width="194" height="174" alt="twitter">images/BLM_404.jpg</Image> -->
+    <!-- <Video x="80" y="245" width="240" height="167" autostart="false"/> -->
+    <Background>images/introend.jpg</Background>
     <information><![CDATA[<A HREF="http://www.youtube.com/watch?v=gMrrybE8784&feature=youtube_gdata" TARGET="_blank"><U>Click here for this screen's instruction video</U></A>…</FONT></P>
 This is a basic template.
 Main Screen: Title and Content change the text displayed on the screen.
@@ -146,16 +147,16 @@ Add or remove child screens to alter the length of the slideshow.]]></informatio
 		<screen_id keywords="Book, Page, 3D, Paper, Notes, Notepad, Notes, Document" x="100" y="70">5</screen_id>
 		<Template>4</Template>
 		<Section>The Problem</Section>
-		<Content bgColor="#ffffff" hasBackground="true" height="180" width="546" x="361" y="-19" bgAlpha="0.95">
+		<Content bgColor="#ffffff" hasBackground="true" height="180" width="546" x="361" y="79" bgAlpha="0.95">
 			<![CDATA[<p id="docs-internal-guid-51b27c34-7fff-ca6c-0624-888ea92a71c2" dir="ltr"><span style="font-size: 24px; font-family: arial, helvetica, sans-serif;">Providing first aid can be challenging even for trained individuals.
 
 Emergencies are unpredictable, stressful, and often chaotic, requiring quick thinking and calmness under pressure.&nbsp;</span></p><p dir="ltr"><span style="font-family: arial, helvetica, sans-serif;"><span style="font-size: 24px;">&nbsp;</span></span></p>]]>
 		</Content>
-		<Narrator start="0" stop="400" x="-20" y="140" width="336" height="540">video/BLM_5.flv</Narrator>
+		<!-- <Narrator start="0" stop="400" x="-20" y="140" width="336" height="540">video/BLM_5.flv</Narrator> -->
 		<Flash height="" targetId="" text="" textColor="#000000" width="" x="" y="">swf/BLM_5.swf</Flash>
-		<Image height="300" targetId="" text="" textColor="#000000" width="300" x="280" y="190"/>
+		<!-- <Image height="300" targetId="" text="" textColor="#000000" width="300" x="280" y="190"/> -->
 		<Video autostart="false" height="167" width="240" x="80" y="245"/>
-		<Background>images/BLM_BG5.jpg</Background>
+		<Background>images/problem.png</Background>
 		<information/>
 	<navigation/></screen>
 	<screen>
@@ -166,8 +167,8 @@ Emergencies are unpredictable, stressful, and often chaotic, requiring quick thi
 
 Hesitation can delay vital care and reduce the chances of a positive outcome. <br /></span></p>]]>
 		</Content>
-		<Narrator start="0" stop="400" x="0" y="200">sound/BLM_501.mp3</Narrator>
-		<Image targetId="" text="" textColor="#000000" x="51" y="14" width="380" height="484" alt="abuse">images/BLM_501.jpg</Image>
+		<!-- <Narrator start="0" stop="400" x="0" y="200">sound/BLM_501.mp3</Narrator> -->
+		<Image targetId="" text="" textColor="#000000" x="51" y="14" width="380" height="484" alt="abuse">images/problem2.png</Image>
 		<Video autostart="false" height="167" width="240" x="80" y="245"/>
 		<Background>images/Health_Hospital.jpg</Background>
 	<navigation/></screen>
@@ -180,10 +181,10 @@ Hesitation can delay vital care and reduce the chances of a positive outcome. <b
 
 Wrong decisions, such as misidentifying choking or unconsciousness, can worsen the situation.</span></p><p dir="ltr">&nbsp;</p><p dir="ltr"><span style="font-size: 24px; font-family: arial, helvetica, sans-serif;"></span></p>]]>
 		</Content>
-		<Narrator start="0" stop="400" x="0" y="200">sound/BLM_502.mp3</Narrator>
-		<Image targetId="" text="" textColor="#000000" x="51" y="14" width="380" height="484" alt="discrimination">images/BLM_502.jpg</Image>
+		<!-- <Narrator start="0" stop="400" x="0" y="200">sound/BLM_502.mp3</Narrator> -->
+		<Image targetId="" text="" textColor="#000000" x="51" y="14" width="380" height="484" alt="discrimination">images/problem3.png</Image>
 		<Video autostart="false" height="167" width="240" x="80" y="245"/>
-		<Background>images/room_14.jpg</Background>
+		<Background>images/Health_Hospital.jpg</Background>
 	<navigation/></screen>
 	<screen>
 		<screen_id x="100" y="70">503</screen_id>
@@ -193,10 +194,10 @@ Wrong decisions, such as misidentifying choking or unconsciousness, can worsen t
 
 Applying theory in real life can be more complicated than expected.<br /></span></p>]]>
 		</Content>
-		<Narrator start="0" stop="400" x="0" y="200">sound/BLM_503.mp3</Narrator>
-		<Image targetId="" text="" textColor="#000000" x="51" y="14" width="380" height="484">images/BLM_503.jpg</Image>
+		<!-- <Narrator start="0" stop="400" x="0" y="200">sound/BLM_503.mp3</Narrator> -->
+		<Image targetId="" text="" textColor="#000000" x="51" y="14" width="380" height="484">images/problem4.png</Image>
 		<Video autostart="false" height="167" width="240" x="80" y="245"/>
-		<Background>images/building_9.jpg</Background>
+		<!-- <Background>images/building_9.jpg</Background> -->
 	<navigation/></screen>
 	<screen>
 		<screen_id x="100" y="70">504</screen_id>
@@ -204,10 +205,10 @@ Applying theory in real life can be more complicated than expected.<br /></span>
 		<Content x="477" y="120" width="258" height="190" hasBackground="true" bgColor="#FFFFFF"><![CDATA[<p align="LEFT"><span style="font-family: Arial;"><span style="font-size: 24px;">Attempting first aid incorrectly can accidentally harm the casualty.
 
 There is also a risk of injuring yourself while providing help.</span></span></p>]]></Content>
-		<Narrator start="0" stop="400" x="0" y="200">sound/BLM_504.mp3</Narrator>
-		<Image targetId="" text="" textColor="#000000" x="51" y="14" width="380" height="484">images/BLM_504.jpg</Image>
+		<!-- <Narrator start="0" stop="400" x="0" y="200">sound/BLM_504.mp3</Narrator> -->
+		<Image targetId="" text="" textColor="#000000" x="51" y="14" width="380" height="484">images/problem5.jpg</Image>
 		<Video autostart="false" height="167" width="240" x="80" y="245"/>
-		<Background>images/abstract_1.jpg</Background>
+		<!-- <Background>images/abstract_1.jpg</Background> -->
 	<navigation/></screen>
 	<screen>
 		<screen_id x="100" y="70">505</screen_id>
@@ -217,10 +218,10 @@ There is also a risk of injuring yourself while providing help.</span></span></p
 
 Special precautions, including gloves or masks, are needed, especially during pandemics like COVID-19.</span></p>]]>
 		</Content>
-		<Narrator start="0" stop="400" x="0" y="200">sound/BLM_505.mp3</Narrator>
-		<Image targetId="" text="" textColor="#000000" x="51" y="14" width="380" height="484">images/BLM_505.jpg</Image>
+		<!-- <Narrator start="0" stop="400" x="0" y="200">sound/BLM_505.mp3</Narrator> -->
+		<Image targetId="" text="" textColor="#000000" x="51" y="14" width="380" height="484">images/problem6.jpg</Image>
 		<Video autostart="false" height="167" width="240" x="80" y="245"/>
-		<Background>images/broken_window.jpg</Background>
+		<!-- <Background>images/broken_window.jpg</Background> -->
 	<navigation/></screen>
 	<screen>
 		<screen_id x="100" y="70">506</screen_id>
@@ -230,10 +231,10 @@ Special precautions, including gloves or masks, are needed, especially during pa
 
 Limited access to bandages, gloves, or antiseptics can hinder effective response.</span></p><p dir="ltr">&nbsp;</p><p dir="ltr"><span style="font-size: 24px; font-family: arial, helvetica, sans-serif;"></span></p>]]>
 		</Content>
-		<Narrator start="0" stop="400" x="0" y="200">sound/BLM_506.mp3</Narrator>
-		<Image targetId="" text="" textColor="#000000" x="51" y="14" width="380" height="484">images/BLM_506.jpg</Image>
+		<!-- <Narrator start="0" stop="400" x="0" y="200">sound/BLM_506.mp3</Narrator> -->
+		<Image targetId="" text="" textColor="#000000" x="51" y="14" width="380" height="484">images/problem7.jpg</Image>
 		<Video autostart="false" height="167" width="240" x="80" y="245"/>
-		<Background>images/building_car_park.jpg</Background>
+		<!-- <Background>images/building_car_park.jpg</Background> -->
 	<navigation/></screen>
 	<screen>
 		<screen_id x="100" y="70">507</screen_id>
@@ -243,18 +244,18 @@ Limited access to bandages, gloves, or antiseptics can hinder effective response
 
 Managing multiple casualties while ensuring your safety and coordinating bystanders adds extra stress.&nbsp;&nbsp;</span></p><p>&nbsp;</p><p dir="ltr"><span style="font-size: 24px; font-family: arial, helvetica, sans-serif;">You may live thousands of miles away from Minneapolis, but racism is a global issue. It is not one that is merely confined to the United States - it is everywhere, and it is systemic. </span></p>]]>
 		</Content>
-		<Narrator start="0" stop="400" x="0" y="200">sound/BLM_507.mp3</Narrator>
-		<Image targetId="" text="" textColor="#000000" x="51" y="14" width="380" height="484">images/BLM_507.jpg</Image>
+		<!-- <Narrator start="0" stop="400" x="0" y="200">sound/BLM_507.mp3</Narrator> -->
+		<Image targetId="" text="" textColor="#000000" x="51" y="14" width="380" height="484">images/problem8.jpg</Image>
 		<Video autostart="false" height="167" width="240" x="80" y="245"/>
-		<Background>images/abstract_light_blue.jpg</Background>
+		<!-- <Background>images/abstract_light_blue.jpg</Background> -->
 	<navigation/></screen>
 	<screen>
 		<screen_id x="100" y="70">508</screen_id>
 		<Template>4</Template>
-		<Narrator x="-50" y="325" start="">sound/BLM_508_1.mp3</Narrator>
-		<Image targetId="" text="" textColor="#000000" x="51" y="14" width="380" height="484">images/BLM_508.jpg</Image>
+		<!-- <Narrator x="-50" y="325" start="">sound/BLM_508_1.mp3</Narrator> -->
+		<Image targetId="" text="" textColor="#000000" x="51" y="14" width="380" height="484">images/problem9.jpg</Image>
 		<!-- <Video autostart="false" height="223" width="332" x="561" y="327">https://www.youtube.com/watch?v=GGXEB25WdyQ</Video> -->
-		<Background>images/city_park.jpg</Background>
+		<!-- <Background>images/city_park.jpg</Background> -->
 	<Content x="455" y="29" width="339" height="250" hasBackground="false" bgColor="#000000"><![CDATA[<p align="LEFT"><span style="font-family: arial, helvetica, sans-serif; font-size: 24px;">&nbsp;High-pressure situations can cause fear, sadness, or panic.
 
 Emotional resilience is essential to stay calm and provide effective first aid.&nbsp; This film of the actor John Boyega was shot at the London protests.</span></p>]]></Content><navigation/></screen>
@@ -266,13 +267,14 @@ Emotional resilience is essential to stay calm and provide effective first aid.&
 
 Fear of liability or making mistakes can prevent people from providing timely help.</span></p>]]>
 		</Content>
-		<Narrator start="0" stop="400" x="0" y="200">sound/BLM_509.mp3</Narrator>
-		<Image targetId="" text="" textColor="#000000" x="51" y="14" width="380" height="484">images/BLM_509.jpg</Image>
-		<Background>images/BLM_BG501.jpg</Background>
+		<!-- <Narrator start="0" stop="400" x="0" y="200">sound/BLM_509.mp3</Narrator> -->
+		<Image targetId="" text="" textColor="#000000" x="51" y="14" width="380" height="484">images/problem10.png</Image>
+		<!-- <Background>images/BLM_BG501.jpg</Background> -->
 	<navigation/></screen><screen>
     <screen_id x="180" y="180" keywords="Silhouettes, Law, Negotiation, Business, People, Legal, Justice, Court, Protest, Hands, Banner">6</screen_id>
     <Template>4</Template>
     <Section>&lt;p&gt;&lt;font face="Arial"&gt;What can we do?&lt;/font&gt;&lt;/p&gt;</Section>
+    
     <Content x="-83" y="-90" width="418" height="352" hasBackground="false" bgColor="#FFFFFF"><![CDATA[<p align="LEFT"><span style="font-family: Arial;"><span style="font-size: 24px;"><strong>Racism can impact first aid by causing hesitation, unequal treatment, or biased decisions during emergencies, which can delay life-saving care. It may also create mistrust in those needing help, making communication harder and slowing response.</strong></span></span></p>
 <p align="LEFT"><span style="font-family: Arial;"><span style="font-size: 24px;"><strong>&nbsp;</strong></span></span></p>
 <p align="LEFT"><span style="font-family: Arial;"><span style="font-size: 24px;"><strong>&nbsp;&nbsp;</strong></span></span></p>
@@ -281,17 +283,20 @@ Fear of liability or making mistakes can prevent people from providing timely he
 <p><span style="font-family: Arial; color: #ffffff;"><span style="font-size: 24px;"><strong></strong></span></span></p>
 <p>&nbsp;</p>
 <p><span style="font-family: Arial; color: #ffffff;"><span style="font-size: 24px;"><strong></strong></span></span></p>]]></Content_1>
-    <Narrator x="-50" y="325" start="">sound/BLM_6.mp3</Narrator>
+    <!-- <Narrator x="-50" y="325" start="">sound/BLM_6.mp3</Narrator> -->
     <Flash x="" y="" width="" height="" targetId="" text="" textColor="#000000">swf/protest.swf</Flash>
     
     <Video x="80" y="245" width="240" height="167" autostart="false"/>
-    <Background>images/5.jpg</Background>
+    <!-- <Background>images/whatwe.jpg</Background> -->
     <information><![CDATA[<A HREF="http://www.youtube.com/watch?v=yu7JNY_X8HU" TARGET="_blank"><U>Click here for this screen's basic instruction video</U></A>…</FONT></P>
 If you have Adobe Flash and want to find out how to edit the Flash template then <A HREF="http://www.youtube.com/watch?v=TtCQB4asTQc" TARGET="_blank"><U>Click here</U></A>…</FONT></P>
 This is a basic multi-step template.
 Main Screen: Title and Content change the text displayed on the screen.
 Child Screens: The Title and Content change the text displayed, add/remove child screens to increase the steps up to the maximum shown.]]></information>
-  <navigation/></screen><screen>
+  <navigation/></screen>
+  
+  
+  <screen>
     <screen_id x="0" y="0" keywords="Work, Office, Whiteboard, Board, Presentation">7</screen_id>
     <Template>4</Template>
     <Section>&lt;p&gt;&lt;font face="Arial"&gt;What is unconscious bias?&lt;/font&gt;&lt;/p&gt;</Section>
@@ -301,17 +306,17 @@ Child Screens: The Title and Content change the text displayed, add/remove child
 <p align="LEFT">&nbsp;</p>
 <p align="LEFT"><font face="Arial"><span style="font-size: 24px;"></span></font></p>
 <p>&nbsp;</p>]]></Content>
-    <Narrator x="-2" y="154" start="" width="281" height="498">video/BLM_7.flv</Narrator>
+    <!-- <Narrator x="-2" y="154" start="" width="281" height="498">video/BLM_7.flv</Narrator> -->
     <Flash x="" y="" width="" height="" targetId="" text="" textColor="#000000">swf/Introduction_screen.swf</Flash>
     <Image x="" y="" width="" height="" targetId="" text="" textColor="#000000"/>
     <Video x="80" y="245" width="240" height="167" autostart="false"/>
-    <Background>images/Sim_GDPR_CS_BG2.jpg</Background>
+    <Background>images/uncon.jpg</Background>
     <information/>
   <navigation/></screen><screen>
     <screen_id x="0" y="0">701</screen_id>
     <Template>4</Template>
     <Content x="389" y="72" width="620" height="101" hasBackground="false" bgColor="#FFFFFF"><![CDATA[<p align="LEFT"><font face="Arial"><span style="font-size: 24px;">As you can see, such biases can put innocent people in danger ...</span></font></p>]]></Content>
-    <Narrator x="-50" y="325" start="">sound/BLM_701.mp3</Narrator>
+    <!-- <Narrator x="-50" y="325" start="">sound/BLM_701.mp3</Narrator> -->
     <Image x="" y="" width="" height="" targetId="" text="" textColor="#000000"/>
     <Video x="453" y="156" width="503" height="284" autostart="false">
                 https://www.youtube.com/watch?v=iUQWd4q3tjA
@@ -323,31 +328,31 @@ Child Screens: The Title and Content change the text displayed, add/remove child
     <Content width="340" x="440" height="380" y="-100" bgColor="#FFFFFF" hasBackground="false">&lt;P ALIGN="CENTER"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;
 
 Unconscious bias makes your brain form quick, automatic judgments without you noticing, which can affect how you treat others.&lt;/FONT&gt;&lt;/P&gt;</Content>
-    <Narrator start="0" x="100" stop="400" y="170">sound/bias_4.mp3</Narrator>
+    <!-- <Narrator start="0" x="100" stop="400" y="170">sound/bias_4.mp3</Narrator> -->
     <Flash width="" x="" height="" y="" text="" targetId="" textColor="#000000">swf/Bias_4.swf</Flash>
     <Image width="200" x="-100" height="200" y="-180" text="" targetId="" textColor="#000000">images/Bias_4a.png</Image>
     <Video width="240" x="80" height="167" y="245" autostart="false"/>
-    <Background>images/people1.jpg</Background>
+    <Background>images/pngtree-blurred-crowd-of-people-walking-in-the-city-soft-focus-effect-image_16269446.jpg</Background>
     <information/>
   <navigation/></screen><screen>
     <screen_id x="180" y="210">801</screen_id>
     <Template>4</Template>
     <Content width="360" x="-185" height="380" y="-170" bgColor="#FFFFFF" hasBackground="false">&lt;P ALIGN="CENTER"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt; Psychologists say unconscious bias comes from the brain’s quick shortcuts, which can cause unintentional unfair judgments..&lt;/FONT&gt;&lt;/P&gt;</Content>
-    <Narrator start="0" x="100" stop="400" y="170">sound/bias_401.mp3</Narrator>
-    <Image width="200" x="500" height="200" y="-130" text="" targetId="" textColor="#000000">images/Bias_4b.png</Image>
+    <!-- <Narrator start="0" x="100" stop="400" y="170">sound/bias_401.mp3</Narrator> -->
+    <Image width="200" x="500" height="200" y="-130" text="" targetId="" textColor="#000000">images/bubble.png</Image>
     <Video width="240" x="80" height="167" y="245" autostart="false"/>
   <navigation/></screen><screen>
     <screen_id x="180" y="210">802</screen_id>
     <Template>4</Template>
     <Content width="340" x="440" height="380" y="-80" bgColor="#FFFFFF" hasBackground="false">&lt;P ALIGN="CENTER"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;We use these judgments in first aid very quickly, but the ways we categorize or prioritize people are not always logical, evidence-based, or fair&lt;/FONT&gt;&lt;/P&gt;</Content>
-    <Narrator start="0" x="100" stop="400" y="170">sound/bias_402.mp3</Narrator>
+    <!-- <Narrator start="0" x="100" stop="400" y="170">sound/bias_402.mp3</Narrator> -->
     <Image width="200" x="-100" height="200" y="-180" text="" targetId="" textColor="#000000">images/Bias_4c.png</Image>
     <Video width="240" x="80" height="167" y="245" autostart="false"/>
   <navigation/></screen><screen>
     <screen_id x="180" y="210">803</screen_id>
     <Template>4</Template>
     <Content width="360" x="-190" height="380" y="-140" bgColor="#FFFFFF" hasBackground="false">&lt;P ALIGN="CENTER"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;These mental shortcuts can also lead to unconscious bias and affect the quality of decisions when providing first aids&lt;/FONT&gt;&lt;/P&gt;</Content>
-    <Narrator start="0" x="100" stop="400" y="170">sound/bias_403.mp3</Narrator>
+    <!-- <Narrator start="0" x="100" stop="400" y="170">sound/bias_403.mp3</Narrator> -->
     <Image width="200" x="500" height="200" y="-130" text="" targetId="" textColor="#000000">images/Bias_4d.png</Image>
     <Video width="240" x="80" height="167" y="245" autostart="false"/>
   <navigation/></screen><screen>
@@ -355,40 +360,43 @@ Unconscious bias makes your brain form quick, automatic judgments without you no
     <Template>9</Template>
     <Section>Leadership</Section>
     <Content width="700" x="-110" height="70" y="-90" bgColor="#ffffff" hasBackground="true" bgAlpha="0.95">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;Have a look at this line up – at first glance, who do you think is likely to be a Chief Executive (click on one choice.)? &lt;/FONT&gt;&lt;/P&gt;</Content>
-    <Narrator start="0" x="796" stop="400" y="113" width="305" height="540">video/BLM_9.flv</Narrator>
+    <!-- <Narrator start="0" x="796" stop="400" y="113" width="305" height="540">video/BLM_9.flv</Narrator> -->
     <Flash width="" x="" height="" y="" text="" targetId="" textColor="#000000">swf/Bias_5.swf</Flash>
     <Image width="" x="" height="" y="" text="" targetId="" textColor="#000000"/>
     <Video width="240" x="580" height="147" y="300" autostart="false"/>
-    <Background>images/meeting_room.jpg</Background>
+    <Background>images/leader.png</Background>
     <information/>
   <navigation/></screen><screen>
     <screen_id x="200" y="150">901</screen_id>
     <Template>9</Template>
     <Content width="700" x="-110" height="70" y="-90" bgColor="#ffffff" hasBackground="true" bgAlpha="0.95">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;Studies show that most people pick 2 or 3 due to dress, age and even height.&lt;/FONT&gt;&lt;/P&gt;</Content>
-    <Narrator start="0" x="400" stop="400" y="170">sound/bias_501.mp3</Narrator>
-    <Image width="" x="" height="" y="" text="" targetId="" textColor="#000000"/>
+    <!-- <Narrator start="0" x="400" stop="400" y="170">sound/bias_501.mp3</Narrator> -->
+    <!-- <Image width="" x="" height="" y="" text="" targetId="" textColor="#000000"/> -->
     <Video width="240" x="80" height="167" y="245" autostart="false"/>
   <navigation/></screen><screen>
     <screen_id x="200" y="150">902</screen_id>
     <Template>9</Template>
     <Content width="320" x="560" height="440" y="-100" bgColor="#ffffff" hasBackground="true" padding="10" bgAlpha="0.95">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;B&gt;Objective Leadership in First Aid&lt;/B&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;Did you know that studies show first aid responders sometimes favor people who look strong or healthy, even though in the general population, many adults may not appear that way? This unconscious preference can affect who receives attention first. &lt;FONT SIZE="24"&gt; &lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;</Content>
-    <Narrator start="0" x="100" stop="400" y="170">sound/bias_502.mp3</Narrator>
-    <Image width="100" x="160" height="100" y="-105" text="" targetId="" textColor="#000000">images/Bias_5a.jpg</Image>
-    <Video width="240" x="80" height="167" y="245" autostart="false"/>
+    <!-- <Narrator start="0" x="100" stop="400" y="170">sound/bias_502.mp3</Narrator> -->
+    <!-- <Image width="100" x="160" height="100" y="-105" text="" targetId="" textColor="#000000">images/Bias_5a.jpg</Image> -->
+    <!-- <Video width="240" x="80" height="167" y="245" autostart="false"/> -->
+    <HideImage>true</HideImage>
+
+ 
   <navigation/></screen><screen>
     <screen_id x="200" y="150">903</screen_id>
     <Template>9</Template>
     <Content width="320" x="560" height="230" y="-100" bgColor="#ffffff" hasBackground="true" bgAlpha="0.95" padding="10">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;Strong first-aid leadership, supported by training and organizational backing, enhances teamwork, decision-making, and patient outcomes.&lt;/FONT&gt;&lt;/P&gt;</Content>
-    <Narrator start="0" x="100" stop="400" y="170">sound/bias_503.mp3</Narrator>
-    <Image width="" x="" height="" y="" text="" targetId="" textColor="#000000"/>
+    <!-- <Narrator start="0" x="100" stop="400" y="170">sound/bias_503.mp3</Narrator> -->
+    <!-- <Image width="" x="" height="" y="" text="" targetId="" textColor="#000000"/> -->
     <Video width="240" x="80" height="167" y="245" autostart="false"/>
   <navigation/></screen><screen>
     <screen_id x="200" y="150">904</screen_id>
     <Template>9</Template>
     <Content width="320" x="560" height="210" y="-100" bgColor="#ffffff" hasBackground="true" padding="10" bgAlpha="0.95">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;Judgments about appearance, age, or gender can cause responders to unconsciously favor some adults over others, even when medical need is equal.&lt;/FONT&gt;&lt;/P&gt;</Content>
-    <Narrator start="0" x="100" stop="400" y="170">sound/bias_504.mp3</Narrator>
-    <Image width="300" x="130" height="596" y="-80" text="" targetId="" textColor="#000000">images/Bias_5b.png</Image>
-    <Image_1 width="100" x="-15" height="100" y="-40" text="" targetId="" textColor="#000000">images/Bias_5a.jpg</Image_1>
+    <!-- <Narrator start="0" x="100" stop="400" y="170">sound/bias_504.mp3</Narrator> -->
+    <!-- <Image width="300" x="130" height="596" y="-80" text="" targetId="" textColor="#000000">images/Bias_5b.png</Image> -->
+    <Image_1 width="400" x="-25" height="400" y="-60" text="" targetId="" textColor="#000000">images/pic.png</Image_1>
     <Video width="240" x="80" height="167" y="245" autostart="false"/>
   <navigation/></screen><screen>
     <screen_id x="90" keywords="Silhouettes, Page, Document, Paper, Thinking, List" y="-20">10</screen_id>
@@ -403,11 +411,11 @@ Unconscious bias makes your brain form quick, automatic judgments without you no
 <p align="LEFT"><span style="color: #000000; font-size: 22px;">Being aware of personal biases</span></p>
 <p align="LEFT"><span style="color: #000000; font-size: 22px;">Reflecting before deciding</span></p>
 <p align="LEFT"><span style="color: #000000; font-size: 22px;">Using structured training systems</span></p>]]></Content_1>
-    <Narrator start="0" x="100" stop="400" y="170">sound/bias_6.mp3</Narrator>
+    <!-- <Narrator start="0" x="100" stop="400" y="170">sound/bias_6.mp3</Narrator> -->
     <Flash width="" x="" height="" y="" text="" targetId="" textColor="#000000">swf/Bias_6.swf</Flash>
-    <Image width="" x="" height="" y="" text="" targetId="" textColor="#000000"/>
+    <!-- <Image width="" x="" height="" y="" text="" targetId="" textColor="#000000"/> -->
     <Video width="240" x="80" height="167" y="245" autostart="false"/>
-    <Background>images/corporate_office3.jpg</Background>
+    <Background>images/back.png</Background>
     <information/>
   <navigation/></screen><screen>
     <screen_id x="50" y="20">1001</screen_id>
@@ -421,7 +429,7 @@ Unconscious bias makes your brain form quick, automatic judgments without you no
 <p align="LEFT"><span style="color: #000000; font-size: 22px;">Being aware of personal biases</span></p>
 <p align="LEFT"><span style="color: #000000; font-size: 22px;"Reflecting before deciding </span></p>
 <p align="LEFT"><span style="color: #000000; font-size: 22px;">Using structured training systems</span></p>]]></Content_1>
-    <!-- <Narrator x="-50" y="325" start="">sound/BLM_1001mp3.mp3</Narrator> -->
+    <Narrator x="-50" y="325" start="">sound/BLM_1001mp3.mp3</Narrator>
     <Image width="" x="" height="" y="" text="" targetId="" textColor="#000000"/>
     <Video width="240" x="80" height="167" y="245" autostart="false"/>
   <navigation/></screen><screen>
