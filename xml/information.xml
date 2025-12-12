@@ -421,7 +421,7 @@ Unconscious bias makes your brain form quick, automatic judgments without you no
 <p align="LEFT"><span style="color: #000000; font-size: 22px;">Being aware of personal biases</span></p>
 <p align="LEFT"><span style="color: #000000; font-size: 22px;"Reflecting before deciding </span></p>
 <p align="LEFT"><span style="color: #000000; font-size: 22px;">Using structured training systems</span></p>]]></Content_1>
-    <Narrator x="-50" y="325" start="">sound/BLM_1001mp3.mp3</Narrator>
+    <!-- <Narrator x="-50" y="325" start="">sound/BLM_1001mp3.mp3</Narrator> -->
     <Image width="" x="" height="" y="" text="" targetId="" textColor="#000000"/>
     <Video width="240" x="80" height="167" y="245" autostart="false"/>
   <navigation/></screen><screen>
@@ -434,11 +434,11 @@ Unconscious bias makes your brain form quick, automatic judgments without you no
     <Content_3 width="550" x="-50" height="80" y="355" bgColor="#FFFFFF" hasBackground="false">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;Short adult first
 &lt;/FONT&gt;&lt;/P&gt;</Content_3>
     <Content_4 width="550" x="-50" height="80" y="400" bgColor="#FFFFFF" hasBackground="false">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;Tall adult first&lt;/FONT&gt;&lt;/P&gt;</Content_4>
-    <Narrator start="0" x="100" stop="400" y="170">sound/bias_8.mp3</Narrator>
+    <!-- <Narrator start="0" x="100" stop="400" y="170">sound/bias_8.mp3</Narrator> -->
     <Flash width="" x="" height="" y="" text="" targetId="" textColor="#000000">swf/Bias_8.swf</Flash>
-    <Image width="400" x="450" height="288" y="-50" text="" targetId="" textColor="#000000">images/Bias_8a.jpg</Image>
+    <Image width="400" x="450" height="288" y="-50" text="" targetId="" textColor="#000000">images/module_11.jpeg</Image>
     <Video width="240" x="80" height="167" y="245" autostart="false"/>
-    <Background>images/corporate_white_wall.jpg</Background>
+    <Background>images/.jpg</Background>
     <information/>
   <navigation/></screen><screen>
     <screen_id x="200" y="150">1101</screen_id>
@@ -449,8 +449,8 @@ The correct way to decide who to help first is by medical need, not appearance. 
     <Content_2 width="550" x="-50" height="80" y="310" bgColor="#FFFFFF" hasBackground="false">&lt;P ALIGN="LEFT"&gt;&lt;FONT FACE="Arial" SIZE="24" COLOR="#CC0000" LETTERSPACING="0" KERNING="0"&gt;&lt;B&gt;Whoever noticed first&lt;/B&gt;&lt;/FONT&gt;&lt;/P&gt;</Content_2>
     <Content_3 width="550" x="-50" height="80" y="355" bgColor="#FFFFFF" hasBackground="false">&lt;P ALIGN="LEFT"&gt;&lt;FONT FACE="Arial" SIZE="24" COLOR="#CC0000" LETTERSPACING="0" KERNING="0"&gt;&lt;B&gt;Short adult first&lt;/B&gt;&lt;/FONT&gt;&lt;/P&gt;</Content_3>
     <Content_4 width="550" x="-50" height="80" y="400" bgColor="#FFFFFF" hasBackground="false">&lt;P ALIGN="LEFT"&gt;&lt;FONT FACE="Arial" SIZE="24" COLOR="#CC0000" LETTERSPACING="0" KERNING="0"&gt;&lt;B&gt;Tall adult first&lt;/B&gt;&lt;/FONT&gt;&lt;/P&gt;</Content_4>
-    <Narrator start="0" x="100" stop="400" y="170">sound/bias_801.mp3</Narrator>
-    <Image width="400" x="450" height="288" y="-50" text="" targetId="" textColor="#000000">images/Bias_8b.jpg</Image>
+    <!-- <Narrator start="0" x="100" stop="400" y="170">sound/bias_801.mp3</Narrator> -->
+    <Image width="400" x="450" height="288" y="-50" text="" targetId="" textColor="#000000">images/module_11.jpeg</Image>
     <Video width="240" x="80" height="167" y="245" autostart="false"/>
   <navigation/></screen><screen>
     <screen_id x="200" y="150">1102</screen_id>
@@ -461,83 +461,89 @@ The correct way to decide who to help first is by medical need, not appearance. 
     <Content_2 width="550" x="-50" height="80" y="310" bgColor="#FFFFFF" hasBackground="false">&lt;P ALIGN="LEFT"&gt;&lt;FONT FACE="Arial" SIZE="24" COLOR="#CC0000" LETTERSPACING="0" KERNING="0"&gt;&lt;B&gt;Whoever noticed first&lt;/B&gt;&lt;/FONT&gt;&lt;/P&gt;</Content_2>
     <Content_3 width="550" x="-50" height="80" y="355" bgColor="#FFFFFF" hasBackground="false">&lt;P ALIGN="LEFT"&gt;&lt;FONT FACE="Arial" SIZE="24" COLOR="#CC0000" LETTERSPACING="0" KERNING="0"&gt;&lt;B&gt;Short adult first&lt;/B&gt;&lt;/FONT&gt;&lt;/P&gt;</Content_3>
     <Content_4 width="550" x="-50" height="80" y="400" bgColor="#FFFFFF" hasBackground="false">&lt;P ALIGN="LEFT"&gt;&lt;FONT FACE="Arial" SIZE="24" COLOR="#CC0000" LETTERSPACING="0" KERNING="0"&gt;&lt;B&gt;Tall adult first&lt;/B&gt;&lt;/FONT&gt;&lt;/P&gt;</Content_4>
-    <Narrator start="0" x="100" stop="400" y="170">sound/bias_801.mp3</Narrator>
-    <Image width="400" x="450" height="288" y="-50" text="" targetId="" textColor="#000000">images/Bias_8b.jpg</Image>
+    <!-- <Narrator start="0" x="100" stop="400" y="170">sound/bias_801.mp3</Narrator> -->
+    <Image width="400" x="450" height="288" y="-50" text="" targetId="" textColor="#000000">images/module_11.jpeg</Image>
     <Video width="240" x="80" height="167" y="245" autostart="false"/>
   <navigation/></screen><screen>
     <screen_id x="200" y="150">1103</screen_id>
     <Template>9</Template>
-    <Content width="550" x="-120" height="350" y="-60" bgColor="#FFFFFF" hasBackground="false">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;B&gt;What do you see?&lt;/B&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;The only correct elephant leg in the drawing is the back left leg. That leg is completely intact, but the others aren’t. If you look very closely, you’ll see that the rest of the legs have the foot missing from them. Basically, the artist chopped the feet off of the legs and put the images of the feet between the actual legs. Look closely at the image and you’ll see exactly what I’m talking about.&lt;/FONT&gt;&lt;/P&gt;</Content>
-    <Content_1 width="550" x="-50" height="80" y="265" bgColor="#FFFFFF" hasBackground="false">&lt;P ALIGN="LEFT"&gt;&lt;FONT FACE="Arial" SIZE="24" COLOR="#339900" LETTERSPACING="0" KERNING="0"&gt;&lt;B&gt;One&lt;/B&gt;&lt;FONT COLOR="#CC0000"&gt;&lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;</Content_1>
-    <Content_2 width="550" x="-50" height="80" y="310" bgColor="#FFFFFF" hasBackground="false">&lt;P ALIGN="LEFT"&gt;&lt;FONT FACE="Arial" SIZE="24" COLOR="#CC0000" LETTERSPACING="0" KERNING="0"&gt;&lt;B&gt;Two&lt;/B&gt;&lt;/FONT&gt;&lt;/P&gt;</Content_2>
-    <Content_3 width="550" x="-50" height="80" y="355" bgColor="#FFFFFF" hasBackground="false">&lt;P ALIGN="LEFT"&gt;&lt;FONT FACE="Arial" SIZE="24" COLOR="#CC0000" LETTERSPACING="0" KERNING="0"&gt;&lt;B&gt;Three&lt;/B&gt;&lt;/FONT&gt;&lt;/P&gt;</Content_3>
-    <Content_4 width="550" x="-50" height="80" y="400" bgColor="#FFFFFF" hasBackground="false">&lt;P ALIGN="LEFT"&gt;&lt;FONT FACE="Arial" SIZE="24" COLOR="#CC0000" LETTERSPACING="0" KERNING="0"&gt;&lt;B&gt;Four&lt;/B&gt;&lt;/FONT&gt;&lt;/P&gt;</Content_4>
-    <Narrator start="0" x="100" stop="400" y="170">sound/bias_801.mp3</Narrator>
-    <Image width="400" x="450" height="288" y="-50" text="" targetId="" textColor="#000000">images/Bias_8b.jpg</Image>
+    <Content width="550" x="-120" height="350" y="-60" bgColor="#FFFFFF" hasBackground="false">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;B&gt;What do you see?&lt;/B&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;The correct way to decide who to help first is by medical need, not appearance. Just like in the elephant drawing where most legs are incomplete or misplaced except the back left leg, our first impressions (like noticing someone tall or fit-looking) can be misleading. Only by carefully assessing symptoms can we see the real priority, just as only the back left leg is fully intact when you look closely at the drawing.&lt;/FONT&gt;&lt;/P&gt;</Content>
+    <Content_1 width="550" x="-50" height="80" y="265" bgColor="#FFFFFF" hasBackground="false">&lt;P ALIGN="LEFT"&gt;&lt;FONT FACE="Arial" SIZE="24" COLOR="#339900" LETTERSPACING="0" KERNING="0"&gt;&lt;B&gt;Based on medical need&lt;/B&gt;&lt;FONT COLOR="#CC0000"&gt;&lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;</Content_1>
+    <Content_2 width="550" x="-50" height="80" y="310" bgColor="#FFFFFF" hasBackground="false">&lt;P ALIGN="LEFT"&gt;&lt;FONT FACE="Arial" SIZE="24" COLOR="#CC0000" LETTERSPACING="0" KERNING="0"&gt;&lt;B&gt;whoever noticed first&lt;/B&gt;&lt;/FONT&gt;&lt;/P&gt;</Content_2>
+    <Content_3 width="550" x="-50" height="80" y="355" bgColor="#FFFFFF" hasBackground="false">&lt;P ALIGN="LEFT"&gt;&lt;FONT FACE="Arial" SIZE="24" COLOR="#CC0000" LETTERSPACING="0" KERNING="0"&gt;&lt;B&gt;Short adult first&lt;/B&gt;&lt;/FONT&gt;&lt;/P&gt;</Content_3>
+    <Content_4 width="550" x="-50" height="80" y="400" bgColor="#FFFFFF" hasBackground="false">&lt;P ALIGN="LEFT"&gt;&lt;FONT FACE="Arial" SIZE="24" COLOR="#CC0000" LETTERSPACING="0" KERNING="0"&gt;&lt;B&gt;Tall adult first&lt;/B&gt;&lt;/FONT&gt;&lt;/P&gt;</Content_4>
+    <!-- <Narrator start="0" x="100" stop="400" y="170">sound/bias_801.mp3</Narrator> -->
+    <Image width="400" x="450" height="288" y="-50" text="" targetId="" textColor="#000000">images/module_11.jpeg</Image>
     <Video width="240" x="80" height="167" y="245" autostart="false"/>
   <navigation/></screen><screen>
     <screen_id x="200" y="150">1104</screen_id>
     <Template>9</Template>
-    <Content width="550" x="-120" height="350" y="-60" bgColor="#FFFFFF" hasBackground="false">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;B&gt;What do you see?&lt;/B&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;The only correct elephant leg in the drawing is the back left leg. That leg is completely intact, but the others aren’t. If you look very closely, you’ll see that the rest of the legs have the foot missing from them. Basically, the artist chopped the feet off of the legs and put the images of the feet between the actual legs. Look closely at the image and you’ll see exactly what I’m talking about.&lt;/FONT&gt;&lt;/P&gt;</Content>
-    <Content_1 width="550" x="-50" height="80" y="265" bgColor="#FFFFFF" hasBackground="false">&lt;P ALIGN="LEFT"&gt;&lt;FONT FACE="Arial" SIZE="24" COLOR="#339900" LETTERSPACING="0" KERNING="0"&gt;&lt;B&gt;One&lt;/B&gt;&lt;FONT COLOR="#CC0000"&gt;&lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;</Content_1>
-    <Content_2 width="550" x="-50" height="80" y="310" bgColor="#FFFFFF" hasBackground="false">&lt;P ALIGN="LEFT"&gt;&lt;FONT FACE="Arial" SIZE="24" COLOR="#CC0000" LETTERSPACING="0" KERNING="0"&gt;&lt;B&gt;Two&lt;/B&gt;&lt;/FONT&gt;&lt;/P&gt;</Content_2>
-    <Content_3 width="550" x="-50" height="80" y="355" bgColor="#FFFFFF" hasBackground="false">&lt;P ALIGN="LEFT"&gt;&lt;FONT FACE="Arial" SIZE="24" COLOR="#CC0000" LETTERSPACING="0" KERNING="0"&gt;&lt;B&gt;Three&lt;/B&gt;&lt;/FONT&gt;&lt;/P&gt;</Content_3>
-    <Content_4 width="550" x="-50" height="80" y="400" bgColor="#FFFFFF" hasBackground="false">&lt;P ALIGN="LEFT"&gt;&lt;FONT FACE="Arial" SIZE="24" COLOR="#CC0000" LETTERSPACING="0" KERNING="0"&gt;&lt;B&gt;Four&lt;/B&gt;&lt;/FONT&gt;&lt;/P&gt;</Content_4>
-    <Narrator start="0" x="100" stop="400" y="170">sound/bias_801.mp3</Narrator>
-    <Image width="400" x="450" height="288" y="-50" text="" targetId="" textColor="#000000">images/Bias_8b.jpg</Image>
+    <Content width="550" x="-120" height="350" y="-60" bgColor="#FFFFFF" hasBackground="false">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;B&gt;What do you see?&lt;/B&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;The correct way to decide who to help first is by medical need, not appearance. Just like in the elephant drawing where most legs are incomplete or misplaced except the back left leg, our first impressions (like noticing someone tall or fit-looking) can be misleading. Only by carefully assessing symptoms can we see the real priority, just as only the back left leg is fully intact when you look closely at the drawing.&lt;/FONT&gt;&lt;/P&gt;</Content>
+    <Content_1 width="550" x="-50" height="80" y="265" bgColor="#FFFFFF" hasBackground="false">&lt;P ALIGN="LEFT"&gt;&lt;FONT FACE="Arial" SIZE="24" COLOR="#339900" LETTERSPACING="0" KERNING="0"&gt;&lt;B&gt;Based on medical need&lt;/B&gt;&lt;FONT COLOR="#CC0000"&gt;&lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;</Content_1>
+    <Content_2 width="550" x="-50" height="80" y="310" bgColor="#FFFFFF" hasBackground="false">&lt;P ALIGN="LEFT"&gt;&lt;FONT FACE="Arial" SIZE="24" COLOR="#CC0000" LETTERSPACING="0" KERNING="0"&gt;&lt;B&gt;whoever noticed first&lt;/B&gt;&lt;/FONT&gt;&lt;/P&gt;</Content_2>
+    <Content_3 width="550" x="-50" height="80" y="355" bgColor="#FFFFFF" hasBackground="false">&lt;P ALIGN="LEFT"&gt;&lt;FONT FACE="Arial" SIZE="24" COLOR="#CC0000" LETTERSPACING="0" KERNING="0"&gt;&lt;B&gt;short sdult first&lt;/B&gt;&lt;/FONT&gt;&lt;/P&gt;</Content_3>
+    <Content_4 width="550" x="-50" height="80" y="400" bgColor="#FFFFFF" hasBackground="false">&lt;P ALIGN="LEFT"&gt;&lt;FONT FACE="Arial" SIZE="24" COLOR="#CC0000" LETTERSPACING="0" KERNING="0"&gt;&lt;B&gt;Tall adult first&lt;/B&gt;&lt;/FONT&gt;&lt;/P&gt;</Content_4>
+    <!-- <Narrator start="0" x="100" stop="400" y="170">sound/bias_801.mp3</Narrator> -->
+    <Image width="400" x="450" height="288" y="-50" text="" targetId="" textColor="#000000">images/module_11.jpeg</Image>
     <Video width="240" x="80" height="167" y="245" autostart="false"/>
   <navigation/></screen><screen>
     <screen_id x="200" y="150">1105</screen_id>
     <Template>9</Template>
     <Content width="400" x="-50" height="380" y="0" bgColor="#FFFFFF" hasBackground="false">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;It highlights how responders might be influenced by appearance, size, or perceived strength rather than objectively assessing medical need. The scenario encourages awareness of automatic judgments and reinforces the importance of prioritizing care based on symptoms and urgency, not personal impressions.&lt;FONT SIZE="24"&gt; &lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;FONT SIZE="24"&gt; &lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;</Content>
-    <Narrator start="0" x="100" stop="400" y="170">sound/bias_802.mp3</Narrator>
-    <Image width="500" x="300" height="500" y="-30" text="" targetId="" textColor="#000000">images/Bias_8c.png</Image>
+    <!-- <Narrator start="0" x="100" stop="400" y="170">sound/bias_802.mp3</Narrator> -->
+    <Image width="480" x="400" height="400" y="-30" text="" targetId="" textColor="#000000">images/tst.png</Image>
+    <Background>images/names2.jpg</Background>
     <Video width="240" x="80" height="167" y="245" autostart="false"/>
   <navigation/></screen><screen>
     <screen_id x="160" keywords="3D, Falling Blocks, Cubes, Images, Presentation" y="130">12</screen_id>
     <Template>5</Template>
     <Section>Types of Bias</Section>
-    <Content width="912" x="-100" height="100" y="92" bgColor="#ffffff" hasBackground="true" bgAlpha="0.95"><![CDATA[<p style="text-align: center;" align="LEFT"><span style="color: #000000; font-size: 24px;">There are many types of bias that can affect decision-making in first aid. Providing fair and effective care is possible if you recognize these biases in yourself and others.</span></p>]]></Content>
-    <Narrator start="0" x="100" stop="400" y="170">sound/bias_9.mp3</Narrator>
+    <Content width="912" x="-100" height="100" y="200" bgColor="#ffffff" hasBackground="true" bgAlpha="0.95"><![CDATA[<p style="text-align: center;" align="LEFT"><span style="color: #000000; font-size: 24px;">There are many types of bias that can affect decision-making in first aid. Providing fair and effective care is possible if you recognize these biases in yourself and others.</span></p>]]></Content>
+    <!-- <Narrator start="0" x="100" stop="400" y="170">sound/bias_9.mp3</Narrator> -->
     <Image width="300" x="200" height="237" y="50" text="" targetId="" textColor="#000000"/>
     <Video width="240" x="80" height="167" y="245" autostart="false"/>
-    <Background>images/lab.jpg</Background>
+    <Background>images/biases.jpg</Background>
     <information/>
   <navigation/></screen><screen>
     <screen_id x="0" y="0">1201</screen_id>
     <Template>5</Template>
-    <Content width="330" x="-150" height="550" y="-90" bgColor="#ffffff" hasBackground="true" bgAlpha="0.95">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;B&gt;Halo and Horns&lt;/B&gt;&lt;FONT SIZE="24"&gt;&lt;B&gt; &lt;/B&gt;&lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;In first aid for adults, the halo effect occurs when a responder assumes a patient is “fine” or healthy based on appearance, overlooking potential medical issues. The horns effect is the opposite, where a patient who looks unwell or different may be assumed to be in worse condition than they actually are. These biases can affect how quickly and effectively care is given.&lt;/FONT&gt;&lt;/P&gt;</Content>
-    <Image width="260" x="200" height="237" y="50" text="" targetId="" textColor="#000000">images/Bias_9a.jpg</Image>
+    <Content width="330" x="-150" height="550" y="-90" bgColor="#ffffff" hasBackground="true" bgAlpha="0.95">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;B&gt;Halo and Horns&lt;/B&gt;&lt;FONT SIZE="24"&gt;&lt;B&gt; &lt;/B&gt;&lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;The halo effect occurs when a responder assumes a patient is “fine” or healthy based on appearance, overlooking potential medical issues. The horns effect is the opposite, where a patient who looks unwell or different may be assumed to be in worse condition than they actually are. These biases can affect how quickly and effectively care is given.&lt;/FONT&gt;&lt;/P&gt;</Content>
+    <Image width="260" x="200" height="237" y="50" text="" targetId="" textColor="#000000"></Image>
+    <Background>images/Bias_9a.jpg</Background>
     <Video width="240" x="80" height="167" y="245" autostart="false"/>
-    <Narrator start="0" x="100" stop="400" y="170">sound/bias_901.mp3</Narrator>
+    <!-- <Narrator start="0" x="100" stop="400" y="170">sound/bias_901.mp3</Narrator> -->
   <navigation/></screen><screen>
     <screen_id x="0" y="0">1202</screen_id>
     <Template>5</Template>
     <Content width="230" x="-150" height="550" y="-90" bgColor="#ffffff" hasBackground="true" bgAlpha="0.95">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;B&gt;Affinity Bias&lt;/B&gt;&lt;FONT SIZE="24"&gt;&lt;B&gt; &lt;/B&gt;&lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;Affinity bias happens when responders favor patients who share similar background, appearance, or behavior. They may give these patients more attention or overlook their faults, which can affect fair and objective care.&lt;/FONT&gt;&lt;/P&gt;</Content>
-    <Image width="300" x="200" height="237" y="50" text="" targetId="" textColor="#000000">images/Bias_9b.jpg</Image>
+    <Image width="300" x="300" height="300" y="50" text="" targetId="" textColor="#000000"></Image>
+    <Background>images/affinity-bias.png</Background>
     <Video width="240" x="80" height="167" y="245" autostart="false"/>
-    <Narrator start="0" x="100" stop="400" y="170">sound/bias_902.mp3</Narrator>
+    <!-- <Narrator start="0" x="100" stop="400" y="170">sound/bias_902.mp3</Narrator> -->
   <navigation/></screen><screen>
     <screen_id x="0" y="0">1203</screen_id>
     <Template>5</Template>
     <Content width="330" x="-150" height="550" y="-90" bgColor="#ffffff" hasBackground="true" bgAlpha="0.95">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;B&gt;Confirmation Bias&lt;/B&gt;&lt;FONT SIZE="24"&gt;&lt;B&gt; &lt;/B&gt;&lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;Confirmation bias occurs when a responder interprets a patient’s symptoms in a way that supports their existing assumptions. For example, assuming chest pain is just anxiety because the patient looks young and healthy, rather than objectively assessing the situation, can lead to delayed or incorrect ca&lt;/FONT&gt;&lt;/P&gt;</Content>
-    <Image width="300" x="200" height="237" y="50" text="" targetId="" textColor="#000000">images/Bias_9c.jpg</Image>
+    <Image width="300" x="200" height="237" y="50" text="" targetId="" textColor="#000000"></Image>
+    <Background>images/confirmation_bias.jpg</Background>
     <Video width="240" x="80" height="167" y="245" autostart="false"/>
-    <Narrator start="0" x="100" stop="400" y="170">sound/bias_903.mp3</Narrator>
+    <!-- <Narrator start="0" x="100" stop="400" y="170">sound/bias_903.mp3</Narrator> -->
   <navigation/></screen><screen>
     <screen_id x="0" y="0">1204</screen_id>
     <Template>5</Template>
     <Content width="230" x="-150" height="550" y="-90" bgColor="#ffffff" hasBackground="true" bgAlpha="0.95">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;B&gt;Social Comparison Bias&lt;/B&gt;&lt;FONT SIZE="24"&gt;&lt;B&gt; &lt;/B&gt;&lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;Social comparison bias in first aid happens when adults judge their skills by comparing themselves to others, causing hesitation or overconfidence. Focusing on proper first aid steps and practicing regularly helps reduce this bias.&lt;/FONT&gt;&lt;/P&gt;</Content>
-    <Image width="300" x="200" height="237" y="50" text="" targetId="" textColor="#000000">images/Bias_9d.jpg</Image>
+    <Image width="200" x="200" height="237" y="50" text="" targetId="" textColor="#000000"></Image>
+    <Background>images/social_comparison.jpg</Background>
     <Video width="240" x="80" height="167" y="245" autostart="false"/>
-    <Narrator start="0" x="100" stop="400" y="170">sound/bias_904.mp3</Narrator>
+    <!-- <Narrator start="0" x="100" stop="400" y="170">sound/bias_904.mp3</Narrator> -->
   <navigation/></screen><screen>
     <screen_id x="0" y="0">1205</screen_id>
     <Template>5</Template>
     <Content width="230" x="-150" height="550" y="-90" bgColor="#ffffff" hasBackground="true" bgAlpha="0.95">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;B&gt;Stereotype Threat&lt;/B&gt;&lt;FONT SIZE="24"&gt;&lt;B&gt; &lt;/B&gt;&lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;Stereotype threat in first aid happens when adults fear confirming negative stereotypes about their group, which can reduce confidence and slow their response. Focusing on training and the task helps improve performance.&lt;/FONT&gt;&lt;/P&gt;</Content>
-    <Image width="300" x="200" height="237" y="50" text="" targetId="" textColor="#000000">images/Bias_9e.jpg</Image>
+    <Image width="300" x="200" height="237" y="50" text="" targetId="" textColor="#000000"></Image>
+    <Background>images/stereotype_threat.jpg</Background>
     <Video width="240" x="80" height="167" y="245" autostart="false"/>
-    <Narrator start="0" x="100" stop="400" y="170">sound/bias_905.mp3</Narrator>
+    <!-- <Narrator start="0" x="100" stop="400" y="170">sound/bias_905.mp3</Narrator> -->
   <navigation/></screen><screen>
     <screen_id x="0" y="0">1206</screen_id>
     <Template>5</Template>
@@ -546,17 +552,18 @@ The correct way to decide who to help first is by medical need, not appearance. 
 <p align="LEFT"><span style="color: #000000; font-size: 24px;">Gender bias in first aid occurs when adults assume certain genders are better or worse at providing help. For example, people may expect women to be more caring or men to be stronger in emergencies, which can affect who receives help and who feels confident giving it. Training and awareness can reduce these biases.</span></p>
 <p align="LEFT">&nbsp;</p>
 <p align="LEFT"><span style="font-size: 24px;"></span></p>]]></Content>
-    <Image width="300" x="200" height="237" y="50" text="" targetId="" textColor="#000000">images/Bias_9f.jpg</Image>
+    <Image width="300" x="200" height="237" y="50" text="" targetId="" textColor="#000000"></Image>
+    <Background>images/gender_bias.jpg</Background>
     <Video width="240" x="80" height="167" y="245" autostart="false"/>
-    <Narrator start="0" x="100" stop="400" y="170">sound/BLM_1206.mp3</Narrator>
+    <!-- <Narrator start="0" x="100" stop="400" y="170">sound/BLM_1206.mp3</Narrator> -->
   <navigation/></screen><screen>
     <screen_id x="200" keywords="Silhouettes, Manager, Businessman, Businesswoman, Presentation, Whiteboard" y="210">13</screen_id>
     <Template>4</Template>
     <Section>How can you overcome your biases?</Section>
     <Content width="700" x="0" height="193" y="-110" bgColor="#FFFFFF" hasBackground="false">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt; To overcome biases in adult first aid, stay aware of your own assumptions and focus only on the person’s medical needs. Follow standard first aid guidelines, avoid judging based on appearance or background, and ask clear questions instead of guessing. Stay calm, respectful, and empathetic so your decisions stay fair and patient-centred.&lt;FONT SIZE="24"&gt; &lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&lt;/FONT&gt;&lt;/P&gt;</Content>
-    <Narrator start="0" x="-11" stop="400" y="260" width="336" height="540">video/BLM_13.flv</Narrator>
+    <!-- <Narrator start="0" x="-11" stop="400" y="260" width="336" height="540">video/BLM_13.flv</Narrator> -->
     <Flash width="" x="" height="" y="" text="" targetId="" textColor="#000000">swf/Bias_11.swf</Flash>
-    <Image x="591" y="47" width="164" height="198" swfSizing="stage">images/blm.png</Image>
+    <Image x="591" y="47" width="164" height="198" swfSizing="stage">images/overcome_bias.jpeg</Image>
     <Video width="240" x="80" height="167" y="245" autostart="false"/>
     <Background>images/BLM_BG3.jpg</Background>
     <information/>
@@ -564,52 +571,52 @@ The correct way to decide who to help first is by medical need, not appearance. 
     <screen_id x="200" y="210">1301</screen_id>
     <Template>4</Template>
     <Content width="400" x="-20" height="380" y="-110" bgColor="#FFFFFF" hasBackground="false">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;To reduce unconscious bias in adult first aid, start by accepting that everyone has biases. What matters is recognising them and choosing to act fairly. Just as civil rights leaders praised JFK not for being free of prejudice but for working to overcome it, a good first aider acknowledges their biases and makes a conscious effort to treat every adult equally and respectfully.&lt;FONT SIZE="24"&gt; &lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;</Content>
-    <Narrator start="0" x="100" stop="400" y="170">sound/bias_1101.mp3</Narrator>
-    <Image width="240" x="480" height="240" y="-70" text="" targetId="" textColor="#000000">images/Bias_11a.jpg</Image>
+    <!-- <Narrator start="0" x="100" stop="400" y="170">sound/bias_1101.mp3</Narrator> -->
+    <Image width="340" x="420" height="240" y="-70" text="" targetId="" textColor="#000000">images/overcome_bias2.png</Image>
     <Video width="240" x="80" height="167" y="245" autostart="false"/>
   <navigation/></screen><screen>
     <screen_id x="200" y="210">1302</screen_id>
     <Template>4</Template>
     <Content width="370" x="0" height="380" y="-80" bgColor="#FFFFFF" hasBackground="false">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;Stop and think before you act.&lt;FONT SIZE="24"&gt; &lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;Decisions made in haste can lead to mental shortcuts, which may rely on inaccurate stereotypes. Slowing down, staying calm, and focusing on the person’s actual symptoms helps prevent these biased judgments.&lt;/FONT&gt;&lt;/P&gt;</Content>
-    <Narrator start="0" x="100" stop="400" y="170">sound/bias_1102.mp3</Narrator>
+    <!-- <Narrator start="0" x="100" stop="400" y="170">sound/bias_1102.mp3</Narrator> -->
     <Image width="240" x="480" height="240" y="-70" text="" targetId="" textColor="#000000">images/Bias_11b.jpg</Image>
     <Video width="240" x="80" height="167" y="245" autostart="false"/>
   <navigation/></screen><screen>
     <screen_id x="200" y="210">1303</screen_id>
     <Template>4</Template>
     <Content width="400" x="-20" height="380" y="-110" bgColor="#FFFFFF" hasBackground="false">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;Using shared decision making helps reduce bias. Involving another trained person gives a second perspective and forces you to question quick assumptions. Two heads provide different ways of thinking, which helps you spot any biased judgments and make safer, more accurate decisions for the patient.&lt;FONT SIZE="24"&gt; &lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;</Content>
-    <Narrator start="0" x="100" stop="400" y="170">sound/bias_1103.mp3</Narrator>
+    <!-- <Narrator start="0" x="100" stop="400" y="170">sound/bias_1103.mp3</Narrator> -->
     <Image width="240" x="480" height="240" y="-70" text="" targetId="" textColor="#000000">images/Bias_11c.jpg</Image>
     <Video width="240" x="80" height="167" y="245" autostart="false"/>
   <navigation/></screen><screen>
     <screen_id x="200" y="210">1304</screen_id>
     <Template>4</Template>
-    <Content width="400" x="-20" height="380" y="-110" bgColor="#FFFFFF" hasBackground="false"><![CDATA[<p align="LEFT"><span style="color: #000000; font-size: 24px;">In adult first aid, try to involve another trained person when possible. Two heads are better than one, and discussing the situation can bring different perspectives that help you question rushed or biased decisions. This teamwork reduces the chance of relying on stereotypes during emergencies.</span></p>
+    <Content width="400" x="-20" height="380" y="-110" bgColor="#FFFFFF" hasBackground="false"><![CDATA[<p align="LEFT"><span style="color: #000000; font-size: 24px;">Try to involve another trained person when possible. Two heads are better than one, and discussing the situation can bring different perspectives that help you question rushed or biased decisions. This teamwork reduces the chance of relying on stereotypes during emergencies.</span></p>
 <p align="LEFT">&nbsp;</p>
 <p align="LEFT"><span style="font-size: 24px;"</span></p>]]></Content>
-    <Narrator start="0" x="100" stop="400" y="170">sound/BLM_1304.mp3</Narrator>
+    <!-- <Narrator start="0" x="100" stop="400" y="170">sound/BLM_1304.mp3</Narrator> -->
     <Image width="240" x="480" height="240" y="-70" text="" targetId="" textColor="#000000">images/Bias_11d.jpg</Image>
     <Video width="240" x="80" height="167" y="245" autostart="false"/>
   <navigation/></screen><screen>
     <screen_id x="200" y="210">1305</screen_id>
     <Template>4</Template>
-    <Content width="370" x="0" height="380" y="-80" bgColor="#FFFFFF" hasBackground="false">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;In first aid for adults, make an effort to see beyond physical appearance and focus on the person’s symptoms, feelings, and needs. When you look past surface traits and treat people as individuals, you naturally reduce the influence of bias and provide more respectful, person-centred care..&lt;FONT SIZE="24"&gt; &lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;</Content>
-    <Narrator start="0" x="100" stop="400" y="170">sound/bias_1105.mp3</Narrator>
+    <Content width="370" x="0" height="380" y="-80" bgColor="#FFFFFF" hasBackground="false">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;Make an effort to see beyond physical appearance and focus on the person’s symptoms, feelings, and needs. When you look past surface traits and treat people as individuals, you naturally reduce the influence of bias and provide more respectful, person-centred care..&lt;FONT SIZE="24"&gt; &lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;</Content>
+    <!-- <Narrator start="0" x="100" stop="400" y="170">sound/bias_1105.mp3</Narrator> -->
     <Image width="240" x="480" height="240" y="-70" text="" targetId="" textColor="#000000">images/Bias_11e.jpg</Image>
     <Video width="240" x="80" height="167" y="245" autostart="false"/>
   <navigation/></screen><screen>
     <screen_id x="200" y="210">1306</screen_id>
     <Template>4</Template>
     <Content width="400" x="0" height="380" y="-110" bgColor="#FFFFFF" hasBackground="false">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;During first aid situations, notice if someone is being overlooked or not receiving attention. This can be a sign of bias at play. Make a conscious effort to include and support anyone who might be ignored, ensuring that every adult gets equal care and consideration.&lt;FONT SIZE="24"&gt; &lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;</Content>
-    <Narrator start="0" x="100" stop="400" y="170">sound/bias_1106.mp3</Narrator>
-    <Image width="240" x="480" height="240" y="-70" text="" targetId="" textColor="#000000">images/Bias_11f.jpg</Image>
+    <!-- <Narrator start="0" x="100" stop="400" y="170">sound/bias_1106.mp3</Narrator> -->
+    <Image width="240" x="480" height="240" y="-70" text="" targetId="" textColor="#000000">images/overcome_bias3.jpg</Image>
     <Video width="240" x="80" height="167" y="245" autostart="false"/>
   <navigation/></screen><screen>
     <screen_id x="200" y="210">1307</screen_id>
     <Template>4</Template>
     <Content width="370" x="0" height="380" y="-80" bgColor="#FFFFFF" hasBackground="false">&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;Take a break if you are stressed.&lt;FONT SIZE="24"&gt; &lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;FONT SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;Take a brief moment to breathe and reset. Stress can lead to rushed, biased decisions. Staying calm helps you think clearly and provide fair, accurate, and safe care.&lt;/FONT&gt;&lt;/P&gt;</Content>
-    <Narrator start="0" x="100" stop="400" y="170">sound/bias_1107.mp3</Narrator>
-    <Image width="240" x="480" height="240" y="-70" text="" targetId="" textColor="#000000">images/Bias_11g.jpg</Image>
+    <!-- <Narrator start="0" x="100" stop="400" y="170">sound/bias_1107.mp3</Narrator> -->
+    <Image width="240" x="480" height="240" y="-70" text="" targetId="" textColor="#000000">images/stressed.jpeg</Image>
     <Video width="240" x="80" height="167" y="245" autostart="false"/>
   <navigation/></screen><screen>
     <screen_id x="180" y="180" keywords="Silhouettes, Discussion, Manager, Businessman, Businesswoman, Thinking, Talking, Negotiation, Mediation, Consultation">14</screen_id>
@@ -619,9 +626,9 @@ The correct way to decide who to help first is by medical need, not appearance. 
 <p align="LEFT"><font face="Arial"><span style="font-size: 24px;">&nbsp;</span></font></p>
 <p align="LEFT"><font face="Arial"><span style="font-size: 24px;">.</span></font></p>
 <p>&nbsp;</p>]]></Content>
-    <Narrator x="-50" y="325" start="">sound/BLM_14.mp3</Narrator>
+    <!-- <Narrator x="-50" y="325" start="">sound/BLM_14.mp3</Narrator> -->
     <Flash x="" y="" width="" height="">swf/three_people_meeting.swf</Flash>
-    <Image x="-168" y="-206" width="507" height="691">images/blm.png</Image>
+    <Image x="-168" y="-206" width="507" height="691">images/equality.jpg</Image>
     <Video x="80" y="245" width="240" height="167" autostart="false"/>
     <Background>images/4.jpg</Background>
     <information><![CDATA[<A HREF="http://www.youtube.com/watch?v=hY2bsNFHPVU" TARGET="_blank"><U>Click here for this screen's basic instruction video</U></A>…</FONT></P>
@@ -635,9 +642,10 @@ Child Screens: The Title and Content change the text displayed, add/remove child
 <p align="LEFT"><font face="Arial"><span style="font-size: 24px;">&nbsp;</span></font></p>
 <p align="LEFT"><font face="Arial"><span style="font-size: 24px;"></span></font></p>
 <p>&nbsp;</p>]]></Content>
-    <Narrator x="-50" y="325" start="">sound/BLM_1401.mp3</Narrator>
-    <Image x="-103" y="-76" width="224" height="220" swfSizing="stage">swf/Element_speak_bubble_talk_much.swf</Image>
-    <Video x="80" y="245" width="240" height="167" autostart="false"/>
+    <!-- <Narrator x="-50" y="325" start="">sound/BLM_1401.mp3</Narrator> -->
+    <!-- <Image x="-103" y="-76" width="224" height="220" swfSizing="stage">images/racism.jpeg</Image> -->
+    <Background>images/racism.jpeg</Background>
+    <!-- <Video x="80" y="245" width="240" height="167" autostart="false"/> -->
   <navigation/></screen><screen>
     <screen_id x="180" y="180">1402</screen_id>
     <Template>4</Template>
@@ -645,9 +653,10 @@ Child Screens: The Title and Content change the text displayed, add/remove child
 <p align="LEFT"><font face="Arial"><span style="font-size: 24px;">&nbsp;</span></font></p>
 <p align="LEFT"><font face="Arial"><span style="font-size: 24px;">In a first aid setting, staying silent when witnessing racist behavior sends the message that it’s acceptable. This can lead to increasingly harmful actions, affecting the quality of care. Challenging racism early helps prevent it from escalating and ensures fair treatment for all patients.&nbsp;</span></font></p>
 <p>&nbsp;</p>]]></Content>
-    <Narrator x="-50" y="325" start="">sound/BLM_1402.mp3</Narrator>
-    <Image x="92" y="-68" width="235" height="225" swfSizing="stage">swf/Element_speak_bubble_talk_repeat.swf</Image>
-    <Video x="80" y="245" width="240" height="167" autostart="false"/>
+    <!-- <Narrator x="-50" y="325" start="">sound/BLM_1402.mp3</Narrator> -->
+    <!-- <Image x="92" y="-68" width="235" height="225" swfSizing="stage">images/racism.jpeg</Image> -->
+    <Background>images/racism.jpeg</Background>
+    <!-- <Video x="80" y="245" width="240" height="167" autostart="false"/> -->
   <navigation/></screen><screen>
     <screen_id x="100" y="50" keywords="Empty, Template, Clean">15</screen_id>
     <Template>4</Template>
@@ -656,11 +665,11 @@ Child Screens: The Title and Content change the text displayed, add/remove child
 <p align="LEFT"><font face="Arial"><span style="font-size: 24px;">&nbsp;</span></font></p>
 <p align="LEFT"><font face="Arial"><span style="font-size: 24px;"></span></font></p>
 <p>&nbsp;</p>]]></Content>
-    <Narrator x="-50" y="325" start="">sound/BLM_15.mp3</Narrator>
+    <!-- <Narrator x="-50" y="325" start="">sound/BLM_15.mp3</Narrator> -->
     <Flash x="" y="" width="" height="" targetId="" text="" textColor="#000000">swf/empty.swf</Flash>
     <Image x="" y="" width="" height="" targetId="" text="" textColor="#000000"/>
     <Video x="80" y="245" width="240" height="167" autostart="false"/>
-    <Background>images/BLM_15.jpg</Background>
+    <Background>images/racism_public.jpg</Background>
     <information><![CDATA[<A HREF="http://www.youtube.com/watch?v=gMrrybE8784&feature=youtube_gdata" TARGET="_blank"><U>Click here for this screen's instruction video</U></A>…</FONT></P>
 This is a basic template.
 Main Screen: Title and Content change the text displayed on the screen.
@@ -669,37 +678,37 @@ Add or remove child screens to alter the length of the slideshow.]]></informatio
     <screen_id x="100" y="50">1501</screen_id>
     <Template>4</Template>
     <Content x="-41" y="179" width="302" height="300" hasBackground="true" bgColor="#ffffff" bgAlpha="0.95"><![CDATA[<p align="LEFT"><font face="Arial"><span style="font-size: 24px;">In such cases you might need to gently step in and let the person know that what they said or did isn’t appropriate and could upset or harm others, while reinforcing that all patients must be treated with respect and fairness.&nbsp;&nbsp;</span></font></p>]]></Content>
-    <Narrator x="-50" y="325" start="">sound/BLM_1501.mp3</Narrator>
+    <!-- <Narrator x="-50" y="325" start="">sound/BLM_1501.mp3</Narrator> -->
     <Image x="" y="" width="" height="" targetId="" text="" textColor="#000000"/>
     <Video x="80" y="245" width="240" height="167" autostart="false"/>
-  <Background>images/BLM_1501.jpg</Background><navigation/></screen><screen>
+  <Background>images/hands.jpeg</Background><navigation/></screen><screen>
     <screen_id x="100" y="50">1502</screen_id>
     <Template>4</Template>
-    <Content x="72" y="249" width="679" height="300" hasBackground="true" bgColor="#ffffff" bgAlpha="0.95"><![CDATA[<p align="LEFT"><font face="Arial"><span style="font-size: 24px;">In first aid for adults, the goal isn’t to argue but to help others understand that their behaviour affects people. You can express how the comment or action made you feel—hurt, uncomfortable, or disappointed—and acknowledge how it may impact the team providing care. Highlight that divisive behaviour can disrupt cooperation during an emergency, and remind everyone that effective first aid relies on working together respectfully and without fear of harassment.&nbsp;</span></font></p>
+    <Content x="72" y="249" width="679" height="300" hasBackground="true" bgColor="#ffffff" bgAlpha="0.95"><![CDATA[<p align="LEFT"><font face="Arial"><span style="font-size: 24px;">The goal isn’t to argue but to help others understand that their behaviour affects people. You can express how the comment or action made you feel—hurt, uncomfortable, or disappointed—and acknowledge how it may impact the team providing care. Highlight that divisive behaviour can disrupt cooperation during an emergency, and remind everyone that effective first aid relies on working together respectfully and without fear of harassment.&nbsp;</span></font></p>
 <p align="LEFT"><font face="Arial"><span style="font-size: 24px;">&nbsp;</span></font></p>
 <p align="LEFT"><font face="Arial"><span style="font-size: 24px;"></span></font></p>]]></Content>
-    <Narrator x="-50" y="325" start="">sound/BLM_1502.mp3</Narrator>
+    <!-- <Narrator x="-50" y="325" start="">sound/BLM_1502.mp3</Narrator> -->
     <Image x="" y="" width="" height="" targetId="" text="" textColor="#000000"/>
     <Video x="80" y="245" width="240" height="167" autostart="false"/>
-  <Background>images/BLM_1502.jpg</Background><navigation/></screen><screen>
+  <Background>images/helping_people.jpg</Background><navigation/></screen><screen>
     <screen_id x="100" y="50">1503</screen_id>
     <Template>4</Template>
     <Content x="114" y="306" width="650" height="150" hasBackground="true" bgColor="#ffffff" bgAlpha="0.95"><![CDATA[<p align="LEFT"><span style="font-family: Arial;"><span style="font-size: 24px;">The person who made the comment may not realise their mistake and might feel embarrassed when it’s pointed out. With awareness, they will often acknowledge it and offer an apology.</span></span></p>]]></Content>
-    <Narrator x="-50" y="325" start="">sound/BLM_1503.mp3</Narrator>
+    <!-- <Narrator x="-50" y="325" start="">sound/BLM_1503.mp3</Narrator> -->
     <Image x="" y="" width="" height="" targetId="" text="" textColor="#000000"/>
     <Video x="80" y="245" width="240" height="167" autostart="false"/>
-  <Background>images/BLM_1503.jpg</Background><navigation/></screen><screen>
+  <Background>images/apologize.png</Background><navigation/></screen><screen>
     <screen_id x="100" y="50" keywords="Empty, Template, Clean">16</screen_id>
     <Template>4</Template>
     <Section>&lt;p&gt;&lt;font face="Arial"&gt;Handling Racism in Private&lt;/font&gt;&lt;/p&gt;</Section>
     <Content x="2" y="172" width="458" height="350" hasBackground="true" bgColor="#ffffff" padding="10" bgAlpha="0.95"><![CDATA[<p align="LEFT"><span style="font-family: Arial;"><span style="font-size: 24px;"><strong>A Private Conversation</strong></span></span></p>
 <p align="LEFT">&nbsp;</p>
 <p align="LEFT"><span style="font-family: Arial;"><span style="font-size: 24px;">If you don’t feel safe or there isn’t a suitable moment to speak up, you can address the behaviour later when things are calmer. Confronting racism can be uncomfortable and may lead to disagreement, which is why it’s important to have the conversation privately and in a controlled setting where everyone can speak openly and safely.&nbsp;</span></span></p>]]></Content>
-    <Narrator x="-50" y="325" start="">sound/BLM_16.mp3</Narrator>
+    <!-- <Narrator x="-50" y="325" start="">sound/BLM_16.mp3</Narrator> -->
     <Flash x="" y="" width="" height="" targetId="" text="" textColor="#000000">swf/empty.swf</Flash>
     <Image x="" y="" width="" height="" targetId="" text="" textColor="#000000"/>
     <Video x="80" y="245" width="240" height="167" autostart="false"/>
-    <Background>images/BLM_16.jpg</Background>
+    <Background>images/private_talk.png</Background>
     <information><![CDATA[<A HREF="http://www.youtube.com/watch?v=gMrrybE8784&feature=youtube_gdata" TARGET="_blank"><U>Click here for this screen's instruction video</U></A>…</FONT></P>
 This is a basic template.
 Main Screen: Title and Content change the text displayed on the screen.
@@ -708,32 +717,32 @@ Add or remove child screens to alter the length of the slideshow.]]></informatio
     <screen_id x="100" y="50">1601</screen_id>
     <Template>4</Template>
     <Content x="570" y="187" width="380" height="360" hasBackground="true" bgColor="#ffffff" bgAlpha="0.95"><![CDATA[<p align="LEFT"><span style="font-size: 24px;">Explain that even unintentional words or actions can cause harm during first aid—making someone feel unsafe, disrespected, or reluctant to accept help. By calmly pointing this out, you can highlight the impact without blaming the person, helping them understand why the behaviour was inappropriate and encouraging more respectful actions in the future.&nbsp;</span></p>]]></Content>
-    <Narrator x="-50" y="325" start="">sound/BLM_1601.mp3</Narrator>
+    <!-- <Narrator x="-50" y="325" start="">sound/BLM_1601.mp3</Narrator> -->
     <Image x="" y="" width="" height="" targetId="" text="" textColor="#000000"/>
     <Video x="80" y="245" width="240" height="167" autostart="false"/>
-  <Background>images/BLM_1601.jpg</Background><navigation/></screen><screen>
+  <Background>images/feel_safe.png</Background><navigation/></screen><screen>
     <screen_id x="100" y="50">1602</screen_id>
     <Template>4</Template>
     <Content x="178" y="11" width="650" height="260" hasBackground="true" bgColor="#ffffff" bgAlpha="0.95" padding="10"><![CDATA[<p align="LEFT"><span style="font-size: 24px;">Once an apology is given, it helps re-establish what is respectful and acceptable behaviour. You set a clearer standard for how everyone should act during care. You may not change someone’s beliefs, but you can discourage harmful comments and maintain a safe, supportive environment for the patient.
 <p>&nbsp;</p>]]></Content>
-    <Narrator x="-50" y="325" start="">sound/BLM_1602.mp3</Narrator>
+    <!-- <Narrator x="-50" y="325" start="">sound/BLM_1602.mp3</Narrator> -->
     <Image x="" y="" width="" height="" targetId="" text="" textColor="#000000"/>
     <Video x="80" y="245" width="240" height="167" autostart="false"/>
-  <navigation/><Background>images/BLM_1602.jpg</Background></screen><screen>
+  <navigation/><Background>images/apology_accepted.jpg</Background></screen><screen>
     <screen_id x="100" y="50">1603</screen_id>
     <Template>4</Template>
     <Content x="109" y="312" width="650" height="115" hasBackground="true" bgColor="#ffffff" padding="10" bgAlpha="0.95"><![CDATA[<p align="LEFT"><span style="font-size: 24px;">Taking these small but firm actions helps shift the culture of your team and organisation toward one where everyone is treated fairly and not judged by the colour of their skin.</span></p>]]></Content>
-    <Narrator x="-50" y="325" start="">sound/BLM_1603.mp3</Narrator>
+    <!-- <Narrator x="-50" y="325" start="">sound/BLM_1603.mp3</Narrator> -->
     <Image x="" y="" width="" height="" targetId="" text="" textColor="#000000"/>
     <Video x="80" y="245" width="240" height="167" autostart="false"/>
   <navigation/><Background>images/BLM_1603.jpg</Background></screen><screen>
     <screen_id x="150" y="220" keywords="Silhouettes, Manager, Businessman, Businesswoman, Thinking, Talking, Negotiation, Mediation, Consultation">17</screen_id>
     <Template>4</Template>
     <Section>&lt;p&gt;&lt;font face="Arial"&gt;Harmful Intentions&lt;/font&gt;&lt;/p&gt;</Section>
-    <Content x="107" y="-168" width="564" height="295" hasBackground="false" bgColor="#FFFFFF"><![CDATA[<p align="LEFT"><font face="Arial"><span style="font-size: 24px;">All racism is harmful, but sometimes it is intentional. In first aid for adults, if someone deliberately behaves in a racist way, you should involve HR or your supervisor to address the issue and ensure a safe, respectful environment for everyone..&nbsp;&nbsp;</span></font></p>
+    <Content x="107" y="-168" width="564" height="295" hasBackground="false" bgColor="#FFFFFF"><![CDATA[<p align="LEFT"><font face="Arial"><span style="font-size: 24px;">All racism is harmful, but sometimes it is intentional if someone deliberately behaves in a racist way, you should involve HR or your supervisor to address the issue and ensure a safe, respectful environment for everyone..&nbsp;&nbsp;</span></font></p>
 <p align="LEFT"><font face="Arial"><span style="font-size: 24px;">&nbsp;</span></font></p>
 <p align="LEFT"><font face="Arial"><span style="font-size: 24px;"></span></font></p>]]></Content>
-    <Narrator x="-50" y="325" start="">sound/BLM_17.mp3</Narrator>
+    <!-- <Narrator x="-50" y="325" start="">sound/BLM_17.mp3</Narrator> -->
     <Flash x="" y="" width="" height="" targetId="" text="" textColor="#000000">swf/two_people_meeting.swf</Flash>
     <Image x="" y="" width="" height="" targetId="" text="" textColor="#000000"/>
     <Video x="80" y="245" width="240" height="167" autostart="false"/>
@@ -749,7 +758,7 @@ Child Screens: The Title and Content change the text displayed, add/remove child
     <Content x="-51" y="26" width="957" height="93" hasBackground="true" bgColor="#ffffff" bgAlpha="0.95"><![CDATA[<p align="LEFT"><span style="font-family: Arial;"><span style="font-size: 24px;">We have covered how to identify bias and racism in ourselves and others, and how to respond effectively when confronting racist behaviour in a first aid setting.&nbsp; But there are also many steps we can take to build fair organisations and society.</span></span></p>]]></Content><Content_1 x="168" y="255" width="557" height="180" hasBackground="false" bgColor="#FFFFFF"><![CDATA[<p align="LEFT"><span style="font-family: Arial; font-size: 24px;">Do the difficult things while they are easy and do the great things while they are small. A journey of a thousand miles must begin with a single step.</span></p>
 <p style="text-align: right;" align="LEFT">&nbsp;</p>
 <p style="text-align: right;" align="LEFT"><span style="font-family: Arial; font-size: 24px;">Martin Luther King, Jr.</span></p>]]></Content_1>
-    <Narrator x="-50" y="325" start="">sound/BLM_18.mp3</Narrator>
+    <!-- <Narrator x="-50" y="325" start="">sound/BLM_18.mp3</Narrator> -->
     <Flash x="" y="" width="" height="" targetId="" text="" textColor="#000000">swf/empty.swf</Flash>
     <Image x="253" y="302" width="360" height="424" swfSizing="stage" alpha="0.44">swf/People_man_lecture.swf</Image><Image_1 x="32" y="-82" width="820" height="820" swfSizing="stage">swf/Element_quotes_text_horizontal.swf</Image_1>
     <Video x="80" y="245" width="240" height="167" autostart="false"/>
@@ -766,14 +775,14 @@ Add or remove child screens to alter the length of the slideshow.]]></informatio
 <p align="LEFT"><span style="color: #ffffff;"><font face="Arial"><span style="font-size: 24px;">&nbsp;</span></font></span></p>
 <p align="LEFT"><span style="color: #ffffff;"><font face="Arial"><span style="font-size: 24px;"></span></font></span></p>
 <p>&nbsp;</p>]]></Content>
-    <Narrator x="-50" y="325" start="">sound/BLM_1801.mp3</Narrator>
+    <!-- <Narrator x="-50" y="325" start="">sound/BLM_1801.mp3</Narrator> -->
     <Image x="" y="" width="" height="" targetId="" text="" textColor="#000000"/>
     <Video x="80" y="245" width="240" height="167" autostart="false"/>
-  <Background>images/BLM_1801.jpg</Background><navigation/></screen><screen>
+  <Background>images/pandemic.jpeg</Background><navigation/></screen><screen>
     <screen_id x="100" y="50">1802</screen_id>
     <Template>4</Template>
     <Content x="338" y="-9" width="580" height="520" hasBackground="true" bgColor="#000000" bgAlpha="0.75"><![CDATA[<p align="LEFT"><span style="font-family: Arial; color: #ffffff;"><span style="font-size: 24px;"><strong>Support Safe and Respectful Care</strong></span></span></p>
-<p align="LEFT"><span style="font-family: Arial; color: #ffffff;"><span style="font-size: 24px;">In first aid for adults, another way to promote fairness and safety is to support organizations and initiatives that work to prevent discrimination and harm in healthcare and emergency response. Encourage your team or organisation to contribute time, resources, or training to programs that promote equity, respectful treatment, and inclusive care for all patients.&nbsp;</span></span></p>
+<p align="LEFT"><span style="font-family: Arial; color: #ffffff;"><span style="font-size: 24px;">Another way to promote fairness and safety is to support organizations and initiatives that work to prevent discrimination and harm in healthcare and emergency response. Encourage your team or organisation to contribute time, resources, or training to programs that promote equity, respectful treatment, and inclusive care for all patients.&nbsp;</span></span></p>
 <p align="LEFT"><span style="font-family: Arial; color: #ffffff;"><span style="font-size: 24px;">&nbsp;</span></span></p>
 <p align="LEFT"><span style="font-family: Arial; color: #ffffff;"><span style="font-size: 24px;">Ask your organisation to contribute time or money to one of the following funds:</span></span></p>
 <p align="LEFT">&nbsp;</p>
@@ -781,16 +790,16 @@ Add or remove child screens to alter the length of the slideshow.]]></informatio
 <p style="text-align: right;" align="LEFT"><span style="font-family: Arial; color: #ffffff;"><span style="font-size: 24px;"><strong>Campaign for Safe Emergency Response</strong></span></span></p>
 <p style="text-align: right;" align="LEFT"><span style="font-family: Arial; color: #ffffff;"><span style="font-size: 24px;"><strong>Citizens Care Quality Project</strong></span></span></p>
 <p style="text-align: right;" align="LEFT"><span style="font-family: Arial; color: #ffffff;"><span style="font-size: 24px;"><strong>Center for Inclusive First Aid Practices</strong></span></span></p>]]></Content>
-    <Narrator x="-50" y="325" start="">sound/BLM_1802.mp3</Narrator>
-    <Image x="" y="" width="" height="" targetId="" text="" textColor="#000000"/>
+    <!-- <Narrator x="-50" y="325" start="">sound/BLM_1802.mp3</Narrator> -->
+ <Image x="" y="" width="" height="" targetId="" text="" textColor="#000000"/>
     <Video x="80" y="245" width="240" height="167" autostart="false"/>
-  <Background>images/BLM_1802.jpg</Background><navigation/></screen><screen>
+  <Background>images/support.jpeg</Background><navigation/></screen><screen>
     <screen_id x="100" y="50">1803</screen_id>
     <Template>4</Template>
     <Content x="43" y="355" width="518" height="316" hasBackground="false" bgColor="#000000" bgAlpha="0.75"><![CDATA[<p align="LEFT"><span style="color: #000000;"><span style="font-family: Arial;"><span style="font-size: 24px;"><strong>Plan for Advocacy and Awareness</strong></span></span></span></p>
 <p align="LEFT"><span style="color: #000000;"><span style="font-family: Arial;"><span style="font-size: 24px;">You can support social causes by planning ahead for participation in awareness or advocacy events. Speak with your supervisor or HR about taking time off under special circumstances, as exceptions can sometimes be made even when notice periods are short.</span></span></span></p>
 <p>&nbsp;</p>]]></Content>
-    <Narrator x="-50" y="325" start="">sound/BLM_1803.mp3</Narrator>
+    <!-- <Narrator x="-50" y="325" start="">sound/BLM_1803.mp3</Narrator> -->
     <Image x="" y="" width="" height="" targetId="" text="" textColor="#000000"/>
     <Video x="80" y="245" width="240" height="167" autostart="false"/>
   <Background>images/BLM_1803.jpg</Background><navigation/></screen><screen>
@@ -801,7 +810,7 @@ Add or remove child screens to alter the length of the slideshow.]]></informatio
 <p align="LEFT"><font color="#ffffff" face="Arial"><span style="font-size: 24px;">&nbsp;</span></font></p>
 <p align="LEFT"><font color="#ffffff" face="Arial"><span style="font-size: 24px;"></span></font></p>
 <p>&nbsp;</p>]]></Content>
-    <Narrator x="-50" y="325" start="">sound/BLM_1804.mp3</Narrator>
+    <!-- <Narrator x="-50" y="325" start="">sound/BLM_1804.mp3</Narrator> -->
     <Image x="" y="" width="" height="" targetId="" text="" textColor="#000000"/>
     <Video x="80" y="245" width="240" height="167" autostart="false"/>
   <Background>images/BLM_1804.jpg</Background><navigation/></screen><screen>
@@ -812,7 +821,7 @@ Add or remove child screens to alter the length of the slideshow.]]></informatio
 <p align="LEFT"><span style="color: #000000;"><span style="font-family: Arial;"><span style="font-size: 24px;">&nbsp;</span></span></span></p>
 <p align="LEFT"><span style="color: #000000;"><span style="font-family: Arial;"><span style="font-size: 24px;"></span></span></span></p>
 <p>&nbsp;</p>]]></Content>
-    <Narrator x="-50" y="325" start="">sound/BLM_1805.mp3</Narrator>
+    <!-- <Narrator x="-50" y="325" start="">sound/BLM_1805.mp3</Narrator> -->
     <Image x="" y="" width="" height="" targetId="" text="" textColor="#000000"/>
     <Video x="80" y="245" width="240" height="167" autostart="false"/>
   <Background>images/BLM_1805.jpg</Background><navigation/></screen><screen>
@@ -820,7 +829,7 @@ Add or remove child screens to alter the length of the slideshow.]]></informatio
     <Template>1</Template>
     <Section>Quiz</Section>
     <Content x="100" y="-70" width="450" height="50" hasBackground="false" bgColor="#FFFFFF">&lt;P ALIGN="LEFT"&gt;&lt;FONT FACE="Arial" SIZE="24" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;Complete the quiz before continuing.&lt;/FONT&gt;&lt;/P&gt;</Content>
-    <Narrator x="740" y="260" start="0" stop="400"/>
+    <!-- <Narrator x="740" y="260" start="0" stop="400"/> -->
     <Image x="" y="" width="" height="" targetId="" text="" textColor="#000000"/>
     <Video x="80" y="245" width="240" height="167" autostart="false"/>
     <Quizes>
@@ -857,7 +866,7 @@ Add or remove child screens to alter the length of the slideshow.]]></informatio
     <Content x="329" y="58" width="673" height="232" hasBackground="false" bgColor="#FFFFFF"><![CDATA[<p align="LEFT"><span style="color: #ffffff; font-family: Arial;"><span style="font-size: 24px;">Many thanks for undertaking the training. Please check our website for updates in the elearning as this course will be regularly revised.</span></span></p>
 <p align="LEFT"><span style="color: #ffffff; font-family: Arial;"><span style="font-size: 24px;">&nbsp;</span></span></p>
 <p align="LEFT"><span style="color: #ffffff; font-family: Arial;"><span style="font-size: 24px;">Should you want to make your own changes then contact us about using Open eLMS Creator to edit this course or <a href="https://www.e-learningwmb.com/easy-to-use-and-comprehensive-lms/products/elearning-authoring/" target="_blank" rel="noopener"><span style="text-decoration: underline; color: #c2e0f4;">visit this page</span></a> for further information about this online authoring tool.</span></span></p>]]></Content><Content_1 x="797" y="456" width="242" height="22" hasBackground="false" bgColor="#000000"><![CDATA[<p align="LEFT"><span style="color: #ffffff; font-size: 16px;"><span style="font-family: Arial;">Also <a href="https://www.e-learningwmb.com/portfolio/coronavirus-awareness/" target="_blank" rel="noopener"><span style="text-decoration: underline;"><span style="color: #c2e0f4; text-decoration: underline;">see this free course</span></span></a> on ...</span></span></p>]]></Content_1>
-    <Narrator x="-10" y="129" start="" width="298" height="478">video/BLM_20.flv</Narrator>
+    <!-- <Narrator x="-10" y="129" start="" width="298" height="478">video/BLM_20.flv</Narrator> -->
     <Flash x="" y="" width="" height="" targetId="" text="" textColor="#000000">swf/stage 2.swf</Flash>
     <Image x="796" y="329" width="232" height="98" swfSizing="stage" targetId="">images/OpeneLMS_no_stress_Creator.png</Image><Image_1 x="407" y="258" width="400" height="400">swf/Element_tv_screen.swf</Image_1><Image_2 x="899" y="489" width="127" height="110" swfSizing="stage" targetId="">images/Element_corona.png</Image_2>
     <Video x="469" y="355" width="284" height="163" autostart="false">
